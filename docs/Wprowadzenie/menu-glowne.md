@@ -5,3 +5,68 @@ title: Menu główne
 ---
 
 # Menu główne
+
+zrzut ekranu przedstawiający zwinięte menu główne
+
+Menu główne to lewy, pionowy panel w systemie SPUMA, który umożliwia użytkownikowi dostęp do głównych sekcji aplikacji. Jest ono **zwijane i rozwijane**, a każda sekcja może zawierać podkategorie i dokumenty.
+**Każda pozycja w menu głównym otwiera osobne okno robocze**, dopasowane do funkcji danej sekcji – np. repozytorium, raporty, sekretariat czy kosz. Zawartość obszaru roboczego zmienia się dynamicznie w zależności od wybranej pozycji w menu.
+
+## Struktura menu głównego
+
+Poniżej przedstawiono główne sekcje menu oraz ich przeznaczenie:
+
+### Sekretariat
+
+Miejsce, gdzie rozpoczyna się obieg dokumentów. Dodaje się tu dokumenty nieprzetworzone.
+
+### Wynik wyszukiwania
+
+Tymczasowe miejsce, w którym pojawiają się wyniki globalnego wyszukiwania z paska menu.
+
+### Moje
+
+Sekcja związana z aktywnością użytkownika:
+
+- **Oczekujące** – dokumenty wymagające Twojej reakcji
+- **Ulubione** – dokumenty oznaczone przez Ciebie
+- **Ostatnie** – ostatnio otwierane dokumenty
+
+### Dokumenty elektroniczne
+
+Dostęp do e-dokumentów, takich jak faktury z KSeF lub inne zintegrowane źródła zewnętrzne.
+
+### Repozytorium
+
+Główna część zarządzania dokumentami – z podziałem na zdefiniowane kategorie:
+
+- **-- Główny --** – domyślne repozytorium dokumentów
+- **BIURO ZARZĄDU**, **KSEF**, **SAP** – repozytoria tematyczne
+- Liczby przy kategoriach oznaczają liczbę dokumentów
+
+### Raporty
+
+Dostęp do sekcji raportów, takich jak:
+
+- Oczekujące dokumenty
+- Lista dokumentów
+- Dokumenty klientów
+- Zatwierdzenia dostępu
+
+### Dzienniki korespondencji
+
+Obsługa dzienników wpływu i wypływu korespondencji.
+
+### Kosz
+
+Zawiera usunięte dokumenty – możliwe do odzyskania lub trwałego usunięcia (w zależności od uprawnień).
+
+---
+
+## Zachowanie menu
+
+- Menu można **rozwijać i zwijać** .
+- Sekcje menu **rozwijać i zwijać**.
+- Widok jest dynamiczny i dopasowany do roli użytkownika – niektóre sekcje mogą być ukryte.
+
+---
+

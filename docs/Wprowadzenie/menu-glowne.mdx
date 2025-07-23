@@ -6,27 +6,10 @@ title: Menu główne
 
 # Menu główne
 
-<div
-  style={{
-    display: 'grid',
-    gridTemplateColumns: '1fr 2fr',
-    gap: '1.5rem',
-    alignItems: 'start',
-    maxWidth: '1000px',
-    margin: '2rem auto',
-  }}
->
-  <img
-    src="/img/menu.png"
-    alt="Menu"
-    style={{
-      width: '100%',
-      maxWidth: '300px',
-      height: 'auto',
-      borderRadius: '8px',
-      boxShadow: '0 2px 8px rgba(0, 0, 0, 0.1)',
-    }}
-  />
+<div style={{ display: 'flex', gap: '2rem' }}>
+  <div>
+    <img src="/img/menu.png" alt="Menu główne" style={{ width: '200px' }} />
+  </div>
   <div>
     <p>
       Menu główne to lewy, pionowy panel w systemie SPUMA, który umożliwia użytkownikowi dostęp do głównych sekcji aplikacji. Jest ono **zwijane i rozwijane**, a       każda sekcja może zawierać podkategorie i dokumenty.
@@ -90,7 +73,7 @@ Zawiera usunięte dokumenty – możliwe do odzyskania lub trwałego usunięcia 
 ## Zachowanie menu
 
 - Menu można **rozwijać i zwijać** .
-- Sekcje menu **rozwijać i zwijać**.
+- Sekcje menu można **rozwijać i zwijać**.
 - Widok jest dynamiczny i dopasowany do roli użytkownika – niektóre sekcje mogą być ukryte.
 
 ---

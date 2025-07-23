@@ -61,7 +61,7 @@ Wyszukiwanie kontekstowe to mechanizm dostępny **wewnątrz obszaru roboczego**,
 
 ### Gdzie znajduje się pasek wyszukiwania?
 
-Pojawia się automatycznie w górnej części obszaru roboczego. Składa się z kilku ikon funkcjonalnych:
+Pojawia się automatycznie w dolnej części obszaru roboczego. Składa się z kilku ikon funkcjonalnych:
 
 | Ikona | Funkcja | Opis |
 |-------|---------|------|

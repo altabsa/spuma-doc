@@ -23,9 +23,10 @@ Po kliknięciu w dowolną pozycję z **menu głównego** (np. „Oczekujące”,
 Na górze pojawia się pasek z nazwą aktywnej sekcji, a poniżej wyświetlana jest:
 
 - lista dokumentów w danej kategorii lub folderze,
-- **lub komunikat "Brak wpisów"**, gdy dokumenty nie istnieją.
+- komunikat „Brak wpisów”, jeśli dokumentów nie ma,
+- **lub dokument do przetwarzania**, jeśli został wybrany z listy.
 
-### Przykład widoku sekcji z dokumentami:
+### Przykład listy dokumentów z podglądem i edycją:
 
 Zrzut ekranu
 

@@ -6,7 +6,36 @@ title: Menu główne
 
 # Menu główne
 
-zrzut ekranu przedstawiający zwinięte menu główne
+<div
+  style={{
+    display: 'grid',
+    gridTemplateColumns: '1fr 2fr',
+    gap: '1.5rem',
+    alignItems: 'start',
+    maxWidth: '1000px',
+    margin: '2rem auto',
+  }}
+>
+  <img
+    src="/img/menu.png"
+    alt="Menu"
+    style={{
+      width: '100%',
+      maxWidth: '300px',
+      height: 'auto',
+      borderRadius: '8px',
+      boxShadow: '0 2px 8px rgba(0, 0, 0, 0.1)',
+    }}
+  />
+  <div>
+    <p>
+      Menu główne to lewy, pionowy panel w systemie SPUMA, który umożliwia użytkownikowi dostęp do głównych sekcji aplikacji. Jest ono **zwijane i rozwijane**, a       każda sekcja może zawierać podkategorie i dokumenty.
+      **Każda pozycja w menu głównym otwiera osobne okno robocze**, dopasowane do funkcji danej sekcji – np. repozytorium, raporty, sekretariat czy kosz.               Zawartość obszaru roboczego zmienia się dynamicznie w zależności od wybranej pozycji w menu.
+    </p>
+  </div>
+</div>
+
+
 
 Menu główne to lewy, pionowy panel w systemie SPUMA, który umożliwia użytkownikowi dostęp do głównych sekcji aplikacji. Jest ono **zwijane i rozwijane**, a każda sekcja może zawierać podkategorie i dokumenty.
 **Każda pozycja w menu głównym otwiera osobne okno robocze**, dopasowane do funkcji danej sekcji – np. repozytorium, raporty, sekretariat czy kosz. Zawartość obszaru roboczego zmienia się dynamicznie w zależności od wybranej pozycji w menu.

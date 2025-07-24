@@ -12,9 +12,9 @@ Kliknięcie przycisku ![Nowy](/img/nowy.png) w pasku narzędzi otwiera specjalne
 
 W oknie dodawania dokumentu użytkownik może:
 
-- **Wybrać pliki** z lokalnego komputera
--  **Przeciągnąć pliki** bezpośrednio do obszaru
-- Włączyć lub wyłączyć automatyczne rozpoznawanie treści (**OCR**)
-- Przejść do tworzenia nowego dokumentu
+1. **Wybrać pliki** z lokalnego komputera
+2.  **Przeciągnąć pliki** bezpośrednio do obszaru
+3. Włączyć lub wyłączyć automatyczne rozpoznawanie treści (**OCR**)
+4. Przejść do tworzenia nowego dokumentu
 
 Po zatwierdzeniu, dokumenty trafiają do listy w sekretariacie, gdzie mogą być dalej przetwarzane lub klasyfikowane.

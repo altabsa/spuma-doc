@@ -68,7 +68,7 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 - Aktywny filtr - ikona jest podświetlona:
   ![filtr-zastosowany](/img/filtr_zastosowany.png)
   
-- Nieaktywny filtr - ikona jest:
+- Nieaktywny filtr - ikona nie jest podświetlona:
 
    ![filtr](/img/filtr.png)
 

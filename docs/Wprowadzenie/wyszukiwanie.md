@@ -33,7 +33,7 @@ Kliknięcie w ikonę **filtra z plusem** otwiera panel filtrów:
 
 ![filtr](/img/filtr2.png)
 
-Dostępne sekcje:
+### Dostępne sekcje filtrów
 
 1. **Właściciel** – wybór użytkownika, do którego należy dokument / **Typ** – typ dokumentu / **Autoryzacje** – typ autoryzacji
 

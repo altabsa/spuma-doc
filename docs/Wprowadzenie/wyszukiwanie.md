@@ -102,30 +102,31 @@ Pojawia się automatycznie w dolnej części obszaru roboczego. Składa się z k
 
 | Ikona | Funkcja | Opis |
 |-------|---------|------|
-|- | Wyszukaj | Wprowadź słowa kluczowe, by przeszukać dokumenty tylko w bieżącej lokalizacji. |
-| - | Sortowanie | Umożliwia zmianę kolejności wyników (np. alfabetycznie, po dacie, właścicielu). |
-| - | Filtry | Umożliwia zaawansowane filtrowanie wyników według typu, właściciela, statusu itd. |
-| - | Wyczyść filtry | Przywraca domyślne ustawienia wyszukiwania. |
+| ![Wyszukaj](/img/szukaj3.png) | Wyszukaj | Wprowadź słowa kluczowe, by przeszukać dokumenty tylko w bieżącej lokalizacji. |
+| ![Sortuj](/img/sortuj.png) | Sortowanie | Umożliwia zmianę kolejności wyników (np. alfabetycznie, po dacie, właścicielu). |
+| ![Filtr](/img/filtr3.png) | Filtry | Umożliwia zaawansowane filtrowanie wyników według typu, właściciela, statusu itd. |
+| ![Usun_filtr](/img/usun_filtr.png)  ![Usun_filtr](/img/usun_filtr.png) | Wyczyść filtry | Przywraca domyślne ustawienia wyszukiwania. Ikona niebieska oznacza, że filtr jest aktywny, a wyszarzona, że jest nieaktywny.|
 
 ---
 ### Filtry kontekstowe
 
-Filtry otwierają się po kliknięciu ikony lejka. W zależności od kontekstu (repozytorium/folderu), mogą zawierać takie sekcje jak:
-
-zrzut ekranu
+Filtry otwierają się po kliknięciu ikony lejka. W zależności od kontekstu (repozytorium/folderu).Działają identycznie jak w wyszukiwaniu globalnym. Mogą zawierać takie sekcje jak:
 
 - **Klasy**
 - **Schemat**
 - **Użytkownik**
 - **Status autoryzacji**
 - **Kontrahent**
+
+![Filtr-kontekstowy](/img/filtr_kontekstowy.png)
+
 ---
 
 ### Wyniki kontekstowe
 
 Po wpisaniu frazy i zatwierdzeniu (Enter lub kliknięcie lupki), wyniki pojawiają się **bezpośrednio powyżej**, w tabeli dokumentów.
 
-- Lista wyszukiwania jest ograniczona do aktualnie otwartej sekcji (np. tylko folder `KSEF`)
+- Lista wyszukiwania jest ograniczona do aktualnie otwartej sekcji (np. tylko folder KSEF)
 - Można wykonywać dalsze operacje: edycja, podgląd, eksport itd.
 ---
 
@@ -137,7 +138,7 @@ Po wpisaniu frazy i zatwierdzeniu (Enter lub kliknięcie lupki), wyniki pojawiaj
 | Szukasz tylko w repozytorium | ❌ Nie | ✅ Tak |
 | Chcesz wyszukać i od razu edytować | ✅ Tak | ✅ Tak |
 
-Można również łączyć oba mechanizmy wyszukiwania – przykładowo: najpierw skorzystać z wyszukiwania globalnego, aby odnaleźć wszystkie dokumenty zawierające daną frazę (np. nazwę), a następnie, będąc już w wynikach, zawęzić je lokalnie za pomocą wyszukiwania kontekstowego (np. wg kontrahenta, statusu lub sortowania).
+Można również łączyć oba mechanizmy wyszukiwania – przykładowo: najpierw skorzystać z wyszukiwania globalnego, aby odnaleźć wszystkie dokumenty zawierające daną frazę (np. nazwę), a następnie będąc już w wynikach, zawęzić je lokalnie za pomocą wyszukiwania kontekstowego (np. wg kontrahenta, statusu lub sortowania).
 
 ---
 

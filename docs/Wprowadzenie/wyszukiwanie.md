@@ -63,7 +63,7 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 
 ![reset-filtr](/img/reset_filtr.png)
 
-**Jak rozpoznać czy filtr jest zastosowany?**
+### Jak rozpoznać czy filtr jest zastosowany?
 
 - Aktywny filtr - ikona jest podświetlona:
   ![filtr-zastosowany](/img/filtr_zastosowany.png)

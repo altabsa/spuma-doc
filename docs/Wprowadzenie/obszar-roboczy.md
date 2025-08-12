@@ -40,7 +40,7 @@ Jeśli w wybranej sekcji nie ma jeszcze żadnych dokumentów – wyświetlany je
 
 ---
 
-### Przykład otwartego dokumentu:
+### Przykład otwartego dokumentu
 
 ![Podglad-dokumentow](/img/podglad_dok.png)
 

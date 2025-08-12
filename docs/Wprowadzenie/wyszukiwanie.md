@@ -33,9 +33,11 @@ Kliknięcie w ikonę **filtra z plusem** otwiera panel filtrów:
 
 ![filtr](/img/filtr2.png)
 
+---
+
 ### Dostępne sekcje filtrów
 
-1. **Właściciel** – wybór użytkownika, do którego należy dokument / **Typ** – typ dokumentu / **Autoryzacje** – typ autoryzacji
+**1. Właściciel** – wybór użytkownika, do którego należy dokument / **Typ** – typ dokumentu / **Autoryzacje** – typ autoryzacji
 
 Wybierz oczekiwaną wartość z listy rozwijanej, następnie kliknij ikonę **„+”** aby dodać filtr (możesz dodać kilka filtrów tego samego typu – powtarzaj ten krok dla każdej wartości.), a na koniec kliknij **"Ok"**.  
 
@@ -45,17 +47,19 @@ Aby usunąć pojedynczą wartość z filtru – zaznacz checkbox przy wybranym f
 
 Aby usunąć wszystkie filtry z danego typu - z tego poziomu kliknij **reset**.
 
-2. **Pozostałe** – dodatkowe warunki
+**2. Pozostałe** – dodatkowe warunki
 
 Zaznacz checkbox przy interesującej opcji. W polach dat możesz wprowadzić zakres czasowy.
 
 ![jak-korzystac-pozostale](/img/wyszukiwanie_pozostale.png)
   
-3. **Atrybuty** – zaawansowane metadane, np. nazwa, opis
+**3. Atrybuty** – zaawansowane metadane, np. nazwa, opis
 
 Zaznacz checkboxy przy atrybutach, po których ma być wykonywane wyszukiwanie.
 
 ![jak-korzystac-atrybuty](/img/wyszukiwanie_atrybuty.png)
+
+---
 
 ### Jak usunąć wszystkie filtry?
 
@@ -63,10 +67,12 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 
 ![reset-filtr](/img/reset_filtr.png)
 
+---
+
 ### Jak rozpoznać czy filtr jest zastosowany?
 
 - Aktywny filtr - ikona jest podświetlona:
-- 
+
   ![filtr-zastosowany](/img/filtr_zastosowany.png)
   
 - Nieaktywny filtr - ikona nie jest podświetlona:

@@ -83,7 +83,7 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 
 ### Wyniki wyszukiwania
 
-Po kliknięciu lupki, SPUMA przeszukuje dane w całym systemie i **przenosi użytkownika do specjalnej sekcji w menu głównym**: ** Wynik wyszukiwania**
+Po kliknięciu lupki, SPUMA przeszukuje dane w całym systemie i przenosi użytkownika do specjalnej sekcji w menu głównym: **Wynik wyszukiwania**.
 
  ![Wyniki-wyszukiwania](/img/wyniki_wyszukiwania.png)
 

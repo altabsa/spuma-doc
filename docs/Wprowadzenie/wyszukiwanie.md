@@ -57,7 +57,7 @@ Zaznacz checkboxy przy atrybutach, po których ma być wykonywane wyszukiwanie.
 
 ![jak-korzystac-atrybuty](/img/wyszukiwanie_atrybuty.png)
 
-**Jak usunąć wszystkie filtry?**
+### Jak usunąć wszystkie filtry?
 
 Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów.
 
@@ -66,6 +66,7 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 ### Jak rozpoznać czy filtr jest zastosowany?
 
 - Aktywny filtr - ikona jest podświetlona:
+- 
   ![filtr-zastosowany](/img/filtr_zastosowany.png)
   
 - Nieaktywny filtr - ikona nie jest podświetlona:

@@ -5,13 +5,14 @@ title: Mechanizm wyszukiwania
 ---
 
 # Mechanizm wyszukiwania
-System SPUMA oferuje dwa niezależne, ale uzupełniające się mechanizmy wyszukiwania:
+
+System SPUMA oferuje dwa niezależne, ale uzupełniające się mechanizmy wyszukiwania.
 
 ---
 
 ## 1. Wyszukiwanie globalne w SPUMA
 
-System SPUMA umożliwia przeszukiwanie wszystkich dokumentów i danych za pomocą **globalnego mechanizmu wyszukiwania**, dostępnego na górnym pasku menu.
+Wyszukiwanie globalne przeszukuje **cały system**. Jest dostępne na górnym pasku.
 
 ---
 
@@ -29,7 +30,7 @@ Wyszukiwarka globalna znajduje się **w prawym górnym rogu interfejsu**, niezal
 
 ### Filtry wyszukiwania
 
-Kliknięcie w ikonę **filtra z plusem** otwiera panel filtrów:
+Kliknij ikonę **filtra z plusem**, aby otworzyć panel filtrów:
 
 ![filtr](/img/filtr2.png)
 
@@ -83,7 +84,7 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 
 ### Wyniki wyszukiwania
 
-Po kliknięciu lupki, SPUMA przeszukuje dane w całym systemie i przenosi użytkownika do specjalnej sekcji w menu głównym: **Wynik wyszukiwania**.
+Po uruchomieniu wyszukiwania system przenosi do sekcji **Wynik wyszukiwania** w menu głównym.
 
  ![Wyniki-wyszukiwania](/img/wyniki_wyszukiwania.png)
 
@@ -105,12 +106,12 @@ Pojawia się automatycznie w dolnej części obszaru roboczego. Składa się z k
 | ![Wyszukaj](/img/szukaj3.png) | Wyszukaj | Wprowadź słowa kluczowe, by przeszukać dokumenty tylko w bieżącej lokalizacji. |
 | ![Sortuj](/img/sortuj.png) | Sortowanie | Umożliwia zmianę kolejności wyników (np. alfabetycznie, po dacie, właścicielu). |
 | ![Filtr](/img/filtr3.png) | Filtry | Umożliwia zaawansowane filtrowanie wyników według typu, właściciela, statusu itd. |
-| ![Usun_filtr](/img/usun_filtr.png)      ![Usun_filtr](/img/usun_filtr2.png) | Wyczyść filtry | Przywraca domyślne ustawienia wyszukiwania. Ikona niebieska oznacza, że filtr jest aktywny, a wyszarzona, że jest nieaktywny.|
+| ![Usun_filtr](/img/usun_filtr.png)      ![Usun_filtr](/img/usun_filtr2.png) | Wyczyść filtry | **Niebieska** ikona oznacza aktywne filtry – kliknij, aby je usunąć. **Szara** ikona oznacza brak aktywnych filtrów.|
 
 ---
 ### Filtry kontekstowe
 
-Filtry otwierają się po kliknięciu ikony lejka. W zależności od kontekstu (repozytorium/folderu).Działają identycznie jak w wyszukiwaniu globalnym. Mogą zawierać takie sekcje jak:
+Filtry otwierają się po kliknięciu ikony lejka. W zależności od kontekstu (repozytorium/folderu). Działają identycznie jak w wyszukiwaniu globalnym. Mogą zawierać takie sekcje jak:
 
 - **Klasy**
 - **Schemat**
@@ -144,6 +145,10 @@ Można również łączyć oba mechanizmy wyszukiwania – przykładowo: najpier
 
 ##  Przykład
 
-Poniżej przedstawiono wykorzystania wyszukiwania.
+1. Wpisz w wyszukiwaniu globalnym właściciela dokumentu i uruchom wyszukiwanie.  
+2. Przejdź do sekcji **Wynik wyszukiwania** i otwórz ją.  
+3. U dołu użyj **Filtrów kontekstowych**, aby zawęzić wyniki (np. **Status autoryzacji = Zatwierdzony**, **Klasa dokumentu**).  
+4. Użyj **Sortowania**, aby posortować po dacie malejąco.  
+5. Otwórz dokument i wykonaj potrzebne operacje.
 
 ---

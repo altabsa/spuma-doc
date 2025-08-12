@@ -105,7 +105,7 @@ Pojawia się automatycznie w dolnej części obszaru roboczego. Składa się z k
 | ![Wyszukaj](/img/szukaj3.png) | Wyszukaj | Wprowadź słowa kluczowe, by przeszukać dokumenty tylko w bieżącej lokalizacji. |
 | ![Sortuj](/img/sortuj.png) | Sortowanie | Umożliwia zmianę kolejności wyników (np. alfabetycznie, po dacie, właścicielu). |
 | ![Filtr](/img/filtr3.png) | Filtry | Umożliwia zaawansowane filtrowanie wyników według typu, właściciela, statusu itd. |
-| ![Usun_filtr](/img/usun_filtr.png)  ![Usun_filtr](/img/usun_filtr.png) | Wyczyść filtry | Przywraca domyślne ustawienia wyszukiwania. Ikona niebieska oznacza, że filtr jest aktywny, a wyszarzona, że jest nieaktywny.|
+| ![Usun_filtr](/img/usun_filtr.png)      ![Usun_filtr](/img/usun_filtr2.png) | Wyczyść filtry | Przywraca domyślne ustawienia wyszukiwania. Ikona niebieska oznacza, że filtr jest aktywny, a wyszarzona, że jest nieaktywny.|
 
 ---
 ### Filtry kontekstowe

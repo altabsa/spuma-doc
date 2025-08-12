@@ -12,7 +12,6 @@ Po zalogowaniu do systemu SPUMA, użytkownik trafia do głównego **obszaru robo
 - raporty z oczekującymi dokumentami,
 - najważniejsze wskaźniki systemowe.
 
-zrzut ekranu
 
 ---
 
@@ -24,19 +23,26 @@ Na górze pojawia się pasek z nazwą aktywnej sekcji, a poniżej wyświetlana j
 
 - lista dokumentów w danej kategorii lub folderze,
 - komunikat „Brak wpisów”, jeśli dokumentów nie ma,
-- **lub dokument do przetwarzania**, jeśli został wybrany z listy.
+- **dokument do przetwarzania**, jeśli został wybrany z listy,
+- lub raporty.
 
-### Przykład listy dokumentów z podglądem i edycją:
+### Przykład listy dokumentów 
 
-Zrzut ekranu
+![Lista-dokumentow](/img/lista_dok.png)
 
 ---
 
 ### Przykład pustej sekcji
 
+![Pusta-lista-dokumentow](/img/pusta_lista_dok.png)
+
 Jeśli w wybranej sekcji nie ma jeszcze żadnych dokumentów – wyświetlany jest czytelny komunikat informacyjny.
 
-Zrzut ekranu
+---
+
+### Przykład otwartego dokumentu:
+
+![Podglad-dokumentow](/img/podglad_dok.png)
 
 ---
 

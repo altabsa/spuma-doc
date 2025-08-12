@@ -77,12 +77,11 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 
 ### Wyniki wyszukiwania
 
-Po kliknięciu lupki, SPUMA przeszukuje dane w całym systemie i **przenosi użytkownika do specjalnej sekcji w menu głównym**:  
-**➡ `Wynik wyszukiwania`**
+Po kliknięciu lupki, SPUMA przeszukuje dane w całym systemie i **przenosi użytkownika do specjalnej sekcji w menu głównym**: ** Wynik wyszukiwania**
 
-zrzut ekranu z wyszukiwarki
+ ![Wyniki-wyszukiwania](/img/wyniki_wyszukiwania.png)
 
-- Sekcja ta pokazuje liczbę znalezionych wyników (np. `117`).
+- Sekcja ta pokazuje liczbę znalezionych wyników (np. 117).
 - Kliknięcie w nią otwiera **obszar roboczy** z listą dokumentów dopasowanych do kryteriów.
 
 ## 2. Wyszukiwanie kontekstowe (obszar roboczy)

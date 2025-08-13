@@ -6,15 +6,31 @@ title: Sekretariat
 
 # Sekretariat
 
-Sekretariat to miejsce, w którym pojawiają się dokumenty nieprzetworzone – to właśnie tutaj rozpoczyna się ich dalszy obieg. 
+Sekretariat to miejsce, w którym pojawiają się **nowo dodane dokumenty oczekujące na obsługę** – to właśnie tutaj rozpoczyna się ich dalszy obieg. 
 
-Po wejściu do tej sekcji użytkownik widzi listę oczekujących dokumentów albo – jeśli ich nie ma – komunikat o braku wpisów.
+Po wejściu do tej sekcji użytkownik widzi listę dokumentów gotowych do przetworzenia i wysłania w obieg.  
+Jeżeli w danym momencie w systemie nie ma żadnych dokumentów do obsłużenia, wyświetlany jest komunikat o braku wpisów.
 
-Każdy dokument można zaznaczyć, a następnie wykonać na nim jedną z dostępnych operacji.  
-Dodatkowo, w górnej części obszaru roboczego pojawia się **pasek narzędzi**, który umożliwia:
+---
 
-- Dodawanie nowych dokumentów
-- Odświeżanie listy
-- Wyświetlanie menu operacji
+## Zaznaczanie dokumentów
+
+Po lewej stronie listy znajduje się kolumna z **checkboxami**, które umożliwiają zaznaczanie dokumentów.  
+- Możesz zaznaczyć **pojedynczy dokument**.  
+- Możesz zaznaczyć **wszystkie dokumenty na raz** — klikając checkbox w nagłówku listy.  
+
+Zaznaczenie dokumentów decyduje o tym, na których pozycjach będą wykonywane operacje z **menu operacji**.
+
+---
+
+## Pasek narzędzi
+
+W górnej części obszaru roboczego znajduje się **pasek narzędzi**, który umożliwia wykonywanie podstawowych działań na dokumentach:
+
+- **Dodaj dokument** – otwiera okno wgrywania plików lub tworzenia nowego dokumentu.  
+- **Odśwież** – ponownie ładuje listę dokumentów, uwzględniając najnowsze zmiany.  
+- **Menu operacji** – wyświetla listę działań, które można wykonać na zaznaczonych dokumentach (np. wysłanie do OCR, wysłanie w obieg, usunięcie).
+
+---
 
 Sekcja Sekretariat jest kluczowa – to od niej zwykle zaczyna się przetwarzanie dokumentów w systemie SPUMA.

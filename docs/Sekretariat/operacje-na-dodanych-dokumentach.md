@@ -9,7 +9,7 @@ title: Operacje na dodanych dokumentach
 W module **Sekretariat** po zaznaczeniu dokumentów dostępne są różne operacje umożliwiające ich przetwarzanie.  
 Aby wykonać operację, zaznacz dokument przy pomocy **checkboxa** po lewej stronie listy, a następnie wybierz odpowiednią akcję z **menu operacji** na pasku narzędzi.
 
-zrzut ekranu
+![Operacje na dodanych dokumentach](/img/operacje_na_dok.png)
 
 ---
 
@@ -17,8 +17,8 @@ zrzut ekranu
 
 Przy każdym dokumencie znajduje się ikona informująca o jego aktualnym statusie:
 
-- zrzut ekranu – dokument nie został jeszcze przetworzony.
-- zrzut ekranu – dokument został przetworzony przez OCR.
+- ![Dokument nie został jeszcze przetworzony](/img/ocr_nie.png) – dokument nie został jeszcze przetworzony.
+- ![Dokument został wysłany do OCR](/img/ocr_tak.png) – dokument został wysłany do OCR. Status blokuje wysłanie dokumentu w obieg przez zaznaczenie checkboxu. 
 
 ---
 
@@ -26,7 +26,7 @@ Przy każdym dokumencie znajduje się ikona informująca o jego aktualnym status
 
 ### Wyślij do OCR
 Przetwarza dokument przy użyciu mechanizmu OCR (rozpoznawanie tekstu).  
-Po zakończeniu operacji status dokumentu zmieni się na **przetworzony OCR**.
+Po zakończeniu operacji status dokumentu zmieni się na **wysłany do OCR**.
 
 ### Wyślij w obieg
 Przenosi dokument do odpowiedniej sekcji zgodnie z ustalonym obiegiem w systemie SPUMA.  

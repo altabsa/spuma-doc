@@ -28,3 +28,8 @@
   --ifm-color-primary-lightest: #ffffff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Ukryj całą kategorię tutorial-basics w sidebarze */
+.theme-doc-sidebar-item-category.hide {
+  display: none !important;
+}

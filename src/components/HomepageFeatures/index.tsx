@@ -15,8 +15,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_photocopy_k0g7.svg').default,
     description: (
       <>
-      **Zeskanuj. Rozpoznaj. Działaj.**
-Dodaj dokument ze skanera, e-maila lub integracji – SPUMA rozpoznaje treść (OCR) i przygotowuje go do dalszej pracy.
+      <p className="subtitle"><strong>Zeskanuj. Rozpoznaj. Działaj.</strong></p>
+      <p>Dodaj dokument ze skanera, e-maila lub integracji – SPUMA rozpoznaje treść (OCR) i przygotowuje go do dalszej pracy.</p>
       </>
     ),
   },
@@ -25,8 +25,8 @@ Dodaj dokument ze skanera, e-maila lub integracji – SPUMA rozpoznaje treść (
     Svg: require('@site/static/img/undraw_publish-post_7g2z.svg').default,
     description: (
       <>
-        **Zatwierdzaj. Deleguj. Kontroluj.**
-Obsługuj procesy obiegu dokumentów – opisuj, deleguj i zatwierdzaj zgodnie z ustalonymi schematami.
+        <p className="subtitle"><strong>Zatwierdzaj. Deleguj. Kontroluj.</strong></p>
+      <p>Obsługuj procesy obiegu dokumentów – opisuj, deleguj i zatwierdzaj zgodnie z ustalonymi schematami.</p>
       </>
     ),
   },
@@ -35,8 +35,8 @@ Obsługuj procesy obiegu dokumentów – opisuj, deleguj i zatwierdzaj zgodnie z
     Svg: require('@site/static/img/undraw_file-manager_yics.svg').default,
     description: (
       <>
-        **Znajdź. Komentuj. Raportuj.**
-Wyszukuj dokumenty po treści i atrybutach, dodawaj komentarze i twórz raporty zapewniające pełną kontrolę.
+        <p className="subtitle"><strong>Znajdź. Komentuj. Raportuj.</strong></p>
+      <p>Wyszukuj dokumenty po treści i atrybutach, dodawaj komentarze i twórz raporty zapewniające pełną kontrolę.</p>
       </>
     ),
   },

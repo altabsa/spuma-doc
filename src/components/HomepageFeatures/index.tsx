@@ -15,7 +15,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_photocopy_k0g7.svg').default,
     description: (
       <>
-      Info  jak dokumenty są skanowane i rozpoznawane
+      **Zeskanuj. Rozpoznaj. Działaj.**
+Dodaj dokument ze skanera, e-maila lub integracji – SPUMA rozpoznaje treść (OCR) i przygotowuje go do dalszej pracy.
       </>
     ),
   },
@@ -24,7 +25,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_publish-post_7g2z.svg').default,
     description: (
       <>
-        Hasło o rozbudowanych procesach zatwierdzania i opisywania
+        **Zatwierdzaj. Deleguj. Kontroluj.**
+Obsługuj procesy obiegu dokumentów – opisuj, deleguj i zatwierdzaj zgodnie z ustalonymi schematami.
       </>
     ),
   },
@@ -33,7 +35,8 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_file-manager_yics.svg').default,
     description: (
       <>
-        Hasło o łatwym wyszukiwaniu dokumentów ,komentowaniu , wersjonowaniu i raportowaniu 
+        **Znajdź. Komentuj. Raportuj.**
+Wyszukuj dokumenty po treści i atrybutach, dodawaj komentarze i twórz raporty zapewniające pełną kontrolę.
       </>
     ),
   },

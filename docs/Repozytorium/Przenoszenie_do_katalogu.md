@@ -20,5 +20,4 @@ title: Przenieś do katalogu
 **4. Kliknij przycisk OK**  
    Dokumenty zostaną przeniesione do wskazanego katalogu i będą widoczne w jego zawartości. 
    zrzut ekranu z pkt 3 i 4
-
 ---

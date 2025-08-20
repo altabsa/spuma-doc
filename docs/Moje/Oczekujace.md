@@ -12,7 +12,7 @@ Sekcja **Oczekujące** zawiera dokumenty, które znajdują się aktualnie w proc
 
 ## Zaznaczanie dokumentów
 
-Zaznaczanie działa w ten sam sposób jak w sekcji [**Sekretariat**](/spuma-doc/docs/Sekretariat/sekretariat.md)
+Zaznaczanie działa w ten sam sposób jak w sekcji [**Sekretariat**](../Sekretariat/sekretariat)
 
 ---
 

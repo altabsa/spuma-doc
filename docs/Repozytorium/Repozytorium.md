@@ -20,7 +20,8 @@ Aby sprawniej odnaleźć dokumenty, można wykorzystać dostępne **mechanizmy w
 
 ## Dostępne operacje
 
-- **Przenieś do katalogu** – umożliwia zmianę miejsca przechowywania dokumentu w strukturze repozytorium.
+### **Przenieś do katalogu** 
+Umożliwia zmianę miejsca przechowywania dokumentu w strukturze repozytorium.
 
 ---
 

@@ -10,17 +10,6 @@ W module **Sekretariat** po zaznaczeniu dokumentów dostępne są różne operac
 Aby wykonać operację, zaznacz dokument przy pomocy **checkboxa** po lewej stronie listy, a następnie wybierz odpowiednią akcję z **menu operacji** na pasku narzędzi.
 
 ![Operacje na dodanych dokumentach](/img/operacje_na_dok.png)
-
----
-
-## Status dokumentu
-
-Przy każdym dokumencie znajduje się ikona informująca o jego aktualnym statusie:
-
-- ![Dokument nie został jeszcze przetworzony](/img/ocr_nie.png) – dokument gotowy do dalszego procesowania. Oznacza, że dokument przeszedł OCR lub go nie wymagał (np. dokument utworzony ręcznie, plik Word).
-- ![Dokument został wysłany do OCR](/img/ocr_tak.png) – dokument został wysłany do OCR. Status blokuje wysłanie dokumentu w obieg przez zaznaczenie checkboxu.
-- ![Dokument oczekuje na zatwierdzenie](/img/dok_oczek.png) - dokument oczekuje na zatwierdzenie. Status pokazuje się w sekcji dokumentów oczekujących osoby, która w danym momencie powinna zatwierdzić dokument według procesu zatwierdzeń.
-- Brak ikony - dokument jest przetworzony i znajduje się w repozytorium.
    
 
 ---

@@ -12,13 +12,14 @@ title: Przenieś do katalogu
 **2. Wybierz operację „Przenieś do katalogu”**  
    Z paska narzędzi wybierz menu operacji i kliknij opcję **„Przenieś do katalogu”**. 
 
-   zrzut ekranu z pkt 1 i 2
+   ![Przenieś do katalogu](/img/przenies1.png)
 
 **3. Wskaż nowy katalog**  
    W wyświetlonym oknie wybierz katalog docelowy z dostępnej listy.  
 
 **4. Kliknij przycisk OK**  
    Dokumenty zostaną przeniesione do wskazanego katalogu i będą widoczne w jego zawartości. 
-   zrzut ekranu z pkt 3 i 4.
+   
+   ![Przenieś do katalogu](/img/przenies2.png)
    
 ---

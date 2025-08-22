@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 12
 id: Status dokumentu
 title: Status dokumentu
 ---

@@ -17,7 +17,7 @@ Okno dokumentu zostało podzielone na następujące obszary:
 
 **3. Panel boczny** – zawiera szczegółowe informacje o dokumencie podzielone na dwie sekcje:  
 - **Ogólne** – podstawowe dane dokumentu (typ, numer, daty, właściciel, katalog),  
-- **Atrybuty** – dodatkowe dane dokumentu (Partner handlowy, daty, wartości).
+- **Atrybuty** – dodatkowe dane dokumentu (partner handlowy, daty, wartości).
 
 **4. Panel zakładek i funkcji** – zestaw zakładek umożliwiających pracę z dokumentem:  
 - **Obieg**  

@@ -14,10 +14,10 @@ To tutaj wybierasz schemat, wysyłasz dokument w obieg, a także możesz go zatw
 
 ## Wysyłanie dokumentu w obieg  
 
-1. **Wybierz schemat autoryzacji** z listy rozwijanej.  
+**1. Wybierz schemat autoryzacji** z listy rozwijanej.  
    ![Wybór schematu](/img/obieg1.png)  
 
-2. **Wyślij dokument w obieg** – możesz to zrobić na dwa sposoby:  
+**2. Wyślij dokument w obieg** – możesz to zrobić na dwa sposoby:  
    - Kliknij przycisk **Wyślij w obieg** po lewej stronie,  
    - lub kliknij ikonę **menu operacji** (trzy kreski) i wybierz opcję **Wyślij w obieg**.  
 

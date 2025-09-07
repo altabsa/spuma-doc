@@ -49,4 +49,3 @@ Jeżeli opcja **Nowy przebieg** nie jest wyszarzona:
 
 ---
 
-![Nowy przebieg](/img/obieg_nowy.png)  

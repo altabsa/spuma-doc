@@ -43,13 +43,14 @@ Przy wyborze **Zatwierdź** lub **Odrzuć** otwiera się dodatkowe okno, któreg
 - W niektórych schematach należy wskazać odpowiedni **dalszy schemat**.
 - Można również wpisać **uwagi** do zatwierdzenia lub odrzucenia.
 
+Pozostawienie pola pustego powoduje przekierowanie dokumentu np. do księgowości.  
+
 ![Okno zatwierdzania](/img/obieg4.png)  
 
 ⚠️ Przy odrzucaniu dokumentu system może dodatkowo wymagać podania przyczyny – wtedy pojawia się komunikat:  
 
 ![Komunikat przy odrzucaniu](/img/obieg7.png)  
 
-Pozostawienie pola użytkownika pustego powoduje przekierowanie dokumentu np. do księgowości.  
 
 
 ---

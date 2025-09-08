@@ -128,16 +128,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'WWW',
+              href: 'https://altab.pl/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Linkedin',
+              href: 'https://pl.linkedin.com/company/altab-s.a./',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'YouTube',
+              href: 'https://www.youtube.com/user/AltabTV',
             },
           ],
         },
@@ -149,8 +149,16 @@ const config: Config = {
             //   to: '/blog',
             // },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'X',
+              href: 'https://x.com/altab_sa',
+            },
+            {
+              label: 'Instagram',
+              href: 'https://www.instagram.com/altab_sap/',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/ALTAB.SAPBusinessOne/',
             },
           ],
         },

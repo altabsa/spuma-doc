@@ -25,7 +25,7 @@ Aby dodać nową pozycję:
 W polach wprowadzamy m.in.:  
 - **Towar** – wpisz kod lub fragment nazwy. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać indeksy dostępne w SAP.  
 - **Kwota** – podaj wartość przypisaną do pozycji.  
-- **Projekt / Centrum kosztów** – w zależności od konfiguracji klasy dokumentu.  
+- **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.  
 
 ---
 

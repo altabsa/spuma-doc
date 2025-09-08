@@ -47,7 +47,7 @@ Dostępne opcje to:
       ![Parametry importu](/img/linie4.png)  
 
    + Następnie przechodzisz do okna **Mapowanie kolumn** – możesz przypisać kolumny z pliku do pól dokumentu (np. Towar, Kwota, Projekt, Centra kosztów).  
-      Jeśli jakaś kolumna nie jest potrzebna, wybierz opcję, aby jej **nie kopiuj*.  
+      Jeśli jakaś kolumna nie jest potrzebna, wybierz opcję, aby jej **nie kopiuj**.  
 
       ![Mapowanie kolumn](/img/linie5.png)  
 

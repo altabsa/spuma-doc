@@ -2,7 +2,6 @@
   "label": "Wprowadzenie",
   "position": 2,
   "link": {
-    "type": "generated-index",
-    "description": "Wprowadzenie"
+    "type": "generated-index"
   }
 }

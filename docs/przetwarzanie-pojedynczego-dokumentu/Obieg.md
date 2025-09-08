@@ -4,7 +4,6 @@ id: Obieg
 title: Obieg
 ---
 
-# Obieg
 # Obieg dokumentu  
 
 Zakładka **Obieg** służy do przesyłania dokumentów w procesie autoryzacji.  

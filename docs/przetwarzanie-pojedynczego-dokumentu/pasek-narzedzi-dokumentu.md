@@ -61,9 +61,12 @@ Widoczność komentarzy możesz włączać i wyłączać opcją **Komentarze** w
 - Kliknij treść komentarza, aby otworzyć szczegółowe okno z pełnym wpisem i datą dodania.  
 ![Podgląd szczegółowy komentarza](/img/kom6.png)  
 
-W tym oknie wpisz nową treść komentarza — **wcześniejszy wpis zostanie podmieniony, a nie dodany jako nowy**.  
+W tym oknie możesz dopisać treść lub zmodyfikować istniejący komentarz:  
 
-⚠️ Inni użytkownicy widzą Twoje komentarze, ale nie mogą ich edytować.
+- Jeżeli **nie zapiszesz dokumentu** i wpiszesz nową treść, poprzedni wpis zostanie **nadpisany**.  
+- Jeżeli **zapiszesz dokument** i ponownie otworzysz komentarz, każda dopisana treść zostanie dodana jako **kolejny wpis** w historii komentarza.
+
+ ![Podgląd szczegółowy komentarza](/img/kom8.png)  ![Podgląd szczegółowy komentarza](/img/kom7.png) 
 
 ---
 

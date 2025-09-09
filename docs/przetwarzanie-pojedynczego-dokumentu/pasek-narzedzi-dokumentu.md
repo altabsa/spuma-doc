@@ -66,7 +66,7 @@ W tym oknie możesz dopisać treść lub zmodyfikować istniejący komentarz:
 - Jeżeli **nie zapiszesz dokumentu** i wpiszesz nową treść, poprzedni wpis zostanie **nadpisany**.  
 - Jeżeli **zapiszesz dokument** i ponownie otworzysz komentarz, każda dopisana treść zostanie dodana jako **kolejny wpis** w historii komentarza.
 
- ![Podgląd szczegółowy komentarza](/img/kom8.png)  ![Podgląd szczegółowy komentarza](/img/kom7.png) 
+ ![Podgląd szczegółowy komentarza](/img/kom9.png) 
 
 ---
 

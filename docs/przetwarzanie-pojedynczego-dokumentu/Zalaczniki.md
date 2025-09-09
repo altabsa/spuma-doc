@@ -53,5 +53,3 @@ Po podpięciu lub odpięciu załącznika:
 
 1. Kliknij przycisk **Zapisz** w prawym górnym rogu.  
 2. Dopiero po zapisaniu operacja zostaje trwale przypisana do dokumentu.  
-
-![Zapisz zmiany](/img/zalacznik3.png)  

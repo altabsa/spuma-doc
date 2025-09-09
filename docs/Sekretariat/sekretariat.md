@@ -6,7 +6,10 @@ title: Sekretariat
 
 # Sekretariat
 
-Sekretariat to miejsce, w którym pojawiają się **nowo dodane dokumenty oczekujące na obsługę** – to właśnie tutaj rozpoczyna się ich dalszy obieg. 
+Sekretariat to **prywatna przestrzeń każdego użytkownika**, w której pojawiają się nowo dodane dokumenty oczekujące na obsługę.  
+Dopóki dokument znajduje się w Sekretariacie, widzi go wyłącznie jego właściciel – inne osoby nie mają do niego dostępu.  
+
+To właśnie tutaj rozpoczyna się dalszy obieg dokumentów.  
 
 Po wejściu do tej sekcji użytkownik widzi listę dokumentów gotowych do przetworzenia i wysłania w obieg.  
 Jeżeli w danym momencie w systemie nie ma żadnych dokumentów do obsłużenia, wyświetlany jest komunikat o braku wpisów.

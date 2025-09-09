@@ -136,8 +136,8 @@ Umożliwia wydruk dokumentu bezpośrednio z poziomu aplikacji.
 - Wybierz opcje wydruku (dostępny jest podgląd).  
 ![Opcje wydruku](/img/Opcje_wydruku.png) 
   + **Zakres od–do** – wydruk wybranych stron.  
-  + **Linie** – ?? 
-  + **Na jednej stronie** – ?? 
+  + **Linie** – dodanie linii.
+  + **Na jednej stronie** – wydruk linii i autoryzacji na jednej stronie. 
   + **Drukuj autoryzację** – dodanie przebiegu autoryzacji.  
 - Kliknij **Pobierz dokumenty**, jeśli chcesz wydrukować. Dokument w postaci pdf otworzy się w nowej karcie i można go wydrukować.
 - Kliknij **Zamknij**, jeśli rezygnujesz z wydruku.

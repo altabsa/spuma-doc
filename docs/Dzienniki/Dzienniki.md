@@ -115,8 +115,6 @@ Po dodaniu wpisu możesz:
 - usunąć referencje,  
 - usunąć cały wpis (opcja dostępna dopiero po zapisaniu).  
 
-![Operacje na wpisie](/img/dziennikk5.png)  
-
 ---
 
 ## Filtrowanie wpisów  

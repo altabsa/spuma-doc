@@ -4,7 +4,7 @@ id: wyszukiwanie
 title: Mechanizm wyszukiwania
 ---
 
-# Mechanizm wyszukiwania
+# Mechanizm wyszukiwania 
 
 System SPUMA oferuje dwa niezależne, ale uzupełniające się mechanizmy wyszukiwania.
 

@@ -60,7 +60,7 @@ Wpisz frazę w polu wyszukiwania, aby przeszukać historię czatu.
 
 - **Podświetlenie wyniku** – pierwsza znaleziona wiadomość zostaje **wyszarzona** (zaznaczona), aby łatwo ją zlokalizować.
 
-![Wynik wyszukiwania – wiadomość wyszarzona](/img/wiadomosc11.png)
+![Wynik wyszukiwania – wiadomość wyszarzona](/img/wiadomosc10.png)
   
 - **Następny wynik** – kliknij ikonę lupki, by przejść do **kolejnej** wiadomości zawierającej tę frazę.  
 - **Brak wyników** – gdy nie znaleziono dopasowań, pojawia się komunikat *„Brak wyników dla podanej frazy”*.  

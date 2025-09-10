@@ -31,7 +31,7 @@ Każdy użytkownik może ustawić własny kolor komentarzy.
 1. Kliknij kwadracik z aktualnym kolorem.  
 2. Wybierz kolor z palety lub kliknij **Losowo**, aby przypisać kolor automatycznie.  
 
-![Kolor komentarzy](/img/ustawienia2.png)  
+![Kolor komentarzy](/img/ustawienia3.png)  
 
 Dzięki temu komentarze różnych osób są łatwo rozróżnialne w dokumencie.  
 
@@ -55,7 +55,7 @@ Zaznaczenie opcji w tym obszarze określa, jakie dokumenty będą wysyłane na T
   - **Odrzucono**,  
   - **Zatwierdzono przez wszystkich**.  
 
-![Powiadomienia mailowe](/img/ustawienia3.png)  
+![Powiadomienia mailowe](/img/ustawienia2.png)  
 
 ---
 

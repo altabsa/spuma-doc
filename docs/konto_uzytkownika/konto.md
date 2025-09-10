@@ -15,7 +15,7 @@ Kliknij na swoje inicjały, aby rozwinąć listę dostępnych opcji:
 - **Pomoc** – szybki dostęp do dokumentacji i wsparcia.  
 - **Informacje systemowe** – szczegółowe dane o wersji aplikacji i środowisku SPUMA.  
 
-![Informacje o SPUMA](/img/konto_info.png)  
+![Informacje o SPUMA](/img/konto2.png)  
 
 - **Wyloguj** – zakończenie pracy w systemie i bezpieczne wylogowanie użytkownika.  
 

@@ -32,21 +32,12 @@ Po kliknięciu ikony menu dostępne są dodatkowe funkcje:
 
 ---
 
-## Menu operacji  
-
-Po kliknięciu ikony menu (☰) w dzienniku dostępne są dodatkowe funkcje:  
-
-- **Kopiuj dane**  
-- **Drukuj**  
-
----
-
 ### Kopiuj dane  
 
 Opcja **Kopiuj** pozwala skopiować zawartość tabeli z dziennika.  
 - Kliknij **Kopiuj dane**.  
 - Dane zostaną skopiowane do schowka.  
-- Wartości są umieszczone w cudzysłowie `""` i oddzielone tabulatorem, dzięki czemu można je bezpośrednio wkleić np. do Excela.  
+- Wartości są umieszczone w cudzysłowie "" i oddzielone tabulatorem, dzięki czemu można je bezpośrednio wkleić np. do Excela.  
 
 ---
 

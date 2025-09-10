@@ -47,12 +47,12 @@ Opcja **Drukuj** umożliwia przygotowanie i zapisanie wydruku danych z dziennika
 
 1. Kliknij **Drukuj**.  
 2. Otworzy się okno **Zadanie drukowania**.  
-   ![Zadanie drukowania](/img/dziennikk5.png)  
+   ![Zadanie drukowania](/img/dziennikk6.png)  
 
 3. W polu **Typ operacji** wybierz jedną z opcji:  
    - **Tylko wiersze** – drukuje tylko dane z tabeli,  
    - **Wiersze i dokumenty** – drukuje dane wraz z podpiętymi dokumentami.  
-   ![Typ operacji](/img/dziennikk6.png)  
+   ![Typ operacji](/img/dziennikk9.png)  
 
 4. Kliknij **Przygotuj wydruk**.  
    - Nowy plik zostanie dodany do listy ze statusem **Oczekuje** i bez dostępnych opcji.  

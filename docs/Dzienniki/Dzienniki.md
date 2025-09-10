@@ -121,6 +121,6 @@ Po dodaniu wpisu możesz:
 
 Dziennik umożliwia filtrowanie danych po:  
 - **dacie** – wpisz zakres w polu *Data od (dziennik)*,  
-- **typie** – wybierz z listy w polu *Labelka Typ*.  
+- **typie** – wybierz z listy w polu *Tabelka Typ*.  
 
 Dzięki filtrom możesz łatwo znaleźć interesującą Cię korespondencję.  

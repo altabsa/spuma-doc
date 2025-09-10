@@ -87,7 +87,7 @@ Do wpisu w dzienniku możesz dodać **referencje**, czyli linki do dokumentów p
 2. W menu operacji wybierz **Link do dokumentu** i skopiuj link.  
 3. Otwórz dziennik korespondencji i wybierz wpis, do którego chcesz dodać dokument.  
 4. Kliknij **Wklej referencje** – dokument zostanie podpięty jako referencja.
-5. Po dodaniu referencji kliknij **Zapisz** w prawym górnym rogu, aby utworzyć wpis na stałe.
+5. Po dodaniu referencji kliknij **Dodaj** w prawym dolnym rogu, aby utworzyć wpis na stałe.
 
 ⚠️ Jeśli przed zapisaniem popełnisz błąd, możesz użyć opcji **Cofnij zmiany** i wrócić do poprzedniego stanu.  
 

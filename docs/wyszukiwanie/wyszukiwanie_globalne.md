@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 id: wyszukiwanie_globalne
-title: Mechanizm wyszukiwania
+title: Wyszukiwanie globalne
 ---
 
 

@@ -23,7 +23,7 @@ Na początku jego status oznaczony jest ikoną klepsydry – dokument oczekuje n
 
 ![Status OCR – w trakcie](/img/przyklad2.png)  
 
-Po chwili **kliknij przycisk Odśwież**, aby sprawdzić, czy OCR zakończył działanie.  
+1. Po chwili **kliknij przycisk Odśwież**, aby sprawdzić, czy OCR zakończył działanie.  
 
 Gdy przetwarzanie się zakończy:  
 - system automatycznie przypisze **klasę dokumentu** (np. faktura kosztowa),  

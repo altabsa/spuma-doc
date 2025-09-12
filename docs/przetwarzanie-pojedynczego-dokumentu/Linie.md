@@ -27,6 +27,14 @@ W polach wprowadzamy m.in.:
 - **Kwota** – podaj wartość przypisaną do pozycji i wciśnij enter, żeby dodać.  
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.  
 
+### Inne sposoby dodawania linii  
+
+Oprócz ręcznego wprowadzania, linie mogą być również uzupełnione w inny sposób:  
+
+- [**Wczytaj z pliku**](#menu-operacji) – import linii z pliku (np. Excel).  
+- [**Kopiuj z dokumentu bazowego**](#kopiuj-z-dokumentu-bazowego) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  
+- [**Kopiuj do linii**](../przetwarzanie-pojedynczego-dokumentu/OCR.md) – kopiowanie danych z rozpoznanego OCR bezpośrednio do linii dokumentu.  
+
 ---
 
 ## Menu operacji  
@@ -41,7 +49,7 @@ Dostępne opcje to:
 - **Wczytaj z pliku** – kliknij, aby zaimportować linie z pliku.  
    + Najpierw otwiera się okno **Parametry importu**, gdzie wybierasz:  
       - czy pierwszy wiersz zawiera nagłówki,  
-      - znak rozdzielenia (np. `;`),  
+      - znak rozdzielenia (np. ;),  
       - identyfikator tekstu.  
 
       ![Parametry importu](/img/linie4.png)  

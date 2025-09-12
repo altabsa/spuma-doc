@@ -32,7 +32,7 @@ W polach wprowadzamy m.in.:
 Oprócz ręcznego wprowadzania, linie mogą być również uzupełnione w inny sposób:  
 
 - [**Wczytaj z pliku**](#menu-operacji) – import linii z pliku (np. Excel).  
-- [**Kopiuj z dokumentu bazowego**](#kopiuj-z-dokumentu-bazowego) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  
+- [**Kopiuj z dokumentu bazowego**](#menu-operacji) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  
 - [**Kopiuj do linii**](../przetwarzanie-pojedynczego-dokumentu/OCR.md) – kopiowanie danych z rozpoznanego OCR bezpośrednio do linii dokumentu.  
 
 ---

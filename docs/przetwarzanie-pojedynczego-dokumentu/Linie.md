@@ -32,7 +32,7 @@ W polach wprowadzamy m.in.:
 Oprócz ręcznego wprowadzania, linie mogą być również uzupełnione w inny sposób:  
 
 - [**Wczytaj z pliku**](#menu-operacji) – import linii z pliku (np. Excel).  
-- [**Kopiuj z dokumentu bazowego**](#menu-operacji) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  
+- [**Kopiuj z dokumentu bazowego**](#menu-operacji) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  [Kopiuj z dokumentu bazowego](#kopiuj-z-dokumentu-bazowego)
 - [**Kopiuj do linii**](../przetwarzanie-pojedynczego-dokumentu/OCR.md) – kopiowanie danych z rozpoznanego OCR bezpośrednio do linii dokumentu.  
 
 ---
@@ -60,7 +60,7 @@ Dostępne opcje to:
       ![Mapowanie kolumn](/img/linie5.png)  
 
 - **Usuń zaznaczone linie** – zaznacz linie na liście i usuń je jednym kliknięciem.  
-- **Kopiuj z dokumentu bazowego** – opcja ta odblokowuje się dopiero wtedy, gdy w zakładce **Atrybuty** został uzupełniony **dokument bazowy**. 
+- **Kopiuj z dokumentu bazowego** <a id="kopiuj-z-dokumentu-bazowego"></a>– opcja ta odblokowuje się dopiero wtedy, gdy w zakładce **Atrybuty** został uzupełniony **dokument bazowy**. 
 
    1. W atrybutach, w polu *Dokument bazowy* wybierz typ dokumentu (np. **ZZ** – zamówienie zakupu, **PZ** – przyjęcie zewnętrzne lub inny w zależności od klasy dokumentu).  
       ![Wybór dokumentu bazowego](/img/linie10.png)  

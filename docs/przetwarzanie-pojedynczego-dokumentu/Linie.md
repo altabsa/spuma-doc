@@ -24,7 +24,7 @@ Aby dodać nową pozycję:
 
 W polach wprowadzamy m.in.:  
 - **Towar** – wpisz kod lub fragment nazwy. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać indeksy dostępne w SAP.  
-- **Kwota** – podaj wartość przypisaną do pozycji.  
+- **Kwota** – podaj wartość przypisaną do pozycji i wciśnij enter, żeby dodać.  
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.  
 
 ---
@@ -52,8 +52,40 @@ Dostępne opcje to:
       ![Mapowanie kolumn](/img/linie5.png)  
 
 - **Usuń zaznaczone linie** – zaznacz linie na liście i usuń je jednym kliknięciem.  
-- **Kopiuj z dokumentu bazowego** – pozwala przenieść linie z dokumentu, na podstawie którego tworzony jest bieżący (np. zamówienie → faktura) ??.  
-- **Księguj w SAP** – dostępne dopiero po zakończeniu autoryzacji. Kliknij jeśli chesz dodać dokument do SAP.
+- **Kopiuj z dokumentu bazowego** – opcja ta odblokowuje się dopiero wtedy, gdy w zakładce **Atrybuty** został uzupełniony **dokument bazowy**. 
+
+   1. W atrybutach, w polu *Dokument bazowy* wybierz typ dokumentu (np. **ZZ** – zamówienie zakupu, **PZ** – przyjęcie zewnętrzne lub inny w zależności od klasy dokumentu).  
+      ![Wybór dokumentu bazowego](/img/linie10.png)  
+
+   2. Wpisz numer dokumentu – jeśli go znasz, możesz wpisać go bezpośrednio.  
+      Możesz też kliknąć ikonę **podwójnego kwadratu**, aby otworzyć okno wyszukiwania.  
+
+   3. Kliknij ikonę lupki – system załaduje listę dostępnych dokumentów z SAP. Możesz również dopisać frazę, żeby zawęzić wyszukiwanie dokumentów.
+      ![Lista zamówień](/img/linie11.png)  
+
+   4. Wybierz odpowiedni dokument i kliknij **Wybierz**.  
+      Wyświetli się jego szczegółowy podgląd z listą pozycji.  
+
+      ![Podgląd dokumentu bazowego](/img/linie12.png)  
+
+   5. Wróć do zakładki **Linie**, otwórz **menu operacji** i wybierz **Kopiuj z dokumentu bazowego**.  
+      Linie z wybranego dokumentu bazowego zostaną automatycznie uzupełnione.  
+ 
+- **Księguj w SAP** – dostępne dopiero po zakończeniu autoryzacji. Kliknij jeśli chesz dodać dokument do SAP jako dokument tymczasowy.
+
+   1. Kliknij **Księguj w SAP**.  
+   2. System wyświetli komunikat z pytaniem, czy dodać dokument jako tymczasowy.  
+      ![Komunikat – dokument tymczasowy](/img/linie7.png)  
+   3. W trakcie dodawania wyświetlany jest ekran ładowania:  
+      ![Ładowanie danych](/img/linie8.png)  
+   4. Po dodaniu dokument trafia do SAP – do dokumentów tymczasowych.  
+      Zazwyczaj w polu *Uwagi* widnieje adnotacja, że dokument został dodany przez SPUMĘ.  
+
+      **Komunikaty i błędy**
+      - Jeśli nie zostały uzupełnione wszystkie wymagane pola (np. kod kontrahenta), dokument **nie zostanie dodany** i pojawi się stosowny komunikat.  
+      - Jeżeli spróbujesz dodać dokument ponownie, SPUMA poinformuje, że taki dokument SAP już istnieje i zapyta, czy chcesz dodać kolejny.  
+      ![Komunikat – dokument już istnieje](/img/linie9.png)  
+
 - **Zaproponuj** – system może automatycznie podpowiedzieć wartości dla pozycji dokumentu.  
 
 ⚠️ Opcje wyszarzone są w danym momencie niedostępne.  

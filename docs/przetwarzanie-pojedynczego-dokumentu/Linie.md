@@ -45,7 +45,7 @@ Kliknięcie ikony **trzech kresek** (menu operacji) otwiera listę dodatkowych f
 
 Dostępne opcje to:  
 
-- **Zapisz do pliku** – kliknij, aby wyeksportować linie dokumentu do pliku Excel. <a id="#wczytaj-z-pliku"></a>
+- **Zapisz do pliku** – kliknij, aby wyeksportować linie dokumentu do pliku Excel. <a id="wczytaj-z-pliku"></a>
 - **Wczytaj z pliku** – kliknij, aby zaimportować linie z pliku.  
    + Najpierw otwiera się okno **Parametry importu**, gdzie wybierasz:  
       - czy pierwszy wiersz zawiera nagłówki,  

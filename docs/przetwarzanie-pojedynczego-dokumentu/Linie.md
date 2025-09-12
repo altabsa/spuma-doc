@@ -31,8 +31,8 @@ W polach wprowadzamy m.in.:
 
 Oprócz ręcznego wprowadzania, linie mogą być również uzupełnione w inny sposób:  
 
-- [**Wczytaj z pliku**](#menu-operacji) – import linii z pliku (np. Excel).  
-- [**Kopiuj z dokumentu bazowego**](#menu-operacji) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  [Kopiuj z dokumentu bazowego](#kopiuj-z-dokumentu-bazowego)
+- [**Wczytaj z pliku**](#wczytaj-z-pliku) – import linii z pliku (np. Excel).  
+- [**Kopiuj z dokumentu bazowego**](#kopiuj-z-dokumentu-bazowego) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  
 - [**Kopiuj do linii**](../przetwarzanie-pojedynczego-dokumentu/OCR.md) – kopiowanie danych z rozpoznanego OCR bezpośrednio do linii dokumentu.  
 
 ---
@@ -45,7 +45,7 @@ Kliknięcie ikony **trzech kresek** (menu operacji) otwiera listę dodatkowych f
 
 Dostępne opcje to:  
 
-- **Zapisz do pliku** – kliknij, aby wyeksportować linie dokumentu do pliku Excel.  
+- **Zapisz do pliku** – kliknij, aby wyeksportować linie dokumentu do pliku Excel. <a id="#wczytaj-z-pliku"></a>
 - **Wczytaj z pliku** – kliknij, aby zaimportować linie z pliku.  
    + Najpierw otwiera się okno **Parametry importu**, gdzie wybierasz:  
       - czy pierwszy wiersz zawiera nagłówki,  
@@ -59,8 +59,8 @@ Dostępne opcje to:
 
       ![Mapowanie kolumn](/img/linie5.png)  
 
-- **Usuń zaznaczone linie** – zaznacz linie na liście i usuń je jednym kliknięciem.  
-- **Kopiuj z dokumentu bazowego** <a id="kopiuj-z-dokumentu-bazowego"></a>– opcja ta odblokowuje się dopiero wtedy, gdy w zakładce **Atrybuty** został uzupełniony **dokument bazowy**. 
+- **Usuń zaznaczone linie** – zaznacz linie na liście i usuń je jednym kliknięciem.  <a id="kopiuj-z-dokumentu-bazowego"></a>
+- **Kopiuj z dokumentu bazowego** – opcja ta odblokowuje się dopiero wtedy, gdy w zakładce **Atrybuty** został uzupełniony **dokument bazowy**. 
 
    1. W atrybutach, w polu *Dokument bazowy* wybierz typ dokumentu (np. **ZZ** – zamówienie zakupu, **PZ** – przyjęcie zewnętrzne lub inny w zależności od klasy dokumentu).  
       ![Wybór dokumentu bazowego](/img/linie10.png)  

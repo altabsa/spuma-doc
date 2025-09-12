@@ -4,7 +4,7 @@ id: przyklad-dokument-z-pliku
 title: Proces dla dokumentu z pliku
 ---
 
-# 1. Dodanie dokumentu z pliku
+## 1. Dodanie dokumentu z pliku
 
 ![Dodawanie z pliku – kroki 1–6](/img/przyklad1.png)
 
@@ -17,7 +17,7 @@ title: Proces dla dokumentu z pliku
 
 **Wynik:** plik zostaje przesłany do SPUMY i po przetworzeniu pojawia się na liście w **Sekretariacie**.
 
-# 2. Oczekiwanie na przetwarzanie OCR  
+## 2. Oczekiwanie na przetwarzanie OCR  
  
 Na początku jego status oznaczony jest ikoną klepsydry – dokument oczekuje na przetworzenie przez OCR.  
 
@@ -33,12 +33,12 @@ Gdy przetwarzanie się zakończy:
 ![Status OCR – zakończony](/img/przyklad3.png)  
 
 
-# 3. Uzupełnienie danych w zakładce Ogólne i Atrybuty
+## 3. Uzupełnienie danych w zakładce Ogólne i Atrybuty
 
-# 4. Dodanie linii dokumentu
+## 4. Dodanie linii dokumentu
 
-# 5. Obieg i autoryzacja
+## 5. Obieg i autoryzacja
 
-# 6. Księgowanie w SAP
+## 6. Księgowanie w SAP
 
-# 7. Repozytorium – dokument końcowy
+## 7. Repozytorium – dokument końcowy

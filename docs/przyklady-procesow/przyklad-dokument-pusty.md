@@ -19,7 +19,7 @@ Dodanie dokumentu pustego rozpoczyna się w ten sam sposób jak dodanie dokument
 
 **Wynik:** dokument pusty zostaje dodany do listy w **Sekretariacie** i jest gotowy do dalszego uzupełniania.  
 
-## 2. Uzupełnienie danych w zakładce **Ogólne**
+## 2. Uzupełnienie danych w zakładce Ogólne
 
 Po utworzeniu dokumentu pustego **otwórz go z listy w Sekretariacie**.  
 Ponieważ dokument jest pusty, nie wysyłamy go do OCR – celem jest ręczne stworzenie nowego dokumentu.  
@@ -38,7 +38,7 @@ W naszym przykładzie przygotowujemy **zlecenie zakupu**.
 
 **Wynik:** zakładka **Ogólne** została uzupełniona i dokument ma już nadany typ, nazwę, numer oraz daty.  
 
-## 3. Uzupełnienie danych w zakładce **Atrybuty**
+## 3. Uzupełnienie danych w zakładce Atrybuty
 
 Po uzupełnieniu zakładki **Ogólne** przejdź do zakładki **Atrybuty**.  
 

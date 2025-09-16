@@ -56,3 +56,19 @@ Dla dokumentów typu **Faktura** pojawiają się m.in. pola związane z **Partne
 ## Zasada ogólna  
 
 Na tej podobnej zasadzie działają także inne pola w zakładce **Atrybuty** – np. dokument bazowy czy metoda płatności.  
+
+## Przyciski wyzwalacze  
+
+W zakładce **Atrybuty** mogą być również dostępne dodatkowe przyciski tzw. **wyzwalacze**.  
+Służą one do wykonywania akcji powiązanych z dokumentem.  
+
+Przykład:  
+
+- Dla dokumentu opartego na klasie **zamówienia zakupu** może pojawić się przycisk  
+  **Zapisz do SAP**.  
+- Kliknięcie tego przycisku powoduje automatyczne utworzenie zlecenia zakupu w systemie **SAP**.  
+
+![Zakładka Atrybuty – dokument pusty](/img/przyklad22.png)  
+
+Szczegółowy przykład znajdziesz w sekcji:  
+[Przykład – dokument pusty](../przyklady-procesow/przyklad-dokument-pusty.md).

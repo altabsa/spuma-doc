@@ -60,14 +60,23 @@ Wybierz sposób zatwierdzania dokumentu:
 
 Każdy schemat składa się z kolejnych kroków:  
 
-1. **Kolejność** – numer kroku, zaczynamy od `0`.  
+1. **Kolejność** – numer kroku, zaczynamy od 0.  
 2. **Typ** – wybierz, kto ma być odbiorcą:  
    - **Użytkownik** – wybierasz konkretnego użytkownika,  
    - **Grupa użytkowników** – wybierasz grupę (np. dział, księgowość),  
-   - **Schemat autoryzacji** – możesz wstawić inny schemat.  
-3. **Odbiorca** – wybierz osobę lub grupę z listy.  
+   - **Schemat autoryzacji** – możesz wstawić inny schemat.
 
 ![Kroki schematu](/img/obieg11.png)  
+
+3. **Odbiorca** – wybierz osobę lub grupę z listy:
+   - osobę:
+![Osoba](/img/obieg12.png)  
+
+   - grupę:
+
+![Grupa](/img/obieg13.png)  
+
+   - lub odpowiedni schemat.
 
 Nowe linie kroków tworzą się automatycznie po dodaniu odbiorcy.  
 
@@ -80,7 +89,7 @@ Jeżeli linia została dodana błędnie:
 2. Kliknij menu w prawym górnym rogu,  
 3. Wybierz **Usuń linię**.  
 
-![Usuń linię](/img/obieg12.png)  
+![Usuń linię](/img/obieg14.png)  
 
 ---
 

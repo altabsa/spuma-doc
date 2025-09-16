@@ -46,7 +46,6 @@ Po dodaniu dokumentu możesz uruchomić ponownie OCR, aby upewnić się, że sys
 
 **Wynik:** pola i tabela z zakładki OCR oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR.  
 
-## 4. Uzupełnienie danych w zakładce Ogólne
 
 ## 4. Uzupełnienie danych w zakładce **Ogólne**
 
@@ -88,7 +87,32 @@ Przykład poprawnie uzupełnionej zakładki Ogólne.
 
 ## 5. Uzupełnienie danych w zakładce Atrybuty
 
+Zakładka **Atrybuty** zawiera szczegółowe informacje powiązane z klasą dokumentu.  
+Pola mogą się różnić w zależności od wybranego typu dokumentu. W przypadku **faktury kosztowej** uzupełnij następujące dane (mogą się różnić w zależności od wdrożenia):  
 
+1. **Partner handlowy** – system może odczytać kontrahenta automatycznie na podstawie OCR.  
+   - W naszym przypadku rozpoznał błędnie nabywcę zamiast dostawcy, dlatego musimy go wybrać ręcznie.  
+   - **Kliknij** ikonę podwójnego kwadracika obok pola **Partner handlowy**.  
+   - W oknie wyszukiwania wpisz fragment nazwy lub kod kontrahenta (np. *PCT*).  
+   - **Kliknij ikonę lupy**, aby uruchomić wyszukiwanie.  
+   - Na liście wyników znajdź właściwego kontrahenta i **kliknij**, aby go wybrać. 
+
+    ![Wybór partnera handlowego](/img/przyklad8.png)
+
+3. **Data płatności** – w naszym przykładzie uzupełniła się poprawnie na podstawie OCR, nie trzeba jej zmieniać.  
+
+4. **Dokument bazowy** – w tym przypadku pomijamy, nie wybieramy żadnego.  
+
+5. **Wartość brutto i netto** – system przeniósł kwoty z OCR i są zgodne z fakturą, nie trzeba ich poprawiać.  
+
+6. **Zdefiniuj koszt wg** – zaznacz właściwą opcję (**Netto**).  
+
+7. **Metoda płatności** – OCR nie uzupełnił tego pola.  
+   - **Wybierz z listy** wartość *PD30*, zgodnie z warunkami płatności z faktury.  
+
+Przykład poprawnie uzupełnionej zakładki Atrybuty
+
+![Zakładka Atrybuty – poprawnie uzupełniona](/img/przyklad9.png)
 
 ## 6. Dodanie linii dokumentu
 

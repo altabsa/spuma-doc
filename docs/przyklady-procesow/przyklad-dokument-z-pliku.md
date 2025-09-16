@@ -255,3 +255,12 @@ Wybierz nasz dokument – zostanie otwarty w widoku szczegółowym.
 Można go dalej edytować, uzupełniać brakujące dane i poprawnie zaksięgować.  
 
 ## 8. Repozytorium – dokument końcowy
+
+Po zakończonym obiegu dokument zostaje automatycznie przeniesiony do odpowiedniego katalogu w **Repozytorium**.  
+
+- Dokument można wyszukać za pomocą mechanizmu wyszukiwania lub przechodząc bezpośrednio do katalogu, w którym się znajduje.  
+- Dokument jest dostępny tylko dla osób, które mają odpowiednie **uprawnienia** do repozytorium, w którym został zapisany.  
+- W repozytorium można go przeglądać, kopiować dane, drukować lub wykorzystać w raportach.  
+
+**Wynik:** dokument przeszedł cały proces – od dodania w Sekretariacie, przez OCR, uzupełnienie danych, linie, obieg i autoryzację, aż po zapis w Repozytorium jako dokument końcowy.  
+Dodatkowo został **zaksięgowany w SAP** jako dokument tymczasowy, gotowy do dalszej edycji i ostatecznego zaksięgowania.  

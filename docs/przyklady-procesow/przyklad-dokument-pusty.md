@@ -37,3 +37,18 @@ W naszym przykładzie przygotowujemy **zlecenie zakupu**.
 ![Zakładka Ogólne – dokument pusty](/img/przyklad21.png)
 
 **Wynik:** zakładka **Ogólne** została uzupełniona i dokument ma już nadany typ, nazwę, numer oraz daty.  
+
+## 3. Uzupełnienie danych w zakładce **Atrybuty**
+
+Po uzupełnieniu zakładki **Ogólne** przejdź do zakładki **Atrybuty**.  
+
+1. **Wybierz zamawiającego** – z listy rozwijanej wybierz osobę odpowiedzialną za złożenie zamówienia (w przykładzie: *Jan Ordynacki*).  
+2. **Pole Numer SAP** – pozostaw puste.  
+   - Numer ten zostanie nadany automatycznie w systemie SAP po zaksięgowaniu dokumentu.  
+3. **Wpisz daty**:  
+   - **Ważne do** – określ datę, do której zamówienie jest ważne (np. *2025-09-18*),  
+   - **Wymagane na** – określ datę, na którą dokument ma zostać zrealizowany (np. *2025-09-19*).  
+
+![Zakładka Atrybuty – dokument pusty](/img/przyklad22.png)
+
+**Wynik:** zakładka **Atrybuty** została uzupełniona – dokument ma przypisanego zamawiającego i określone daty obowiązywania, a pole numeru SAP pozostaje puste do momentu zaksięgowania.  

@@ -110,7 +110,7 @@ Pola mogą się różnić w zależności od wybranego typu dokumentu. W przypadk
 7. **Metoda płatności** – OCR nie uzupełnił tego pola.  
    - **Wybierz z listy** wartość *PD30*, zgodnie z warunkami płatności z faktury.  
 
-Przykład poprawnie uzupełnionej zakładki Atrybuty
+Przykład poprawnie uzupełnionej zakładki Atrybuty.
 
 ![Zakładka Atrybuty – poprawnie uzupełniona](/img/przyklad9.png)
 
@@ -150,11 +150,67 @@ Najwygodniej jest je przenieść bezpośrednio z rozpoznanej tabeli OCR.
 
 ![Zakładka Linie – uzupełnianie danych](/img/przyklad11.png)
 
-Przykład poprawnie uzupełnionej linii
+Przykład poprawnie uzupełnionej linii.
 
 ![Zakładka Linie – linia uzupełniona](/img/przyklad12.png)
 
 ## 7. Obieg i autoryzacja
+
+Zakładka **Obieg** służy do przesyłania dokumentów w procesie autoryzacji.  
+
+---
+
+### 7.1 Wybór schematu i wysyłanie w obieg
+
+1. **Przejdź** do zakładki **Obieg**.  
+2. Z listy **Schemat** wybierz **OTWARTY**.  
+3. **Kliknij przycisk „Wyślij w obieg”**.  
+
+![Wybór schematu otwartego](/img/przyklad13.png)
+
+**Wynik:** dokument trafia do pierwszej osoby wskazanej w procesie – w naszym przykładzie jest to **Ewa Start**.  
+
+---
+
+### 7.2 Zatwierdzenie dokumentu przez Ewę
+
+1. **Ewa** otwiera dokument i klika **Zatwierdź**.  
+2. W schemacie **Otwarty** należy wskazać kolejnego użytkownika:  
+   - Z listy wybiera **Adama Winien**,  
+   - Może wpisać dodatkowe **uwagi**, ale w tym przypadku pozostawia pole puste.  
+3. Kliknij **Zatwierdź**.  
+
+![Okno zatwierdzania](/img/przyklad14.png)
+
+⚠️ Po kliknięciu **Zatwierdź** dokument jest oznaczony jako wstępnie przetworzony – aby decyzja została zapisana w systemie, należy jeszcze kliknąć **Zapisz** w prawym górnym rogu.  
+
+---
+
+### 7.3 Wysłanie dodatkowej wiadomości
+
+Aby przyspieszyć akceptację, Ewa wysyła do Adama wiadomość z linkiem do dokumentu:  
+
+1. **Kliknij ikonę „+”** w panelu wiadomości.  
+2. **Wybierz użytkownika** – Adama.  
+3. **Wpisz treść wiadomości**, np. „Hej, proszę zatwierdź dokument FVZ_VAT328_44. Pilne!!!”.  
+4. **Wklej link do dokumentu** (pobrany wcześniej z menu operacji).  
+5. **Kliknij Wyślij**.  
+
+![Wysyłanie wiadomości do użytkownika](/img/przyklad15.png)
+
+---
+
+### 7.4 Zatwierdzenie dokumentu przez Adama
+
+1. Adam otrzymuje wiadomość, klika w link i otwiera dokument.  
+2. W zakładce **Obieg** klika **Zatwierdź**.  
+3. Po zatwierdzeniu odpisuje Ewie w czacie, że dokument został zaakceptowany.  
+
+![Dokument zatwierdzony – schemat obiegu i czat](/img/przyklad16.png)
+
+---
+
+**Wynik:** dokument został zatwierdzony w schemacie **Otwarty** – w obiegu widnieją oba kroki (Ewa i Adam), a w panelu wiadomości widać potwierdzenie od Adama.  
 
 ## 8. Księgowanie w SAP
 

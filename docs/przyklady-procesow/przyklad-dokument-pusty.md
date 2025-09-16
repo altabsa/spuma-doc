@@ -82,4 +82,41 @@ Po uzupełnieniu danych i dodaniu linii możesz wysłać dokument do obiegu.
 
 **Wynik:** dokument zostaje oznaczony jako Bez autoryzacji i jest gotowy do dalszego przetwarzania (np. księgowania w SAP).  
 
+## 6. Księgowanie w SAP
 
+Ostatnim etapem pracy z dokumentem pustym w SPUMIE jest jego przesłanie do systemu **SAP**.  
+
+1. **Przejdź** do zakładki **Atrybuty**.  
+2. **Kliknij przycisk „Zapisz do SAP”**.  
+3. System wyświetli komunikat z pytaniem: *„Utworzyć Zlecenie Zakupu w SAP?”*.  
+   - Kliknij **Tak**, aby potwierdzić.  
+
+![Zapis do SAP](/img/przyklad25.png)
+
+**Wynik:** dokument zostaje przesłany do SAP i system automatycznie nadaje mu numer, który pojawia się w polu **Numer SAP** w zakładce **Atrybuty**.  
+
+![Numer SAP – uzupełniony automatycznie](/img/przyklad26.png)
+
+---
+
+### Podgląd dokumentu w SAP
+
+W systemie **SAP** dokument jest widoczny jako **Zlecenie zakupu**.  
+Aby go sprawdzić:  
+
+1. W SAP przejdź do dokumentu **Zlecenie zakupu**.  
+2. Wyszukaj dokument po numerze (np. *5*).  
+3. Otwórz szczegóły, aby zobaczyć wszystkie dane – towary, ilości, wartości i daty.  
+
+![Zlecenie zakupu w SAP](/img/przyklad27.png)
+
+**Wynik:** dokument pusty przeszedł cały proces – od utworzenia w SPUMIE, przez ręczne uzupełnienie danych i dodanie linii, aż po utworzenie odpowiadającego mu **Zlecenia zakupu** w SAP.  
+## 7. Repozytorium – dokument końcowy
+
+Po zakończonym obiegu i zapisaniu dokumentu do SAP, trafia on również do odpowiedniego katalogu w **Repozytorium**.  
+
+- Dokument można odszukać korzystając z wyszukiwarki lub przechodząc bezpośrednio do katalogu, w którym został zapisany.  
+- Dostęp mają wyłącznie osoby z odpowiednimi **uprawnieniami** do repozytorium.  
+- Dokument w repozytorium można przeglądać, kopiować dane, drukować lub wykorzystać w raportach.  
+
+**Wynik:** dokument pusty przeszedł cały proces – od utworzenia w SPUMIE, przez ręczne uzupełnienie danych i dodanie linii, aż po zapis w repozytorium oraz utworzenie odpowiadającego mu **Zlecenia zakupu** w SAP.  

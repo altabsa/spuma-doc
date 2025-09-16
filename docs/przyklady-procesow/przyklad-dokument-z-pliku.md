@@ -47,7 +47,7 @@ Po dodaniu dokumentu możesz uruchomić ponownie OCR, aby upewnić się, że sys
 **Wynik:** **pola** i **tabela** z zakładki **OCR** oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR.  
 
 
-## 4. Uzupełnienie danych w zakładce **Ogólne**
+## 4. Uzupełnienie danych w zakładce Ogólne
 
 Zakładka **Ogólne** zawiera podstawowe informacje o dokumencie.  
 

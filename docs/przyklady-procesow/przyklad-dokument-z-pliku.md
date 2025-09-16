@@ -44,7 +44,7 @@ Po dodaniu dokumentu możesz uruchomić ponownie OCR, aby upewnić się, że sys
 
 ![Ponowne wysłanie do OCR](/img/przyklad6.png)  
 
-**Wynik:** pola i tabela z zakładki OCR oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR.  
+**Wynik:** **pola** i **tabela** z zakładki **OCR** oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR.  
 
 
 ## 4. Uzupełnienie danych w zakładce **Ogólne**

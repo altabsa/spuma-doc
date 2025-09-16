@@ -33,12 +33,25 @@ Gdy przetwarzanie się zakończy:
 ![Status OCR – zakończony](/img/przyklad3.png)  
 
 
-## 3. Uzupełnienie danych w zakładce Ogólne i Atrybuty
+## 3. Ponowne wysłanie do OCR  
 
-## 4. Dodanie linii dokumentu
+Po dodaniu dokumentu możesz uruchomić ponownie OCR, aby upewnić się, że system poprawnie rozpoznał wszystkie dane.  
 
-## 5. Obieg i autoryzacja
+1. **Otwórz** dokument z listy w **Sekretariacie** – kliknij na jego nazwę.  
+2. W prawym górnym rogu **kliknij ikonę menu operacji** (trzy kreski).  
+3. Z rozwijanego menu **wybierz opcję „Wyślij do OCR”**.  
+4. Poczekaj, aż system zakończy rozpoznawanie treści.  
 
-## 6. Księgowanie w SAP
+![Ponowne wysłanie do OCR](/img/przyklad6.png)  
 
-## 7. Repozytorium – dokument końcowy
+**Wynik:** pola i tabela z zakładki OCR oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR.  
+
+## 4. Uzupełnienie danych w zakładce Ogólne i Atrybuty
+
+## 5. Dodanie linii dokumentu
+
+## 6. Obieg i autoryzacja
+
+## 7. Księgowanie w SAP
+
+## 8. Repozytorium – dokument końcowy

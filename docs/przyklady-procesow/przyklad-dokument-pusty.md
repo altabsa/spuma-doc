@@ -52,3 +52,21 @@ Po uzupełnieniu zakładki **Ogólne** przejdź do zakładki **Atrybuty**.
 ![Zakładka Atrybuty – dokument pusty](/img/przyklad22.png)
 
 **Wynik:** zakładka **Atrybuty** została uzupełniona – dokument ma przypisanego zamawiającego i określone daty obowiązywania, a pole numeru SAP pozostaje puste do momentu zaksięgowania.  
+
+## 4. Dodanie linii dokumentu
+
+Kolejnym krokiem jest wprowadzenie pozycji do dokumentu.  
+
+1. **Przejdź** do zakładki **Linie**.  
+2. **Kliknij ikonę „+”**, aby dodać nową pozycję.  
+3. **Wybierz towar** z listy rozwijanej (w przykładzie: *C00014 – Torba na laptopa*).  
+4. **Uzupełnij dane pozycji**:  
+   - **Kwota netto** – np. *720*,  
+   - **Ilość** – np. *3*,  
+   - **Uwagi** – np. *„Torby dla nowych pracowników”*.  
+5. **Kliknij przycisk „Zapisz”**, aby zatwierdzić dodane linie.  
+
+![Zakładka Linie – dokument pusty](/img/przyklad23.png)
+
+**Wynik:** do dokumentu zostały dodane linie z określonym towarem, ceną i ilością. Dokument jest gotowy do dalszego przetwarzania (obieg, księgowanie).  
+

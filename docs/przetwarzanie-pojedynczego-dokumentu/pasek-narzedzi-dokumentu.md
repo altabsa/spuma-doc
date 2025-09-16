@@ -146,7 +146,25 @@ Umożliwia wydruk dokumentu bezpośrednio z poziomu aplikacji.
 
 ### Wyślij do OCR
 
-Wysyła dokument do OCR w celu rozpoznania treści.  
+Opcja wysyła dokument do OCR w celu rozpoznania treści.  
+
+1. Kliknij **Wyślij do OCR**.  
+2. Wyświetli się okno **Ponowne wysyłanie OCR**.  
+3. W polu **Mechanizm** wybierz sposób przetwarzania.  
+
+![Mechanizm OCR](/img/ponOCR.png) 
+
+4. Kliknij **OK**, aby rozpocząć przetwarzanie.  
+5. Po chwili **ponownie otwórz dokument**.  
+
+Po ponownym otwarciu:  
+- W zakładce **OCR** pojawią się nowe dane rozpoznane przez system.  
+- W prawym górnym rogu zobaczysz informację o wybranym mechanizmie (np. „GPT”).  
+- Możesz włączyć opcję **Regiony OCR**, aby podświetlić na żółto rozpoznane obszary dokumentu.  
+
+![OCR](/img/ponOCR2.png) 
+
+⚠️ Jeśli dane nie pojawią się od razu ponownie otwórz dokument.   
 
 ---
 

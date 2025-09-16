@@ -46,12 +46,54 @@ Po dodaniu dokumentu możesz uruchomić ponownie OCR, aby upewnić się, że sys
 
 **Wynik:** pola i tabela z zakładki OCR oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR.  
 
-## 4. Uzupełnienie danych w zakładce Ogólne i Atrybuty
+## 4. Uzupełnienie danych w zakładce Ogólne
 
-## 5. Dodanie linii dokumentu
+## 4. Uzupełnienie danych w zakładce **Ogólne**
 
-## 6. Obieg i autoryzacja
+Zakładka **Ogólne** zawiera podstawowe informacje o dokumencie.  
 
-## 7. Księgowanie w SAP
+1. **Sprawdź typ dokumentu** – system (OCR) przypisał klasę **Faktura kosztowa**.  
+   - Jeśli jest poprawna, pozostaw bez zmian.  
+   - Jeśli nie – **wybierz właściwy typ** z listy.  
+
+2. **Sprawdź nazwę dokumentu** – została nadana automatycznie (np. *FVZ_VAT328_43*).  
+   - Możesz ją pozostawić lub **zmienić**, aby była bardziej czytelna.  
+
+3. **Wpisz opis** – dodaj informację, np. *„Faktura za zakup tonerów – PCT Kwant”*.  
+
+4. **Wpisz numer faktury** – przepisz numer z dokumentu (np. *VAT328*).  
+   - Numer może zostać także automatycznie rozpoznany przez **OCR** – w tym przykładzie został odczytany poprawnie.  
+   - Zapisany numer jest używany w systemie jako **referencja dostawcy/odbiorcy** i przekazywany do **SAP**.  
+
+5. **Zweryfikuj daty**:  
+   - **Data dokumentu** (np. *2023-09-09*),  
+   - **Wpłynął** (np. *2025-09-16*).  
+
+   Jeśli daty są niepoprawne – **wpisz właściwe** lub **wybierz z kalendarza**.  
+   - W naszym przykładzie system błędnie odczytał rok w polu **Data dokumentu**.  
+   - Popraw datę na **2025-09-09**, zgodnie z treścią faktury.  
+
+6. **Sprawdź dane uzupełnione automatycznie**:  
+   - **Data utworzenia**,  
+   - **Firma**,  
+   - **Właściciel**,  
+   - **Katalog**,  
+   - **Unikatowy identyfikator**.  
+
+   Tych pól nie trzeba zmieniać.  
+
+Przykład poprawnie uzupełnionej zakładki Ogólne.
+
+![Zakładka Ogólne – poprawnie uzupełniona](/img/przyklad7.png)
+
+## 5. Uzupełnienie danych w zakładce Atrybuty
+
+
+
+## 6. Dodanie linii dokumentu
+
+## 7. Obieg i autoryzacja
+
+## 8. Księgowanie w SAP
 
 ## 8. Repozytorium – dokument końcowy

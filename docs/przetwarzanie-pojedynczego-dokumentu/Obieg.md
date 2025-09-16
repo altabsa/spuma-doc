@@ -32,12 +32,12 @@ Podczas wysyłania dokumentu możesz wybrać jeden z dostępnych schematów auto
 - **Schematy gotowe** – przygotowane wcześniej podczas wdrożenia (np. dział handlowy, otwarty, wg klienta).  
 - **Schemat własny** – schemat, który możesz samodzielnie zdefiniować i w razie potrzeby edytować.  
 
-![Lista schematów](/img/obieg_schematy.png)  
+![Wybór schematu otwartego](/img/przyklad13.png)
 
 Jeżeli wybrany schemat można edytować lub tworzymy własny – obok pola pojawia się **niebieska ikona edycji**.  
 Kliknij ją, aby otworzyć okno konfiguracji.  
 
-![Ikona edycji schematu](/img/obieg_schemat_edycja.png)  
+![Ikona edycji schematu](/img/obieg8.png)  
 
 ---
 
@@ -45,7 +45,7 @@ Kliknij ją, aby otworzyć okno konfiguracji.
 
 Po kliknięciu ikony otwiera się okno **Własny schemat**.  
 
-![Okno własny schemat](/img/obieg_schemat_okno.png)  
+![Okno własny schemat](/img/obieg9.png)  
 
 ### Typ schematu  
 
@@ -54,7 +54,7 @@ Wybierz sposób zatwierdzania dokumentu:
 - **Jeden z** – wystarczy, że jeden z odbiorców go zatwierdzi.  
 - **(N) z** – określona liczba osób (np. 2 z 3) musi zatwierdzić dokument.  
 
-![Typ schematu](/img/obieg_schemat_typ.png)  
+![Typ schematu](/img/obieg10.png)  
 
 ### Kroki schematu  
 
@@ -67,7 +67,7 @@ Każdy schemat składa się z kolejnych kroków:
    - **Schemat autoryzacji** – możesz wstawić inny schemat.  
 3. **Odbiorca** – wybierz osobę lub grupę z listy.  
 
-![Kroki schematu](/img/obieg_schemat_kroki.png)  
+![Kroki schematu](/img/obieg11.png)  
 
 Nowe linie kroków tworzą się automatycznie po dodaniu odbiorcy.  
 
@@ -80,7 +80,7 @@ Jeżeli linia została dodana błędnie:
 2. Kliknij menu w prawym górnym rogu,  
 3. Wybierz **Usuń linię**.  
 
-![Usuń linię](/img/obieg_schemat_usun.png)  
+![Usuń linię](/img/obieg12.png)  
 
 ---
 

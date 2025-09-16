@@ -94,7 +94,7 @@ Dostępne opcje to:
       - Jeżeli spróbujesz dodać dokument ponownie, SPUMA poinformuje, że taki dokument SAP już istnieje i zapyta, czy chcesz dodać kolejny.  
       ![Komunikat – dokument już istnieje](/img/linie9.png)  
 
-- **Zaproponuj** – system może automatycznie podpowiedzieć wartości dla pozycji dokumentu.  
+- **Zaproponuj** – przykładowy własny przycisk (wyzwalacz). Mogą się tu pojawiać również inne dodatkowo zdefiniowane przyciski.   
 
 ⚠️ Opcje wyszarzone są w danym momencie niedostępne.  
 

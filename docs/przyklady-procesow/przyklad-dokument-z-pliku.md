@@ -214,4 +214,44 @@ Aby przyspieszyć akceptację, Ewa wysyła do Adama wiadomość z linkiem do dok
 
 ## 8. Księgowanie w SAP
 
+Po zatwierdzeniu dokumentu można go zaksięgować w systemie **SAP**.  
+
+---
+
+### 8.1 Wysyłanie dokumentu do SAP
+
+1. **Przejdź** do zakładki **Linie**.  
+2. W prawym górnym rogu **otwórz menu operacji** (trzy kreski).  
+3. **Wybierz opcję „Księguj w SAP”**.  
+
+![Opcja księgowania w SAP](/img/przyklad17.png)
+
+4. System wyświetli komunikat z pytaniem, czy dodać dokument tymczasowy.  
+   - Kliknij **Tak**.  
+
+**Wynik:** dokument zostaje wysłany do SAP jako dokument tymczasowy.  
+
+---
+
+### 8.2 Wyszukiwanie dokumentu w SAP
+
+1. W SAP otwórz raport **Dokumenty tymczasowe**.  
+2. Zaznacz typ dokumentu – w naszym przykładzie **Faktury zakupu**.  
+3. Możesz zawęzić wyszukiwanie, wybierając tylko otwarte dokumenty.  
+4. Kliknij **OK**, aby uruchomić wyszukiwanie.  
+
+![Wyszukiwanie dokumentu tymczasowego w SAP](/img/przyklad18.png)
+
+---
+
+### 8.3 Podgląd dokumentu w SAP
+
+Po uruchomieniu raportu wyświetli się lista dokumentów tymczasowych.  
+Wybierz nasz dokument – zostanie otwarty w widoku szczegółowym.  
+
+![Dokument tymczasowy w SAP](/img/przyklad19.png)
+
+**Wynik:** dokument został przeniesiony ze SPUMY do SAP jako dokument tymczasowy.  
+Można go dalej edytować, uzupełniać brakujące dane i poprawnie zaksięgować.  
+
 ## 8. Repozytorium – dokument końcowy

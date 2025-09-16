@@ -115,6 +115,44 @@ Przykład poprawnie uzupełnionej zakładki Atrybuty
 ![Zakładka Atrybuty – poprawnie uzupełniona](/img/przyklad9.png)
 
 ## 6. Dodanie linii dokumentu
+Zakładka **Linie** zawiera szczegółowe pozycje faktury (np. towary lub usługi).  
+Najwygodniej jest je przenieść bezpośrednio z rozpoznanej tabeli OCR.  
+
+---
+
+### 6.1 Kopiowanie linii z OCR
+
+1. **Przejdź** do zakładki **OCR** i wybierz widok **Tabela**.  
+2. **Sprawdź**, czy system poprawnie rozpoznał wszystkie pozycje faktury.  
+   - W naszym przykładzie OCR rozpoznał linię: *J.B. Officeprint 1420*.  
+3. **Zaznacz** linie, które chcesz przenieść do dokumentu.  
+4. W prawym górnym rogu **kliknij menu operacji** (trzy kreski).  
+5. **Wybierz opcję „Kopiuj do linii”**.
+6. Wybierz grupowanie **Nie grupować**.
+
+![Kopiowanie linii z OCR](/img/przyklad10.png)
+
+**Wynik:** linie z OCR zostają przeniesione do zakładki **Linie**.  
+
+---
+
+### 6.2 Uzupełnianie danych w zakładce Linie
+
+1. **Przejdź** do zakładki **Linie**.  
+2. **Upewnij się**, że wybrane pozycje zostały przeniesione – w naszym przypadku system uzupełnił jedynie kwotę (np. *1120.00*).  
+3. **Wybierz kod towaru** – działa to tak samo jak przy wyborze partnera handlowego:  
+   - **Kliknij** ikonę podwójnego kwadracika obok pola **Towar**,  
+   - **Wyszukaj** odpowiednią pozycję wpisując fragment nazwy lub kod,  
+   - **Wybierz** z listy wyników.  
+4. (Opcjonalnie) **Uzupełnij inne pola**, jeśli są wymagane, np. **Projekt**.  
+   - W naszym przykładzie pomijamy dodatkowe uzupełnienia.  
+5. **Kliknij przycisk „Zapisz”** w prawym górnym rogu.  
+
+![Zakładka Linie – uzupełnianie danych](/img/przyklad11.png)
+
+Przykład poprawnie uzupełnionej linii
+
+![Zakładka Linie – linia uzupełniona](/img/przyklad12.png)
 
 ## 7. Obieg i autoryzacja
 

@@ -70,3 +70,16 @@ Kolejnym krokiem jest wprowadzenie pozycji do dokumentu.
 
 **Wynik:** do dokumentu zostały dodane linie z określonym towarem, ceną i ilością. Dokument jest gotowy do dalszego przetwarzania (obieg, księgowanie).  
 
+## 5. Obieg i autoryzacja
+
+Po uzupełnieniu danych i dodaniu linii możesz wysłać dokument do obiegu.  
+
+1. **Przejdź** do zakładki **Obieg**.  
+2. W polu **Schemat** wybierz opcję **Bez autoryzacji**.  
+3. **Kliknij przycisk „Wyślij w obieg”**.  
+
+![Zakładka Obieg – bez autoryzacji](/img/przyklad24.png)
+
+**Wynik:** dokument zostaje oznaczony jako Bez autoryzacji i jest gotowy do dalszego przetwarzania (np. księgowania w SAP).  
+
+

@@ -73,10 +73,10 @@ Każdy schemat składa się z kolejnych kroków:
 ![Osoba](/img/obieg12.png)  
 
    - grupę:
-
-![Grupa](/img/obieg13.png)  
+  ![Grupa](/img/obieg13.png)  
 
    - lub odpowiedni schemat.
+![Schemat](/img/obieg15.png)  
 
 Nowe linie kroków tworzą się automatycznie po dodaniu odbiorcy.  
 

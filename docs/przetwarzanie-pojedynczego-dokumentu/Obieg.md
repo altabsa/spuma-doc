@@ -24,6 +24,76 @@ To tutaj wybierasz schemat, wysyłasz dokument w obieg, a także możesz go zatw
 
 ---
 
+## Wybór schematu  
+
+Podczas wysyłania dokumentu możesz wybrać jeden z dostępnych schematów autoryzacji:  
+
+- **Bez autoryzacji** – dokument nie wymaga zatwierdzeń, trafia bezpośrednio do repozytorium.  
+- **Schematy gotowe** – przygotowane wcześniej podczas wdrożenia (np. dział handlowy, otwarty, wg klienta).  
+- **Schemat własny** – schemat, który możesz samodzielnie zdefiniować i w razie potrzeby edytować.  
+
+![Lista schematów](/img/obieg_schematy.png)  
+
+Jeżeli wybrany schemat można edytować lub tworzymy własny – obok pola pojawia się **niebieska ikona edycji**.  
+Kliknij ją, aby otworzyć okno konfiguracji.  
+
+![Ikona edycji schematu](/img/obieg_schemat_edycja.png)  
+
+---
+
+## Definiowanie własnego schematu  
+
+Po kliknięciu ikony otwiera się okno **Własny schemat**.  
+
+![Okno własny schemat](/img/obieg_schemat_okno.png)  
+
+### Typ schematu  
+
+Wybierz sposób zatwierdzania dokumentu:  
+- **Wszyscy** – wszyscy wskazani użytkownicy lub grupy muszą zatwierdzić dokument.  
+- **Jeden z** – wystarczy, że jeden z odbiorców go zatwierdzi.  
+- **(N) z** – określona liczba osób (np. 2 z 3) musi zatwierdzić dokument.  
+
+![Typ schematu](/img/obieg_schemat_typ.png)  
+
+### Kroki schematu  
+
+Każdy schemat składa się z kolejnych kroków:  
+
+1. **Kolejność** – numer kroku, zaczynamy od `0`.  
+2. **Typ** – wybierz, kto ma być odbiorcą:  
+   - **Użytkownik** – wybierasz konkretnego użytkownika,  
+   - **Grupa użytkowników** – wybierasz grupę (np. dział, księgowość),  
+   - **Schemat autoryzacji** – możesz wstawić inny schemat.  
+3. **Odbiorca** – wybierz osobę lub grupę z listy.  
+
+![Kroki schematu](/img/obieg_schemat_kroki.png)  
+
+Nowe linie kroków tworzą się automatycznie po dodaniu odbiorcy.  
+
+---
+
+### Usuwanie kroków  
+
+Jeżeli linia została dodana błędnie:  
+1. Zaznacz ją,  
+2. Kliknij menu w prawym górnym rogu,  
+3. Wybierz **Usuń linię**.  
+
+![Usuń linię](/img/obieg_schemat_usun.png)  
+
+---
+
+### Zatwierdzenie schematu  
+
+Po uzupełnieniu wszystkich kroków:  
+1. Kliknij **OK**,  
+2. Następnie kliknij **Zapisz** w głównym oknie dokumentu.  
+
+Schemat zostaje zapisany i użyty dla bieżącego obiegu. 
+
+---
+
 ## Zatwierdzanie i odrzucanie  
 
 Gdy dokument został wysłany w obieg i wymaga autoryzacji:  

@@ -9,6 +9,6 @@ title: Gdzie znajdę dokument, który ostatnio oglądałem?
 Użytkownik chce szybko wrócić do dokumentu, który niedawno otwierał.  
 
 **Rozwiązanie**  
-Przejdź do zakładki **Ostatnie**.  
+1. Przejdź do zakładki **Ostatnie**.  
 
 SPUMA automatycznie zapisuje listę otwieranych dokumentów.  

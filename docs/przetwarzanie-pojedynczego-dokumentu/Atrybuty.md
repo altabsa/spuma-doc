@@ -34,20 +34,21 @@ Dla dokumentów typu **Faktura** pojawiają się m.in. pola związane z **Partne
 2. W nowym oknie możesz:  
    - **Wyszukać istniejącego PH z SAP-a**  
      - Kliknij ikonę **lupki** – wyświetli się lista wszystkich partnerów z SAP.
-
  ![Lista partnerów](/img/atrybuty3.png)   
-  
      - Możesz wpisać frazę, aby zawęzić wyniki.  
      - Po wybraniu partnera dane uzupełnią się automatycznie.  
-
 ![Dane uzupełnione](/img/atrybuty4.png)  
-     
      - Kliknij przycisk **Wybierz** w lewym dolnym rogu.  
 
    - **Dodać nowego PH**  
      - Kliknij przycisk **Nowy** w prawym górnym rogu.  
      - Uzupełnij dane partnera.  
-     - Kliknij **Zapisz**, a następnie **Wybierz**.  
+     - Kliknij **Zapisz**, a następnie **Wybierz**.
+     - ⚠️Nowo dodany partner handlowy jest automatycznie zapisywany również w **SAP**.
+   - **Skorzystać z przycisku Online podczas dodawania nowego PH**  
+     - Wpisz numer **PESEL**.  
+     - Kliknij przycisk **Online**.
+     - Pozostałe pola zostaną automatycznie uzupełnione. 
 
 4. Po wybraniu partnera pole w zakładce **Atrybuty** zostanie uzupełnione.  
 

@@ -1,14 +1,17 @@
 ---
 id: kto-zatwierdzil
-title: Jak sprawdzę, kto zatwierdził dokument?
+title: Czy muszę wysyłać maile z pytaniem, kto zatwierdził dokument?  
 ---
 
-# Jak sprawdzę, kto zatwierdził dokument?  
+# Czy muszę wysyłać maile z pytaniem, kto zatwierdził dokument?    
 
 **Zgłoszony problem**  
-Użytkownik chce sprawdzić, kto podjął decyzję o zatwierdzeniu dokumentu.  
+Użytkownik chce sprawdzić, kto podjął decyzję o zatwierdzeniu dokumentu. Zastanawia się, czy aby się tego dowiedzieć, musi pisać wiadomości e-mail do innych osób.  
 
 **Rozwiązanie**  
+Nie.  
+
+W SPUMA wszystko widać w **historii decyzji** w zakładce **Obieg**. 
 
 1. Otwórz dokument, który chcesz zweryfikować.  
 2. Przejdź do zakładki **Obieg**.  

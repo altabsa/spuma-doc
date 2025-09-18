@@ -24,7 +24,7 @@ W SPUMA załączniki to **linki do innych dokumentów znajdujących się w syste
 5. Kliknij **Podepnij ze schowka**.  
 6. Dokument zostanie dodany jako załącznik.  
 
-👉 Szczegóły znajdziesz w sekcji [**Załączniki**](../przetwarzanie-pojedynczego-dokumentu/Zalaczniki.md).  
+Szczegóły znajdziesz w sekcji [**Załączniki**](../przetwarzanie-pojedynczego-dokumentu/Zalaczniki.md).  
 
 ---
 

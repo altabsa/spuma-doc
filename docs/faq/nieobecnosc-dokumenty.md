@@ -22,7 +22,7 @@ Nie – w SPUMA dokumenty nie blokują się na jednej osobie.
 2. **Obieg przypisany do pojedynczego użytkownika**  
    - W tym przypadku dokument czeka na decyzję konkretnej osoby.  
    - Aby nie blokować procesu, ustaw zastępstwo:  
-     1. Kliknij swoje inicjały w prawym górnym rogu i wybierz **Ustawienia**.  
+     1. Kliknij swoje inicjały w prawym górnym rogu i wybierz [**Ustawienia**](../konto_uzytkownika/ustawienia-uzytkownika.md).  
      2. W sekcji **W dniach od (do)** wskaż termin nieobecności.  
      3. W polu **zastępuje mnie** wybierz użytkownika, który będzie podejmował decyzje w Twoim imieniu.  
      4. Zapisz zmiany.  

@@ -137,3 +137,7 @@ Dziennik umożliwia filtrowanie danych po:
 - **typie** – wybierz z listy w polu *Tabelka Typ*.  
 
 Dzięki filtrom możesz łatwo znaleźć interesującą Cię korespondencję.  
+
+## Powiązanie z dokumentami  
+
+Do wpisu w dzienniku możesz przejść także bezpośrednio z poziomu **[dokumentu](./pasek-narzedzi-dokumentu.md#dziennik-korespondencji)**.  

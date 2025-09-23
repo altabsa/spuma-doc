@@ -19,7 +19,8 @@ Wiadomości e-mail mogą zawierać np. faktury, które następnie możesz przeks
 Masz do dyspozycji filtry:  
 
 - **Tylko nowe** – pokaże wiadomości nieprzetworzone,  
-- **Tylko nieprzeczytane** – pokaże wiadomości, których jeszcze nie otworzyłeś.  
+- **Tylko nieprzeczytane** – pokaże wiadomości, których jeszcze nie otworzyłeś,
+- **Pole filtrowania** – na dole listy wpisz dowolną frazę (np. adres e-mail nadawcy, fragment tematu ).   
 
 ---
 

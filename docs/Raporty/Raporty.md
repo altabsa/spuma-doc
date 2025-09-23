@@ -6,8 +6,7 @@ title: Raporty
 
 # Raporty
 
-Sekcja **Raporty** umożliwia dostęp do przygotowanych zestawień danych. Raporty w systemie SPUMA mogą być oparte na danych pochodzących zarówno z samej aplikacji, jak i z systemów zewnętrznych (np. **SAP** lub innych baz danych).  
-
+Sekcja **Raporty** umożliwia dostęp do przygotowanych zestawień danych. Raporty w systemie SPUMA mogą być oparte na danych pochodzących zarówno z samej aplikacji, jak i z systemów zewnętrznych (np. **SAP** lub innych baz danych). Pomagają w analizie tego, co dzieje się w systemie – pozwalają szybko sprawdzić m.in. listę dokumentów, stan obiegów czy zatwierdzenia dostępu.  
 ---
 
 ## Standardowe raporty
@@ -17,7 +16,7 @@ W systemie dostępne są **4 raporty standardowe**:
 **1. Oczekujące dokumenty**  
 **2. Lista dokumentów**  
 **3. Dokumenty klientów**   
-**4. Zatwierdzenia dostępu** 
+**4. [Zatwierdzenia dostępu](./zatwierdzenia-dostepu.md)**   
 
 
 Pierwsze trzy raporty mogą być **modyfikowane, ukrywane lub usuwane** z poziomu administratora. 

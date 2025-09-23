@@ -20,7 +20,7 @@ Masz do dyspozycji filtry:
 
 - **Tylko nowe** – pokaże wiadomości nieprzetworzone,  
 - **Tylko nieprzeczytane** – pokaże wiadomości, których jeszcze nie otworzyłeś,
-- **Pole filtrowania** – na dole listy wpisz dowolną frazę (np. adres e-mail nadawcy, fragment tematu ).   
+- **Pole filtrowania** – na dole listy wpisz dowolną frazę (np. adres e-mail nadawcy, fragment tematu ). Po wpisaniu frazy zatwierdź wyszukiwanie, naciskając **Enter**, **Tab** lub klikając w dowolne miejsce myszą.  
 
 ---
 

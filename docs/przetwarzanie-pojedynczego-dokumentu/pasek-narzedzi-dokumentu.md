@@ -26,7 +26,7 @@ Po kliknięciu ikony ![Menu operacji](/img/dok_menu.png) rozwija się lista doda
 Opcja pozwala skopiować link do dokumentu.  
 - Kliknij **Link do dokumentu**.  
 - Wyświetli się komunikat *Skopiowano link do dokumentu*.  
-- Wklej link np. w wiadomości systemu SPUMA. 
+- Wklej link np. w wiadomości systemu SPUMA.
 
 ⚠️ Link działa **wyłącznie wewnątrz aplikacji SPUMA**.  
 

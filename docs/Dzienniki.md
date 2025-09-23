@@ -140,4 +140,5 @@ Dzięki filtrom możesz łatwo znaleźć interesującą Cię korespondencję.
 
 ## Powiązanie z dokumentami  
 
-Do wpisu w dzienniku możesz przejść także bezpośrednio z poziomu **[dokumentu](./pasek-narzedzi-dokumentu.md#dziennik-korespondencji)**.  
+Do wpisu w dzienniku możesz przejść także bezpośrednio z poziomu **[dokumentu](docs/przetwarzanie-pojedynczego-dokumentu/pasek-narzedzi-dokumentu.md###-dziennik-korespondencji)**.  
+

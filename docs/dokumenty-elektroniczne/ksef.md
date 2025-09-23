@@ -48,7 +48,7 @@ Każdy dokument pobrany z KSeF możesz otworzyć i podejrzeć bezpośrednio w SP
 
 ---
 
-### Powiązanie z dokumentem w SPUMA  
+### Dalsza praca
 
 Po dodaniu faktury do sekretariatu pojawia się dodatkowa ikona.  
 

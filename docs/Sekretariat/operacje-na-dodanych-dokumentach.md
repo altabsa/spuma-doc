@@ -31,4 +31,4 @@ Trwale usuwa dokument z listy w Sekretariacie.
 
 ## Przetwarzanie pojedynczego dokumentu
 Oprócz wykonywania operacji zbiorczych możesz rozpocząć przetwarzanie dokumentu indywidualnie.  
-Instrukcja krok po kroku znajduje się w sekcji **Przetwarzanie pojedynczego dokumentu**.
+Instrukcja krok po kroku znajduje się w sekcji [**Przetwarzanie pojedynczego dokumentu**](docs/przetwarzanie-pojedynczego-dokumentu/Dokument.md).

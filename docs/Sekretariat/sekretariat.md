@@ -30,9 +30,9 @@ Zaznaczenie dokumentów decyduje o tym, na których pozycjach będą wykonywane 
 
 W górnej części obszaru roboczego znajduje się **pasek narzędzi**, który umożliwia wykonywanie podstawowych działań na dokumentach:
 
-- **Dodaj dokument** – otwiera okno wgrywania plików lub tworzenia nowego dokumentu.  
+- [**Dodaj dokument**](docs/Sekretariat/dodawanie-dokumentow.mdx) – otwiera okno wgrywania plików lub tworzenia nowego dokumentu.  
 - **Odśwież** – ponownie ładuje listę dokumentów, uwzględniając najnowsze zmiany.  
-- **Menu operacji** – wyświetla listę działań, które można wykonać na zaznaczonych dokumentach (np. wysłanie do OCR, wysłanie w obieg, usunięcie).
+- [**Menu operacji**](docs/Sekretariat/operacje-na-dodanych-dokumentach.md) – wyświetla listę działań, które można wykonać na zaznaczonych dokumentach (np. wysłanie do OCR, wysłanie w obieg, usunięcie).
 
 ---
 

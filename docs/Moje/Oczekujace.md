@@ -40,5 +40,5 @@ Dzięki temu proces zatwierdzania przebiega płynnie i bez konieczności ręczne
 
 Oprócz możliwości zaznaczenia wielu dokumentów i ich zbiorczego zatwierdzenia, masz również możliwość **zatwierdzenia pojedynczego dokumentu bezpośrednio z jego widoku**.  
 
-Pełny opis kroków związanych z tą operacją znajdziesz w sekcji ... .
+Pełny opis kroków związanych z tą operacją znajdziesz w sekcji [obiegu](docs/przetwarzanie-pojedynczego-dokumentu/Obieg.md) .
 

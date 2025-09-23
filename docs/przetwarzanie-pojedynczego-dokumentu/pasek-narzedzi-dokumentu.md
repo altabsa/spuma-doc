@@ -93,6 +93,13 @@ Opcja jest dostępna **tylko wtedy, gdy dokument został wysłany do OCR**.
 
 ![Regiony OCR](/img/RegionyOCR.png) 
 
+Regiony OCR mogą służyć także do **wyszukiwania** dokumentów.  
+W opisie dokumentu przechowywane są tylko podstawowe dane (np. nazwa, daty), natomiast w regionach mogą pojawić się dodatkowe odczyty.  
+
+Przykład:  
+- wpisz w wyszukiwarce frazę „kawa”,  
+- system znajdzie faktury, w których OCR odczytał tę nazwę w treści dokumentu.  
+
 ---
 
 ### Komentarze  

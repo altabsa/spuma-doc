@@ -38,7 +38,7 @@ Załączniki możesz otworzyć w podglądzie – kliknięcie otworzy dokument w 
 
 ---
 
-## Tworzenie dokumentu z wiadomości  
+## Dodawanie dokumentu do sekretariatu  
 
 1. Kliknij przycisk **Nowy dokument** w prawym górnym rogu.  
 2. Otworzy się okno, w którym możesz zdecydować, co ma zostać przeniesione do sekretariatu.  

@@ -8,6 +8,7 @@ title: Ogólne
 
 Zakładka **Ogólne** zawiera podstawowe informacje o dokumencie. Część pól użytkownik uzupełnia samodzielnie, a część jest generowana automatycznie przez system. Najważniejszym polem w tej sekcji jest **Typ dokumentu (Klasa dokumentu)**. 
 
+![Widok zakładki Ogólne](/img/ogolne.png)  
 ---
 
 ## Typ (Klasa dokumentu)  
@@ -40,5 +41,26 @@ Inne klasy są definiowane zgodnie z potrzebami klienta (np. Zamówienie zakupu,
 - **Data utworzenia** – dokładna data i godzina dodania dokumentu do systemu.  
 - **Firma** – nazwa firmy, w której kontekście działa użytkownik.  
 - **Właściciel** – użytkownik odpowiedzialny za dokument.  
-- **Katalog** – aktualne miejsce, w którym znajduje się dokument (np. Sekretariat, Repozytorium).  
-- **Unikatowy identyfikator** – numer techniczny przypisany do dokumentu w systemie.  
+- **Katalog** – aktualne miejsce, w którym znajduje się dokument (np. Sekretariat, Repozytorium).
+- **Dokumenty zewnętrzne**  
+- **Unikatowy identyfikator** – numer techniczny przypisany do dokumentu w systemie.
+
+---
+## Dokumenty zewnętrzne  
+
+Jeśli dokument w SPUMA został dodany również w **SAP** (już jako właściwy dokument, a nie tylko tymczasowy), w zakładce **Ogólne** pojawia się sekcja **Dokumenty zewnętrzne**.  
+
+Po kliknięciu w link otwiera się okno z listą dokumentów zewnętrznych:  
+- widać podstawowe informacje (np. numer faktury, datę, kwotę, nadawcę),  
+- można kliknąć wybrany dokument, aby zobaczyć jego szczegóły,  
+- dostępny jest przycisk **Odśwież dane**, który pobiera aktualne dane z SAP.  
+
+![Lista dokumentów zewnętrznych](/img/ogolne2.png)  
+
+Po otwarciu dokumentu widać pełne szczegóły zapisane w SAP, np.:  
+- numer faktury, datę i termin,  
+- nabywcę, osobę odpowiedzialną, kwotę,  
+- dodatkowe uwagi,  
+- linie dokumentu (opis, ilość, ceny netto/brutto).  
+
+![Szczegóły dokumentu zewnętrznego](/img/ogolne3.png)  

@@ -7,6 +7,7 @@ title: Raporty
 # Raporty
 
 Sekcja **Raporty** umożliwia dostęp do przygotowanych zestawień danych. Raporty w systemie SPUMA mogą być oparte na danych pochodzących zarówno z samej aplikacji, jak i z systemów zewnętrznych (np. **SAP** lub innych baz danych). Pomagają w analizie tego, co dzieje się w systemie – pozwalają szybko sprawdzić m.in. listę dokumentów, stan obiegów czy zatwierdzenia dostępu.  
+
 ---
 
 ## Standardowe raporty

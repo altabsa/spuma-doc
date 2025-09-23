@@ -60,7 +60,5 @@ Po zakończeniu obiegu dokument zostaje automatycznie przeniesiony do odpowiedni
 - Dokument można wyszukać albo przejść bezpośrednio do katalogu.  
 - Dostęp mają tylko osoby z odpowiednimi **uprawnieniami**.  
 - W repozytorium dokument można przeglądać, kopiować dane, drukować lub wykorzystywać w raportach.  
-
-![Dokument w repozytorium](/img/przyklad19.png)  
-
+ 
 **Wynik:** dokument z KSeF przeszedł pełny proces – od pobrania, przez weryfikację danych, obieg i autoryzację, aż po zapis w Repozytorium.  

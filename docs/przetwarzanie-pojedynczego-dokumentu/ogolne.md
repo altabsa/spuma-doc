@@ -50,14 +50,14 @@ Inne klasy są definiowane zgodnie z potrzebami klienta (np. Zamówienie zakupu,
 
 Jeśli dokument w SPUMA został dodany również w **SAP** (już jako właściwy dokument, a nie tylko tymczasowy), w zakładce **Ogólne** pojawia się sekcja **Dokumenty zewnętrzne**.  
 
-Po kliknięciu w link otwiera się okno z listą dokumentów zewnętrznych:  
-- widać podstawowe informacje (np. numer faktury, datę, kwotę, nadawcę),  
-- można kliknąć wybrany dokument, aby zobaczyć jego szczegóły,  
-- dostępny jest przycisk **Odśwież dane**, który pobiera aktualne dane z SAP.  
+Po kliknięciu w link otworzy się okno z listą dokumentów zewnętrznych:  
+- kliknij wybrany dokument, aby zobaczyć jego szczegóły,  
+- sprawdź podstawowe informacje (np. numer faktury, datę, kwotę, nadawcę),  
+- kliknij przycisk **Odśwież dane**, aby pobrać aktualne dane z SAP.  
 
 ![Lista dokumentów zewnętrznych](/img/ogolne2.png)  
 
-Po otwarciu dokumentu widać pełne szczegóły zapisane w SAP, np.:  
+Po otwarciu dokumentu sprawdzisz pełne szczegóły zapisane w SAP, np.:  
 - numer faktury, datę i termin,  
 - nabywcę, osobę odpowiedzialną, kwotę,  
 - dodatkowe uwagi,  

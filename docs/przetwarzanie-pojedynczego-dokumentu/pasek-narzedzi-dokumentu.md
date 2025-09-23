@@ -175,7 +175,7 @@ Opcja pozwala sprawdzić, czy dokument został powiązany z wpisem w dzienniku k
 - Jeśli opcja jest **wyszarzona** – dokument **nie znajduje się** w dzienniku.  
 - Jeśli opcja jest **aktywna** – kliknij, aby przejść bezpośrednio do wpisu w dzienniku i zobaczyć jego podgląd.  
 
-![Dziennik korespondencji w menu dokumentu](/img/dziennik_dok.png)  
+![Dziennik korespondencji w menu dokumentu](/img/dziennkik_dok.png)  
 
 ---
 

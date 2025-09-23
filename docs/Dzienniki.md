@@ -75,6 +75,19 @@ Opcja **Drukuj** umożliwia przygotowanie i zapisanie wydruku danych z dziennika
 
 ![Nowy wpis](/img/dziennikk2.png)  
 
+3. Uzupełnij dodatkowe dane:  
+   - **Typ operacji** – wybierz jedną z opcji:  
+     - **Wejście** – korespondencja przychodząca,  
+     - **Wyjście** – korespondencja wychodząca,  
+     - **Inne** – pozostałe przypadki.  
+
+     ![Wybór typu operacji](/img/dziennikk9.png)  
+
+   - **Data i czas** – możesz ręcznie wskazać lub edytować termin wpisu.  
+   - **Opis** – wpisz dowolne informacje uzupełniające.  
+
+4. Aby zatwierdzić, kliknij **Dodaj** w prawym dolnym rogu.  
+5. Jeśli chcesz odrzucić zmiany przed zapisaniem, kliknij **Cofnij zmiany**. 
 ---
 
 ## Referencje do dokumentów  

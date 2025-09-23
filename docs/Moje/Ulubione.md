@@ -11,6 +11,6 @@ Sekcja **Ulubione** gromadzi dokumenty, które użytkownik oznaczył jako ulubio
 
 ## Zarządzanie ulubionymi
 
-Dodawanie i usuwanie dokumentów z ulubionych odbywa się **z poziomu widoku pojedynczego dokumentu** (szczegółowy opis znajduje się w sekcji *Dokument*).  
+Dodawanie i usuwanie dokumentów z ulubionych odbywa się [**z poziomu widoku pojedynczego dokumentu**](docs/przetwarzanie-pojedynczego-dokumentu/pasek-narzedzi-dokumentu.md).  
 
 ---

@@ -4,7 +4,6 @@ id: ksef
 title: Integracja KSeF
 ---
 
-
 # Integracja KSeF  
 
 Sekcja **Integracja** w menu **Dokumenty elektroniczne** umożliwia przeglądanie faktur pobranych automatycznie z Krajowego Systemu e-Faktur (KSeF).  

@@ -170,8 +170,12 @@ Po ponownym otwarciu:
 
 ### Dziennik korespondencji
 
-Opcja widoczna jest tylko wtedy, gdy dokument uczestniczył w wymianie korespondencji.  
-- Kliknij, aby wyświetlić historię korespondencji powiązanej z dokumentem. 
+Opcja pozwala sprawdzić, czy dokument został powiązany z wpisem w dzienniku korespondencji.  
+
+- Jeśli opcja jest **wyszarzona** – dokument **nie znajduje się** w dzienniku.  
+- Jeśli opcja jest **aktywna** – kliknij, aby przejść bezpośrednio do wpisu w dzienniku i zobaczyć jego podgląd.  
+
+![Dziennik korespondencji w menu dokumentu](/img/dziennik_dok.png)  
 
 ---
 

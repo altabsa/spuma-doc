@@ -14,7 +14,7 @@ Sekcja **Repozytorium** przechowuje dokumenty, które zostały już **przetworzo
 
 Repozytorium nie służy wyłącznie do przechowywania dokumentów – użytkownik może z niego aktywnie korzystać, np. wtedy, gdy potrzebny jest szybki dostęp do wcześniejszych plików.
 
-Aby sprawniej odnaleźć dokumenty, można wykorzystać dostępne **mechanizmy wyszukiwania**.
+Aby sprawniej odnaleźć dokumenty, można wykorzystać dostępne [**mechanizmy wyszukiwania**](docs/wyszukiwanie/wyszukiwanie.md).
 
 ---
 

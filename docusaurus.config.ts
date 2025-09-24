@@ -124,6 +124,11 @@ const config: Config = {
         //   label: 'GitHub',
         //   position: 'right',
         // },
+          {
+            type: 'docsVersionDropdown',
+            position: 'right',
+            dropdownActiveClassDisabled: true,
+         },
       ],
     },
     footer: {

@@ -102,7 +102,7 @@ const config: Config = {
       }),
     ],
   ],
-  themeConfig: {
+  themeConfig: { 
     navbar: {
       title: 'SPUMA',
       logo: {

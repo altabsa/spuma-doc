@@ -103,6 +103,7 @@ const config: Config = {
     ],
   ],
   themeConfig: { 
+    image: 'img/docusaurus.png',
     navbar: {
       title: 'SPUMA',
       logo: {

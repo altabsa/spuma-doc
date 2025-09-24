@@ -104,7 +104,7 @@ const config: Config = {
   ],
   themeConfig: {
     // Replace with your project's social card
-    // image: 'img/spuma-social-card.png',
+    image: 'img/docusaurus-social-card.jpg',
     navbar: {
       title: 'SPUMA',
       logo: {

@@ -127,7 +127,7 @@ const config: Config = {
           {
             type: 'docsVersionDropdown',
             position: 'right',
-            dropdownActiveClassDisabled: true,
+            // dropdownActiveClassDisabled: true,
          },
       ],
     },

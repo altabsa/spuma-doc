@@ -46,7 +46,7 @@ Dla dokumentów typu **Faktura** pojawiają się m.in. pola związane z **Partne
      - Kliknij **Zapisz**, a następnie **Wybierz**.
      - ⚠️Nowo dodany partner handlowy jest automatycznie zapisywany również w **SAP**.
    - **Skorzystać z przycisku Online podczas dodawania nowego PH**  
-     - Wpisz numer **PESEL**.  
+     - Wpisz numer **NIP**.  
      - Kliknij przycisk **Online**.
      - Pozostałe pola zostaną automatycznie uzupełnione. 
 

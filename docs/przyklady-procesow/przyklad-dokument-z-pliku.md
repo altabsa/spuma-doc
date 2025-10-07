@@ -11,6 +11,10 @@ title: Proces dla dokumentu z pliku
 1. **Wejdź** do sekcji **Sekretariat**.
 2. **Kliknij** przycisk **Nowy**. Otworzy się okno dodawania w trybie **Wybór plików**.
 3. **Sprawdź** przełącznik **OCR** – włącz, jeśli chcesz rozpoznać treść już teraz. (OCR możesz uruchomić także później; zobacz: [OCR](../przetwarzanie-pojedynczego-dokumentu/OCR.md)).
+
+   - Po włączeniu OCR system wykonuje wstępne rozpoznanie (Tesseract: regiony, słowa, próba odczytu **NIP sprzedawcy**), a następnie – jeśli dla rozpoznanego sprzedawcy istnieje **domyślny mechanizm OCR** – **automatycznie** przetwarza dokument ponownie tym mechanizmem.
+   - Jeśli sprzedawca **nie ma** przypisanego mechanizmu, pozostaje wynik wstępny; mechanizm możesz wybrać później ręcznie.
+
 4. **Kliknij** ikonę **+** , aby dodać plik z komputera.
 5. W oknie systemowym **Wybierz** plik i **kliknij Otwórz**.
 6. Po pojawieniu się pliku na liście **kliknij OK**, aby rozpocząć dodawanie.
@@ -27,7 +31,8 @@ Na początku jego status oznaczony jest ikoną klepsydry – dokument oczekuje n
 
 Gdy przetwarzanie się zakończy:  
 - system automatycznie przypisze **klasę dokumentu** (np. faktura kosztowa),  
-- nada mu **nazwę**,  
+- nada mu **nazwę**,
+- **zapisze informację o użytym mechanizmie OCR**, 
 - zmieni status na przetworzony.  
 
 ![Status OCR – zakończony](/img/przyklad3.png)  
@@ -35,7 +40,11 @@ Gdy przetwarzanie się zakończy:
 
 ## 3. Ponowne wysłanie do OCR  
 
-Po dodaniu dokumentu możesz uruchomić ponownie OCR, aby upewnić się, że system poprawnie rozpoznał wszystkie dane.  
+Po dodaniu dokumentu **sprawdź, jaki mechanizm OCR został użyty**. Informacja znajduje się w **zakładce OCR** na dokumencie. W naszym przykładzie jest to **Tesseract**.
+
+![Użyty OCR](/img/przyklad28.png)  
+
+Jeżeli mechanizm **nie został wybrany automatycznie** lub chcesz użyć innego, możesz ponownie uruchomić OCR:  
 
 1. **Otwórz** dokument z listy w **Sekretariacie** – kliknij na jego nazwę.  
 2. W prawym górnym rogu **kliknij ikonę menu operacji** (trzy kreski).  
@@ -44,7 +53,7 @@ Po dodaniu dokumentu możesz uruchomić ponownie OCR, aby upewnić się, że sys
 
 ![Ponowne wysłanie do OCR](/img/przyklad6.png)  
 
-**Wynik:** **pola** i **tabela** z zakładki **OCR** oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR.  
+**Wynik:** **pola** i **tabela** z zakładki **OCR** oraz zakładki **Ogólne** i **Atrybuty** zostają automatycznie uzupełnione na podstawie odczytu OCR. Automatycznie zmienia się rónież informacje o mechanizmie OCR.
 
 
 ## 4. Uzupełnienie danych w zakładce Ogólne

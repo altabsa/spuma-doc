@@ -30,11 +30,26 @@ Proces dodawania dokumentów do systemu składa się z kilku prostych kroków:
 
    ![Przesyłanie plików](/img/przesylanie_dok.png)
 
-**2. Wybierz, czy dokumenty mają zostać przetworzone przez OCR** 
+**2. Wybierz, czy dokumenty mają zostać przetworzone przez OCR**
 
-   Opcja OCR dostępna jest po prawej stronie – możesz ją <span style={{ color: 'grey' }}>wyłączyć</span> lub pozostawić <span style={{ color: 'blue' }}>włączoną</span>. OCR możesz także przeprowadzić później.
+   Opcja OCR dostępna jest po prawej stronie – możesz ją <span style={{ color: 'grey' }}>wyłączyć</span> lub pozostawić <span style={{ color: 'blue' }}>włączoną</span>. 
 
    ![OCR i pliki](/img/wybor_plikow_ocr.png)
+
+Działanie mechanizmu OCR przebiega według następujących kroków:
+
+a. Dokument jest wstępnie rozpoznawany przez mechanizm **Tesseract OCR**.  
+b. Mechanizm inicjalny wykrywa regiony i słowa na dokumencie oraz wyszukuje **NIP sprzedawcy**.  
+c. SPUMA sprawdza, czy sprzedawca ma przypisany domyślny mechanizm OCR:  
+   - **Tak** – dokument jest automatycznie przetwarzany ponownie przez ten mechanizm,  
+   - **Nie** – dokument pozostaje wstępnie rozpoznany.  
+
+d. Dokument można ponownie przeprocesować dowolnie wybranym mechanizmem OCR i ustawić go jako domyślny.
+
+:::tip[Podgląd przyporządkowania]
+ **Sprzedawca ↔ Mechanizm OCR** jest dostępny w aplikacji administracyjnej.  
+Administrator może w tym miejscu **przeglądać**, **zmieniać** oraz **ustawiać** domyślne mechanizmy OCR dla poszczególnych sprzedawców.
+:::
 
 **3. Kliknij przycisk OK**  
    Rozpoczyna się przesyłanie dokumentów do systemu i ich przetwarzanie.

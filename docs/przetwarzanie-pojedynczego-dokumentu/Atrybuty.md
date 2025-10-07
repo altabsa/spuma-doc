@@ -113,12 +113,28 @@ oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktowa�
 
 ## F. Atrybut typu „Kwota” (np. na liniach dokumentu)
 
+Atrybuty kwotowe występują często w zakładce **Linie** i dotyczą pozycji towarów lub usług.  
+Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, które ułatwiają rozdzielanie i przeliczanie wartości.
 
+| Sposób wprowadzenia | Opis | Przykład |
+|----------------------|------|----------|
+| **Wartość wpisana ręcznie** | Wpisz konkretną kwotę i **naciśnij Enter**, aby zatwierdzić. | 1120.00 |
+| **Podział na X (/x)** | Wpisz kwotę, **kliknij Enter**, następnie wpisz / i liczbę pozycji, na które chcesz podzielić wartość (np. /3) i ponownie **kliknij Enter** – system doda trzy linie z równym podziałem kwoty. | /3 → kwota zostanie rozdzielona na 3 pozycje |
+| **Procent wartości (x%)** | Wpisz liczbę, **kliknij Enter**, wpisz procent oraz znak % i ponownie **kliknij Enter** – system automatycznie przeliczy wartość linii według podanego procentu. | 10% → linia zostanie uzupełniona wartością 10% podanej wartości |
+| **Pozycja z linii OCR (pX)** | Wpisz p i numer pozycji (np. p3) – system pobierze dane z rozpoznanej tabeli OCR z pozycji nr 3 i wypełni nimi bieżącą linię. | p3 → dane z 3. linii OCR |
+
+:::tip[Jak szybko pracować z kwotami]
+- Po wpisaniu wartości **zawsze zatwierdzaj ją klawiszem Enter** – system natychmiast przeliczy wynik.  
+- Używaj skrótów /x, x% i pX, aby przyspieszyć wprowadzanie danych.  
+- Po podziale lub przeliczeniu wartości system automatycznie aktualizuje pole **Do rozliczenia** w zakładce **Linie**.
+:::
+
+Każda wprowadzona wartość jest przeliczana automatycznie po zapisaniu dokumentu.
 
 ------------------------
 ---
 
-
+## Przykład: klasa **Zamówienie zakupu**
 
 ## Przyciski wyzwalacze  
 

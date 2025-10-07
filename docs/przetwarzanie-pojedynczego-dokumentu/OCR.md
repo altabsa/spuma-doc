@@ -14,6 +14,15 @@ Znajdziesz tu dwie zakładki: **Pola** oraz **Tabela**.
 
 ---
 
+## Użyty mechanizm OCR
+
+W górnej części zakładki **OCR** zobaczysz informację o **użytym mechanizmie OCR** (np. Tesseract, GPT).  
+Po **ponownym wysłaniu do OCR** informacja ta **aktualizuje się automatycznie**.
+
+![Użyty OCR – nagłówek zakładki](/img/przyklad28.png)
+
+---
+
 ## Pola  
 
 Zakładka **Pola** wyświetla dane nagłówkowe, takie jak: numer faktury, NIP, datę dokumentu itp.  

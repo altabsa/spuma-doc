@@ -30,7 +30,7 @@ Na górze pojawia się pasek z nazwą aktywnej sekcji, a poniżej wyświetlana j
 
 Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające identyfikację:  
 
-- **Nazwa dokumentu** – pełna nazwa nadana w zakładce *Ogólne*,  
+- **Nazwa dokumentu** – pełna nazwa nadana w zakładce *Ogólne* wraz z unikatowym identyfikatorem w nawiasie,  
 - **klasa dokumentu** – np. *Faktura kosztowa*, *Zamówienie zakupu*, *Inne dokumenty*,  
 - **Data dokumentu**,  
 - [**Status**](docs/przetwarzanie-pojedynczego-dokumentu/Status_dokumentu.md),  

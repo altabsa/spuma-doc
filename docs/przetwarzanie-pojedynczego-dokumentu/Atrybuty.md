@@ -149,7 +149,7 @@ Pole służy do wskazania osoby przypisanej do zamówienia jako zamawiający.
 Pole **Numer SAP** jest wypełniane automatycznie po utworzeniu dokumentu w systemie **SAP**.  
 
 - Podczas tworzenia zamówienia **pozostaw to pole puste**.  
-- Po kliknięciu przycisku **Zapisz do SAP** (opis poniżej) system automatycznie wypełni numerem nadanym w SAP.  
+- Po kliknięciu przycisku **Zapisz do SAP** system automatycznie wypełni numerem nadanym w SAP.  
 
 ![Numer SAP – uzupełniony automatycznie](/img/przyklad26.png)
 

@@ -24,7 +24,14 @@ Aby dodać nową pozycję:
 
 W polach wprowadzamy m.in.:  
 - **Towar** – wpisz kod lub fragment nazwy. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać indeksy dostępne w SAP.  
-- **Kwota** – podaj wartość przypisaną do pozycji i wciśnij enter, żeby dodać.  
+- **Kwota** – podaj wartość przypisaną do pozycji i wciśnij enter, żeby dodać.
+
+:::tip[Jak szybko wpisać kwotę?]
+- Wpisz kwotę, **kliknij Enter**, następnie wpisz / i liczbę pozycji, na które chcesz podzielić wartość (np. /3) i ponownie **kliknij Enter** – system doda trzy linie z równym podziałem kwoty, np. /3 → kwota zostanie rozdzielona na 3 pozycje.
+- Wpisz liczbę, **kliknij Enter**, wpisz procent oraz znak % i ponownie **kliknij Enter** – system automatycznie przeliczy wartość linii według podanego procentu, np. 10% → linia zostanie uzupełniona wartością 10% podanej wartości.
+- Wpisz p i numer pozycji (np. p3) – system pobierze dane z rozpoznanej tabeli OCR z pozycji nr 3 i wypełni nimi bieżącą linię, np. p3 → dane zostaną uzupełnione na podstawie 3. linii OCR.
+:::
+
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.  
 
 ### Inne sposoby dodawania linii  

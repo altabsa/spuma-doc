@@ -127,7 +127,7 @@ Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, któr
 
 ## Przykład: klasa **Zamówienie zakupu**
 
-Dla dokumentów klasy **Zamówienie zakupu** zakładka **Atrybuty** zawiera pola służące do przygotowania dokumentu przed wysłaniem go do systemu **SAP**.  
+Dla dokumentów klasy **Zamówienie zakupu** zakładka **Atrybuty** zawiera pola służące do przygotowania dokumentu.  
 
 ---
 

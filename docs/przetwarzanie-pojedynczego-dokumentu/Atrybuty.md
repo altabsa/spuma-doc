@@ -53,7 +53,6 @@ Służy do wskazania dostawcy lub odbiorcy dokumentu.
 4. Po wybraniu partnera pole w zakładce **Atrybuty** zostanie uzupełnione.  
 
 ---
----------------------
 ### B. Atrybut – Dokument bazowy  
 
 To pole pozwala wskazać dokument, na którym opiera się bieżący dokument.  
@@ -91,7 +90,11 @@ Atrybuty typu data (np. *Data płatności*) pozwalają na szybkie wprowadzanie l
 
 ### D. Atrybut Brutto / Netto  
 
-  
+Atrybut **Brutto / Netto** określa sposób, w jaki system ma rozliczać wartości dokumentu. Dzięki temu SPUMA wie, czy wprowadzone kwoty odnoszą się do wartości **netto**, czy **brutto** – a następnie automatycznie przelicza pozostałe pola. Na obrazie poniżej widać różnice w kwocie **do rozliczenia** w zależności od wybranego trybu.  
+
+![Tryb Brutto / Netto](/img/przyklad29.png)
+
+Wybór trybu **Brutto** lub **Netto** ma znaczenie również przy przesyłaniu dokumentu do **KSeF**, który wymaga jednoznacznego określenia typu wartości.  
 
 ---
 
@@ -102,11 +105,8 @@ To atrybuty, których wartości pochodzą z **list słownikowych** pobieranych z
 - **Wybierz wartość** z rozwijanej listy.   
 
 ⚠️ **Brak połączenia z SAP**  
-Jeżeli podczas próby wyboru wartości pojawi się komunikat:
 
-*„???”*
-
-oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktować się z administratorem.
+Jeżeli podczas próby wyboru wartości pojawi się komunikat oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktować się z administratorem.
 
 ---
 
@@ -122,7 +122,6 @@ Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, któr
 | **Procent wartości (x%)** | Wpisz liczbę, **kliknij Enter**, wpisz procent oraz znak % i ponownie **kliknij Enter** – system automatycznie przeliczy wartość linii według podanego procentu. | 10% → linia zostanie uzupełniona wartością 10% podanej wartości |
 | **Pozycja z linii OCR (pX)** | Wpisz p i numer pozycji (np. p3) – system pobierze dane z rozpoznanej tabeli OCR z pozycji nr 3 i wypełni nimi bieżącą linię. | p3 → dane z 3. linii OCR |
 
-------------------------
 ---
 
 ## Przykład: klasa **Zamówienie zakupu**

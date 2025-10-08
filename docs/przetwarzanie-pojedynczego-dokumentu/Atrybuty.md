@@ -10,21 +10,21 @@ Zakładka **Atrybuty** zawiera zestaw pól opisujących dokument.
 Zakres dostępnych pól zależy od wybranej **klasy dokumentu** (ustawianej w zakładce **Ogólne**). 
 
 
-## Przykład: klasa Faktura  
+## Przykład: **klasa Faktura**  
 
 Dla dokumentów typu **Faktura** pojawiają się m.in. pola związane z **Partnerem handlowym (PH)**.  
 
-## A. Atrybut – Partner handlowy (PH)  
+### A. Atrybut – Partner handlowy (PH)  
 
 Służy do wskazania dostawcy lub odbiorcy dokumentu.  
 
-### Usuwanie wartości  
+#### Usuwanie wartości  
 
 - Kliknij ikonę **X**, aby usunąć aktualnie przypisaną wartość.  
 
 ![Usuń wartość](/img/atrybuty1.png)  
 
-### Dodawanie wartości  
+#### Dodawanie wartości  
 
 1. Kliknij ikonę **podwójnego kwadratu**.  
    Otworzy się okno wyboru partnera handlowego.  
@@ -54,7 +54,7 @@ Służy do wskazania dostawcy lub odbiorcy dokumentu.
 
 ---
 ---------------------
-## B. Atrybut – Dokument bazowy  
+### B. Atrybut – Dokument bazowy  
 
 To pole pozwala wskazać dokument, na którym opiera się bieżący dokument.  
 Może to być np. **zamówienie zakupu** czy **dokument PZ**.  
@@ -72,7 +72,7 @@ Po wskazaniu dokumentu bazowego SPUMA umożliwia później **skopiowanie danych*
 
 ---
 
-## C. Atrybut typu „Data”  
+### C. Atrybut typu „Data”  
 
 Atrybuty typu data (np. *Data płatności*) pozwalają na szybkie wprowadzanie lub wybór daty.  
 
@@ -89,13 +89,13 @@ Atrybuty typu data (np. *Data płatności*) pozwalają na szybkie wprowadzanie l
 
 ---
 
-## D. Atrybut Brutto / Netto  
+### D. Atrybut Brutto / Netto  
 
   
 
 ---
 
-## E. Atrybuty słownikowe (np. Metoda płatności, Waluta, Projekt, Centrum kosztów)
+### E. Atrybuty słownikowe (np. Metoda płatności, Waluta, Projekt, Centrum kosztów)
 
 To atrybuty, których wartości pochodzą z **list słownikowych** pobieranych z systemu **SAP**.  
 
@@ -110,7 +110,7 @@ oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktowa�
 
 ---
 
-## F. Atrybut typu „Kwota” (np. na liniach dokumentu)
+### F. Atrybut typu „Kwota” (np. na liniach dokumentu)
 
 Atrybuty kwotowe występujące w zakładce **Linie** dotyczą pozycji towarów lub usług.  
 Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, które ułatwiają rozdzielanie i przeliczanie wartości.
@@ -127,7 +127,7 @@ Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, któr
 
 ## Przykład: klasa **Zamówienie zakupu**
 
-## Przyciski wyzwalacze  
+### Przyciski wyzwalacze  
 
 W zakładce **Atrybuty** mogą być również dostępne dodatkowe przyciski tzw. **wyzwalacze**.  
 Służą one do wykonywania akcji powiązanych z dokumentem.  

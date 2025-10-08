@@ -127,18 +127,56 @@ Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, któr
 
 ## Przykład: klasa **Zamówienie zakupu**
 
-### Przyciski wyzwalacze  
+Dla dokumentów klasy **Zamówienie zakupu** zakładka **Atrybuty** zawiera pola służące do przygotowania dokumentu przed wysłaniem go do systemu **SAP**.  
 
-W zakładce **Atrybuty** mogą być również dostępne dodatkowe przyciski tzw. **wyzwalacze**.  
-Służą one do wykonywania akcji powiązanych z dokumentem.  
+---
 
-Przykład:  
+### A. Atrybut słownikowy – Zamawiający  
 
-- Dla dokumentu opartego na klasie **zamówienia zakupu** może pojawić się przycisk  
-  **Zapisz do SAP**.  
-- Kliknięcie tego przycisku powoduje automatyczne utworzenie zlecenia zakupu w systemie **SAP**.  
+Pole służy do wskazania osoby przypisanej do zamówienia jako zamawiający.  
 
-![Zakładka Atrybuty – dokument pusty](/img/przyklad22.png)  
+- **Kliknij rozwijaną listę** i wybierz użytkownika z listy dostępnych osób.  
+- Wartość pobierana jest ze słownika użytkowników SAP.  
+
+![Atrybut Zamawiający](/img/przyklad22.png)  
+
+**Wynik:** w polu **Zamawiający** widoczna jest wybrana osoba.  
+
+---
+
+### B. Atrybut – Numer SAP  
+
+Pole **Numer SAP** jest wypełniane automatycznie po utworzeniu dokumentu w systemie **SAP**.  
+
+- Podczas tworzenia zamówienia **pozostaw to pole puste**.  
+- Po kliknięciu przycisku **Zapisz do SAP** (opis poniżej) system automatycznie wypełni numerem nadanym w SAP.  
+
+![Numer SAP – uzupełniony automatycznie](/img/przyklad26.png)
+
+---
+
+### C. Atrybut typu „Data”  
+
+W dokumentach klasy **Zamówienie zakupu** występują atrybuty **Ważne do** oraz **Wymagane na**.  
+Działają one w taki sam sposób jak **pola dat** w dokumentach typu **Faktura zakupu**:  
+
+---
+
+### D. Atrybut typu „Wyzwalacz” – Zapisz do SAP  
+
+Atrybuty typu **Wyzwalacz** służą do wykonywania akcji powiązanych z dokumentem. W tym przypadku uruchamia akcję zapisu dokumentu w systemie **SAP**. 
+
+- **Kliknij przycisk „Zapisz do SAP”**.  
+- System wyświetli pytanie:  
+  *„Utworzyć Zlecenie Zakupu w SAP?”*  
+- Kliknij **Tak**, aby potwierdzić.  
+
+![Zapis do SAP](/img/przyklad25.png)
+
+**Wynik:**  
+- SPUMA tworzy zlecenie zakupu w SAP,  
+- numer dokumentu SAP zostaje automatycznie wpisany do pola **Numer SAP**,  
+- dokument oznaczony jest jako **zapisany w SAP** i może być dalej przetwarzany (np. w Repozytorium).  
 
 Szczegółowy przykład znajdziesz w sekcji:  
 [Przykład – dokument pusty](../przyklady-procesow/przyklad-dokument-pusty.md).

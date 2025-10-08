@@ -53,7 +53,22 @@ Obieg działa analogicznie jak w przypadku dokumentu z pliku.
 
 ---
 
-## 4. Repozytorium – dokument końcowy  
+## 4. Księgowanie w SAP
+
+Po zatwierdzeniu dokumentu można go zaksięgować w systemie SAP. 
+
+1. **Przejdź** do zakładki **Linie**.  
+2. W prawym górnym rogu **otwórz menu operacji** (trzy kreski).  
+3. **Wybierz opcję „Księguj w SAP”**.  
+
+![Opcja księgowania w SAP](/img/przyklad17.png)
+
+4. System wyświetli komunikat z pytaniem, czy dodać dokument tymczasowy.  
+   - Kliknij **Tak**.  
+
+**Wynik:** dokument zostaje wysłany do SAP jako dokument tymczasowy.  
+
+## 5. Repozytorium – dokument końcowy  
 
 Po zakończeniu obiegu dokument zostaje automatycznie przeniesiony do odpowiedniego katalogu w **Repozytorium**.  
 

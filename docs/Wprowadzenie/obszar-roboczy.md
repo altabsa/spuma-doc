@@ -17,7 +17,7 @@ Po zalogowaniu do systemu SPUMA, użytkownik trafia do głównego **obszaru robo
 
 ## Widok sekcji
 
-Po kliknięciu w dowolną pozycję z **menu głównego** (np. „Oczekujące”, „Ulubione” lub folder repozytorium), system otwiera osobne okno w obszarze roboczym.
+Po kliknięciu w dowolną pozycję z **menu głównego** (np. „Sekretariat”, „Oczekujące”, „Ulubione” czy folder repozytorium), system otwiera osobne okno w obszarze roboczym.
 
 Na górze pojawia się pasek z nazwą aktywnej sekcji, a poniżej wyświetlana jest:
 
@@ -27,6 +27,14 @@ Na górze pojawia się pasek z nazwą aktywnej sekcji, a poniżej wyświetlana j
 - lub raporty.
 
 ### Przykład listy dokumentów 
+
+Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające identyfikację:  
+
+- **Nazwa dokumentu** – pełna nazwa nadana w zakładce *Ogólne*,  
+- **klasa dokumentu** – np. *Faktura kosztowa*, *Zamówienie zakupu*, *Inne dokumenty*,  
+- **Data dokumentu**,  
+- [**Status**](docs/przetwarzanie-pojedynczego-dokumentu/Status_dokumentu.md),  
+- Dla dokumentów klasy **Faktura** w kolumnie listy pojawia się dodatkowo **Partner handlowy (PH)** - **Nowość w wersji 7.1:** 
 
 ![Lista-dokumentow](/img/lista_dok.png)
 
@@ -41,6 +49,8 @@ Jeśli w wybranej sekcji nie ma jeszcze żadnych dokumentów – wyświetlany je
 ---
 
 ### Przykład otwartego dokumentu
+
+Po kliknięciu na dowolny dokument z listy, jego szczegóły otwierają się w nowej zakładce. Możesz przeglądać, edytować i wykonywać na nim operacje.  
 
 ![Podglad-dokumentow](/img/podglad_dok.png)
 

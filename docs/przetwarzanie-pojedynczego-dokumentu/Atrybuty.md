@@ -127,7 +127,9 @@ Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, któr
 
 ## Przykład: klasa **Zamówienie zakupu**
 
-Dla dokumentów klasy **Zamówienie zakupu** zakładka **Atrybuty** zawiera pola służące do przygotowania dokumentu.  
+Dla dokumentów klasy **Zamówienie zakupu** zakładka **Atrybuty** zawiera pola służące do przygotowania dokumentu. 
+
+![Atrybut Zamawiający](/img/przyklad22.png)  
 
 ---
 
@@ -137,8 +139,6 @@ Pole służy do wskazania osoby przypisanej do zamówienia jako zamawiający.
 
 - **Kliknij rozwijaną listę** i wybierz użytkownika z listy dostępnych osób.  
 - Wartość pobierana jest ze słownika użytkowników SAP.  
-
-![Atrybut Zamawiający](/img/przyklad22.png)  
 
 **Wynik:** w polu **Zamawiający** widoczna jest wybrana osoba.  
 

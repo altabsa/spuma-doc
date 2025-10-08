@@ -84,7 +84,11 @@ Opcja **Drukuj** umożliwia przygotowanie i zapisanie wydruku danych z dziennika
      ![Wybór typu operacji](/img/dziennikk9.png)  
 
    - **Data i czas** – możesz ręcznie wskazać lub edytować termin wpisu.  
-   - **Opis** – wpisz dowolne informacje uzupełniające.  
+   - **Opis** – wpisz dowolne informacje uzupełniające.
+  
+:::tip[Uwaga]
+W zależności od wdrożenia lub późniejszych modyfikacji wprowadzonych przez administratora, wpis może wymagać uzupełnienia **dodatkowych atrybutów**.  
+:::
 
 4. Aby zatwierdzić, kliknij **Dodaj** w prawym dolnym rogu.  
 5. Jeśli chcesz odrzucić zmiany przed zapisaniem, kliknij **Cofnij zmiany**. 

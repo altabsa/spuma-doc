@@ -157,8 +157,7 @@ Pole **Numer SAP** jest wypełniane automatycznie po utworzeniu dokumentu w syst
 
 ### C. Atrybut typu „Data”  
 
-W dokumentach klasy **Zamówienie zakupu** występują atrybuty **Ważne do** oraz **Wymagane na**.  
-Działają one w taki sam sposób jak **pola dat** w dokumentach typu **Faktura zakupu**:  
+W dokumentach klasy **Zamówienie zakupu** występują również atrybuty typu **data** działające w taki sam sposób jak **pola dat** w dokumentach typu **Faktura zakupu**:  
 
 ---
 

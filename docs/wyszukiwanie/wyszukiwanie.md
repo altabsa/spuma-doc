@@ -22,7 +22,13 @@ System SPUMA oferuje dwa niezależne, ale uzupełniające się mechanizmy wyszuk
 | Szukasz tylko w repozytorium | ❌ Nie | ✅ Tak |
 | Chcesz wyszukać i od razu edytować | ✅ Tak | ✅ Tak |
 
-Można również łączyć oba mechanizmy wyszukiwania – przykładowo: najpierw skorzystać z wyszukiwania globalnego, aby odnaleźć wszystkie dokumenty zawierające daną frazę (np. nazwę), a następnie będąc już w wynikach, zawęzić je lokalnie za pomocą wyszukiwania kontekstowego (np. wg kontrahenta, statusu lub sortowania).
+
+:::tip[Łączenie wyszukiwania globalnego i kontekstowego]  
+Najlepsze wyniki osiągniesz, **łącząc oba mechanizmy wyszukiwania**.  
+Najpierw użyj **wyszukiwania globalnego**, aby znaleźć wszystkie dokumenty zawierające daną frazę,  
+a następnie – będąc już w wynikach – zastosuj **wyszukiwanie kontekstowe**, aby zawęzić listę według **statusu**, **klasy**, **kontrahenta** lub innych filtrów.  
+To szybki sposób, by przejść od ogólnych wyników do konkretnych dokumentów.  
+:::
 
 ---
 

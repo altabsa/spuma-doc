@@ -42,9 +42,9 @@ Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające id
 
 ### Przykład pustej sekcji
 
-![Pusta-lista-dokumentow](/img/pusta_lista_dok.png)
-
 Jeśli w wybranej sekcji nie ma jeszcze żadnych dokumentów – wyświetlany jest czytelny komunikat informacyjny.
+
+![Pusta-lista-dokumentow](/img/pusta_lista_dok.png)
 
 ---
 

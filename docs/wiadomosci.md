@@ -24,7 +24,10 @@ Dzięki niemu możesz komunikować się z innymi użytkownikami, a także wysył
 - Jeśli klikniesz istniejący czat, zobaczysz całą jego historię i możesz kontynuować rozmowę.  
 - Nową wiadomość do uczestników rozmowy wpisz w polu **Wpisz wiadomość** i kliknij ikonę **Wyślij**.  
 
-Do wiadomości możesz wklejać linki do dokumentów SPUMA – skopiuj link z menu dokumentu i wklej go w treści.  
+:::tip[Linki do dokumentów]  
+Do wiadomości możesz wklejać **linki do dokumentów SPUMA** – skopiuj link z **menu dokumentu** i wklej go w treści wiadomości.  
+Kliknięcie takiego linku otwiera dokument w **nowej zakładce**, dzięki czemu masz do niego szybki dostęp.  
+:::
 
 ---
 

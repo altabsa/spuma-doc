@@ -59,7 +59,13 @@ Aby podjąć decyzję o dostępie:
    - **Zabroń** – dostęp zostanie odrzucony,  
    - **Anuluj** – zamknij okno bez decyzji.  
 
+:::tip[Zrób to przed nadaniem dostępu!]  
+Zanim przyznasz dostęp, **kliknij ID dokumentu**.  
+W nowej zakładce otworzy się jego podgląd – możesz w ten sposób szybko sprawdzić, czego dotyczy prośba.  
+:::
+
 ![Zmiana dostępu](/img/dostep4.png)  
+
 ---
 
 ## Ważne informacje  

@@ -103,18 +103,19 @@ Dostępne opcje to:
 
 - **Zaproponuj** – przykładowy własny przycisk (wyzwalacz). Mogą się tu pojawiać również inne dodatkowo zdefiniowane przyciski.   
 
-⚠️ Opcje wyszarzone są w danym momencie niedostępne.  
+Opcje wyszarzone są w danym momencie niedostępne.  
 
 ---
 
 ## Ważne informacje  
 
+:::danger[]
 - Pole **Do rozliczenia** pokazuje różnicę między:  
-  - **wartością netto dokumentu** wpisaną w zakładce **Atrybuty**,  
+  - **wartością dokumentu** (netto lub brutto w zależności od zaznaczonej opcji definiowania kosztu) wpisaną w zakładce **Atrybuty**,  
   - a **sumą wartości wprowadzonych linii**.  
 
 - Dzięki temu użytkownik na bieżąco widzi, czy wszystkie kwoty zostały prawidłowo rozdysponowane.  
 
 - Linie mogą być również dodawane automatycznie przez mechanizm **OCR** – szczegóły znajdziesz w sekcji OCR.  
-
+:::
 ---

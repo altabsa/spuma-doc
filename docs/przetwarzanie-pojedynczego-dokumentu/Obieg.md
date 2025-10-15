@@ -125,7 +125,7 @@ Pozostawienie pola pustego powoduje przekierowanie dokumentu np. do księgowośc
 
 ![Okno zatwierdzania](/img/obieg4.png)  
 
-⚠️ Przy odrzucaniu dokumentu system może dodatkowo wymagać podania przyczyny – wtedy pojawia się komunikat:  
+Przy odrzucaniu dokumentu system może dodatkowo wymagać podania przyczyny – wtedy pojawia się komunikat:  
 
 ![Komunikat przy odrzucaniu](/img/obieg7.png)  
 
@@ -139,7 +139,7 @@ Po kliknięciu **Zatwierdź** lub **Odrzuć** dokument zostaje oznaczony jako ws
 
 ![Komunikat wstępny](/img/obieg5.png)  
 
-⚠️ Operacja nie jest jeszcze ostateczna. Aby ją zatwierdzić:  
+Operacja nie jest jeszcze ostateczna. Aby ją zatwierdzić:  
 
 1. Kliknij przycisk **Zapisz** w prawym górnym rogu.  
    ![Zapisz dokument](/img/obieg6.png)  

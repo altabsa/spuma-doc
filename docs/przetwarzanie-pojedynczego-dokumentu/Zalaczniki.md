@@ -7,7 +7,10 @@ title: Załączniki
 # Załączniki  
 
 Zakładka **Załączniki** służy do podpinania i odpinania plików powiązanych z dokumentem.  
-Wszystkie załączniki pochodzą wyłącznie ze SPUMY.  
+
+:::danger[]
+Wszystkie załączniki pochodzą wyłącznie ze SPUMY. Oznacza to, że najpierw trzeba dodać dokument do SPUMY, a następnie można go podpiąc jako załącznik.
+:::
 
 ---
 

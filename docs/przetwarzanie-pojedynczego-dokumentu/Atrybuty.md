@@ -105,7 +105,7 @@ To atrybuty, których wartości pochodzą z **list słownikowych** pobieranych z
 
 - **Wybierz wartość** z rozwijanej listy.   
 
-⚠️ **Brak połączenia z SAP**  
+**Brak połączenia z SAP**  
 
 Jeżeli podczas próby wyboru wartości pojawi się komunikat oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktować się z administratorem.
 

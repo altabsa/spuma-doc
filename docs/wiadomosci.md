@@ -26,7 +26,7 @@ Dzięki niemu możesz komunikować się z innymi użytkownikami, a także wysył
 
 :::tip[Linki do dokumentów]  
 Do wiadomości możesz wklejać **linki do dokumentów SPUMA** – skopiuj link z **menu dokumentu** i wklej go w treści wiadomości.  
-Kliknięcie takiego linku otwiera dokument w **nowej zakładce**, dzięki czemu masz do niego szybki dostęp. Możesz otworzyć kilka dokumentów jednocześnie - każdy otworzy się w nowej zakładce.
+Kliknięcie takiego linku otwiera dokument w **nowej zakładce**, dzięki czemu masz do niego szybki dostęp. Możesz otworzyć kilka dokumentów jednocześnie – każdy otworzy się w nowej zakładce.
 :::
 
 ---

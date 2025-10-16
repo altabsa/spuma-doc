@@ -50,9 +50,14 @@ Jeśli w wybranej sekcji nie ma jeszcze żadnych dokumentów – wyświetlany je
 
 ### Przykład otwartego dokumentu
 
-Po kliknięciu na dowolny dokument z listy, jego szczegóły otwierają się w nowej zakładce. Możesz przeglądać, edytować i wykonywać na nim operacje.  
+Po kliknięciu na dowolny dokument z listy, jego szczegóły otwierają się w obszarze roboczym. Możesz przeglądać, edytować i wykonywać na nim operacje.  
 
 ![Podglad-dokumentow](/img/podglad_dok.png)
+
+Po kliknięciu w ikonę telewizorka na dokumentach z listy, jego szczegóły otwierają się w nowej zakładce obszaru roboczego. Możesz otworzyć kilka dokumentów jednocześnie.  
+
+![Podglad-dokumentow](/img/podglad_dok2.png)
+
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-id: blad-przy-logowaniu
-title: Błąd przy logowaniu
+id: bledne-haslo
+title: Błędne hasło
 ---
 
-# Błąd przy logowaniu  
+# Błędne hasło  
 
 **Zgłoszony problem**  
 Użytkownik nie może się zalogować – po wpisaniu loginu i hasła pojawia się komunikat *„Błędne hasło”*.  

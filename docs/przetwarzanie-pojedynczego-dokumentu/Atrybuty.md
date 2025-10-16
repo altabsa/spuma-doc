@@ -54,6 +54,12 @@ Nowo dodany partner handlowy jest automatycznie zapisywany również w **SAP**.
 
 4. Po wybraniu partnera pole w zakładce **Atrybuty** zostanie uzupełnione.  
 
+**Brak połączenia z SAP** 
+
+![Brak połączenia z SAP](/img/blad2.png) 
+
+Jeżeli podczas próby wyboru wartości pojawi się komunikat oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktować się z administratorem.
+
 ---
 ### B. Atrybut – Dokument bazowy  
 
@@ -107,6 +113,8 @@ To atrybuty, których wartości pochodzą z **list słownikowych** pobieranych z
 - **Wybierz wartość** z rozwijanej listy.   
 
 **Brak połączenia z SAP**  
+
+![Brak połączenia z SAP](/img/blad3.png) 
 
 Jeżeli podczas próby wyboru wartości pojawi się komunikat oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktować się z administratorem.
 

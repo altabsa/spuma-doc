@@ -47,10 +47,10 @@ Służy do wskazania dostawcy lub odbiorcy dokumentu.
 :::danger[]
 Nowo dodany partner handlowy jest automatycznie zapisywany również w **SAP**.
 :::
-      - **Skorzystać z przycisku Online podczas dodawania nowego PH**  
-        - Wpisz numer **NIP**.  
-        - Kliknij przycisk **Online**.
-        - Pozostałe pola zostaną automatycznie uzupełnione. 
+   - **Skorzystać z przycisku Online podczas dodawania nowego PH**  
+      - Wpisz numer **NIP**.  
+      - Kliknij przycisk **Online**.
+      - Pozostałe pola zostaną automatycznie uzupełnione. 
 
 4. Po wybraniu partnera pole w zakładce **Atrybuty** zostanie uzupełnione.  
 

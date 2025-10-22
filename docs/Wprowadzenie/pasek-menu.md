@@ -15,7 +15,7 @@ Pasek menu to górna część interfejsu systemu SPUMA. Jest stale widoczny i za
 | ![search](/img/search-icon.png) | [Wyszukiwarka](docs/wyszukiwanie/wyszukiwanie.md) | Pozwala wyszukiwać dokumenty. |
 | ![flag-icon](/img/powiadomienia_flaga.png) | Dokumenty oczekujące | Informuje o dokumentach, które wymagają zatwierdzenia lub działania użytkownika. Kliknięcie przekierowuje do listy oczekujących dokumentów. |
 | ![edoc-icon](/img/powiadomienia_edoc.png) | Dokumenty elektroniczne | Powiadomienia dotyczące e-dokumentów. |
-| ![alert-icon](/img/powiadomienia_alarm.png) | Alarmy | Spersonalizowane powiadomienia |
+| ![alert-icon](/img/powiadomienia_alarm.png) | [Alarmy](docs/alarmy.md) | Spersonalizowane powiadomienia |
 | ![messages](/img/messages-icon.png) | [Wiadomości](docs/wiadomosci.md) | System wiadomości wewnętrznych między użytkownikami SPUMA. |
 | ![user](/img/user-icon.png) | [Konto użytkownika](docs/konto_uzytkownika/konto.md) | Dostęp do ustawień konta, danych użytkownika i opcji wylogowania. |
 

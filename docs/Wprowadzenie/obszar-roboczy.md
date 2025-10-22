@@ -34,9 +34,9 @@ Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające id
 - **klasa dokumentu** – np. *Faktura kosztowa*, *Zamówienie zakupu*, *Inne dokumenty*,  
 - **Data dokumentu**,  
 - [**Status**](docs/przetwarzanie-pojedynczego-dokumentu/Status_dokumentu.md),  
-- Dla dokumentów klasy **Faktura** w kolumnie listy pojawia się dodatkowo **Partner handlowy (PH)** 
+- Dla dokumentów klasy **Faktura** w kolumnie listy pojawia się dodatkowo **Partner handlowy (PH)** (np. FVZ_123_37).
 
-![Lista-dokumentow](/img/lista_dok.png)
+![Lista-dokumentow](/img/lista_dok2.png)
 
 ---
 

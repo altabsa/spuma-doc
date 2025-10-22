@@ -6,7 +6,7 @@ title: Alarmy
 
 # Alarmy
 
-W sekcji **Alarmy** widoczne są spersonalizowane alarmy oraz alarm systemowy lista **Odrzucone**.
+W sekcji **Alarmy** widoczne są spersonalizowane alarmy oraz alarm systemowy **Odrzucone**.
 
 
 ## Odrzucone

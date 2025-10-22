@@ -20,4 +20,4 @@ Jest to alarm systemowy pokazujący odrzucone dokumenty, których jestem właśc
 5. Aby usunąć wszystkie powiadomienia jednocześnie, kliknij przycisk **Wyczyść**.  
    - Przy próbie wyczyszczenia wszystkiego system wyświetli komunikat potwierdzający „Czy na pewno chcesz odznaczyć wszystkie dokumenty?”.
 
-![Alarm odrzuconych dokumentów](./img/alarmy.png)
+![Alarm odrzuconych dokumentów](./img/alarmy.png) 

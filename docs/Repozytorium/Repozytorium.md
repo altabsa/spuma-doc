@@ -29,7 +29,9 @@ Gdy już znajdziesz się w docelowym katalogu, **widoczna jest pełna ścieżka 
 
 ![Repozytorium](/img/repozytorium2.png)
 
-:::tip[Sprawne poruszanie się po folderach] Nie musisz wchodzić do repozytorium od początku, aby przejść do odpowiedniego folderu. Możesz kliknąć w dowolny folder w ścieżce, aby szybko wrócić do wcześniejszego poziomu. :::
+:::tip[Sprawne poruszanie się po folderach] 
+Nie musisz wchodzić do repozytorium od początku, aby przejść do odpowiedniego folderu. Możesz kliknąć w dowolny folder w ścieżce, aby szybko wrócić do wcześniejszego poziomu. 
+:::
 
 ---
 

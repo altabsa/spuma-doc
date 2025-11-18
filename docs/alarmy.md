@@ -19,5 +19,6 @@ Jest to alarm systemowy pokazujący odrzucone dokumenty, których jestem właśc
 4. Przy każdym powiadomieniu dostępna jest ikona **x**, którą możesz użyć, aby usunąć pojedyncze powiadomienie.  
 5. Aby usunąć wszystkie powiadomienia jednocześnie, kliknij przycisk **Wyczyść**.  
    - Przy próbie wyczyszczenia wszystkiego system wyświetli komunikat potwierdzający „Czy na pewno chcesz odznaczyć wszystkie dokumenty?”.
+6. Kliknij odśwież, aby szybko sprawdzić, czy pojawiły się nowe alarmy. **Nie jest to jednak konieczne**, ponieważ alarmy same odświeżają się co jakiś czas.
 
-![Alarm odrzuconych dokumentów](/img/alarmy.png) 
+![Alarm odrzuconych dokumentów](/img/alarmy_7_3.png) 

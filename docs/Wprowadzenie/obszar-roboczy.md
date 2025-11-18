@@ -34,9 +34,9 @@ Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające id
 - **klasa dokumentu** – np. *Faktura kosztowa*, *Zamówienie zakupu*, *Inne dokumenty*,  
 - **Data dokumentu**,  
 - [**Status**](docs/przetwarzanie-pojedynczego-dokumentu/Status_dokumentu.md),  
-- Dla dokumentów klasy **Faktura** w kolumnie listy pojawia się dodatkowo **Partner handlowy (PH)** (np. FVZ_123_37).
+- Dla dokumentów klasy **Faktura** w kolumnie listy pojawia się dodatkowo **Partner handlowy (PH)** (np. FVZ_20231002001_28).
 
-![Lista-dokumentow](/img/lista_dok2.png)
+![Lista-dokumentow](/img/lista_dok2_7_3.png)
 
 ---
 
@@ -44,7 +44,7 @@ Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające id
 
 Jeśli w wybranej sekcji nie ma jeszcze żadnych dokumentów – wyświetlany jest czytelny komunikat informacyjny.
 
-![Pusta-lista-dokumentow](/img/pusta_lista_dok.png)
+![Pusta-lista-dokumentow](/img/pusta_lista_dok_7_3.png)
 
 ---
 
@@ -52,7 +52,7 @@ Jeśli w wybranej sekcji nie ma jeszcze żadnych dokumentów – wyświetlany je
 
 Po kliknięciu na dowolny dokument z listy, jego szczegóły otwierają się w obszarze roboczym. Możesz przeglądać, edytować i wykonywać na nim operacje.  
 
-![Podglad-dokumentow](/img/podglad_dok.png)
+![Podglad-dokumentow](/img/podglad_dok_7_3.png)
 
 Po kliknięciu w ikonę telewizorka na dokumentach z listy, jego szczegóły otwierają się w nowej zakładce obszaru roboczego. Możesz otworzyć kilka dokumentów jednocześnie.  
 

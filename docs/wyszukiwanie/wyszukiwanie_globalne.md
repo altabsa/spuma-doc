@@ -81,7 +81,7 @@ Aby usunąć wszystkie filtry - kliknij **reset** z poziomu wyboru typu filtrów
 
 Po uruchomieniu wyszukiwania system przenosi do sekcji **Wynik wyszukiwania** w menu głównym.
 
- ![Wyniki-wyszukiwania](/img/wyniki_wyszukiwania.png)
+ ![Wyniki-wyszukiwania](/img/wyniki_wyszukiwania_7_3.png)
 
-- Sekcja ta pokazuje liczbę znalezionych wyników (np. 117).
+- Sekcja ta pokazuje liczbę znalezionych wyników (np. 49).
 - Kliknięcie w nią otwiera **obszar roboczy** z listą dokumentów dopasowanych do kryteriów.

@@ -68,6 +68,11 @@ Możesz wskazać użytkownika, który będzie Cię zastępował w określonym te
 
 Dzięki temu dokumenty do autoryzacji mogą być przekierowane do wybranej osoby.  
 
+:::tip[Zastępstwo a nieplanowana nieobecność]
+Jeśli użytkownik nie zdążył ustawić zastępstwa przed nieplanowaną nieobecnością, praca w systemie nie zostaje zablokowana.  
+Administrator może w każdej chwili przypisać zastępcę z poziomu panelu administracyjnego.
+:::
+
 ---
 
 ## Język i wygląd  

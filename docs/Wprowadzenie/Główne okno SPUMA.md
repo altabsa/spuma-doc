@@ -9,4 +9,4 @@ Dostęp do wszystkich funkcji systemu SPUMA jest możliwy z głównego okna apli
 2. [Menu główne](./menu-glowne)
 3. [Obszar roboczy](./obszar-roboczy)
 
-![Okno główne SPUMA](/img/okno_g.png)
+![Okno główne SPUMA](/img/okno_g_7_3.png)

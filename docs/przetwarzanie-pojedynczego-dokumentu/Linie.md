@@ -64,7 +64,12 @@ Dostępne opcje to:
    + Następnie przechodzisz do okna **Mapowanie kolumn** – możesz przypisać kolumny z pliku do pól dokumentu (np. Towar, Kwota, Projekt, Centra kosztów).  
       Jeśli jakaś kolumna nie jest potrzebna, wybierz opcję, aby jej **nie kopiuj**.  
 
-      ![Mapowanie kolumn](/img/linie5.png)  
+      ![Mapowanie kolumn](/img/linie5.png)
+
+   + W przypadku, gdy w pliku znajdzie się kilka pozycji dostaniemy komunikat **Czy rozdzielić kwotę dokumentu według klucza z pliku?**.
+      + **Nie** - Linie zostaną dodane do dokumentu w kwotach, w jakich widnieją w pliku źródłowym.
+      + **Ok** - Kwota dokumentu** zostanie rozłożona **procentowo** (proporcjonalnie) na poszczególne linie, bazując na ich wartościach z pliku. Przykład: Kwota dokumentu wynosi 1200 zł. W pliku znajdą się 2 pozycje: x - 50 zł, y - 100 zł. Co daje nam proporcje: x - 33,33%, y - 66,67%. Do linii zostaną dodane pozycje: x - 1200 zł * 33,33% = 400 zł, y - 1200 zł * 66,67% = 800 zł.
+      ![Czy rozdzielić kwotę dokumentu według klucza z pliku?](/img/rozkl_lini.png)
 
 - **Usuń zaznaczone linie** – zaznacz linie na liście i usuń je jednym kliknięciem.  <a id="kopiuj-z-dokumentu-bazowego"></a>
 - **Kopiuj z dokumentu bazowego** – opcja ta odblokowuje się dopiero wtedy, gdy w zakładce **Atrybuty** został uzupełniony **dokument bazowy**. 

@@ -6,7 +6,7 @@ title: Proces dla dokumentu pustego
 
 ## 1. Utworzenie dokumentu pustego
 
-Dodanie dokumentu pustego rozpoczyna się w ten sam sposób jak dodanie dokumentu z pliku.  
+Dodanie dokumentu pustego rozpoczyna się w ten sam sposób jak dodanie dokumentu z pliku. 
 
 ![Dodawanie dokumentu pustego – kroki 1–5](/img/przyklad20_7_3.png)
 

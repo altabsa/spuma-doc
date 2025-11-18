@@ -6,7 +6,7 @@ title: Proces dla dokumentu z pliku
 
 ## 1. Dodanie dokumentu z pliku
 
-![Dodawanie z pliku – kroki 1–6](/img/przyklad1.png)
+![Dodawanie z pliku – kroki 1–6](/img/przyklad1_7_3.png)
 
 1. **Wejdź** do sekcji **Sekretariat**.
 2. **Kliknij** przycisk **Nowy**. Otworzy się okno dodawania w trybie **Wybór plików**.

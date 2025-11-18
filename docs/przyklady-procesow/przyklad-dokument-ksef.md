@@ -8,13 +8,13 @@ title: Proces dla dokumentu z KSeF
 
 ## 1. Pobranie dokumentu z KSeF  
 
-1. **Wejdź** do sekcji **INTEGRACJA**.  
-2. **Kliknij** przełącznik **Tylko nowe**, aby pobrać najnowsze faktury.  
+1. **Wejdź** do sekcji **KSEF**.  
+2. **Kliknij** **odśwież**, a następnie przełącznik **Tylko nowe**, aby pobrać najnowsze faktury.  
 3. Na liście wybierz interesujący dokument.  
 4. **Kliknij przycisk „Nowy dokument”**, aby utworzyć go w SPUMIE.  
 5. **Przejdź** do otwartego dokumentu, aby rozpocząć pracę.  
 
-![Pobranie dokumentu z KSeF](/img/przyklad3_1.png)  
+![Pobranie dokumentu z KSeF](/img/przyklad3_1_7_2.png)  
 
 **Wynik:** dokument z KSeF zostaje zapisany w **Sekretariacie**.  
 

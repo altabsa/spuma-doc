@@ -1,6 +1,6 @@
 ---
 id: poblokowane-dostepy
-title: Automatycznie generowana nazwa dokumentu
+title: Poblokowane dostępy przy pracy z pulpitu zdalnego
 ---
 
 # Poblokowane dostępy przy pracy z pulpitu zdalnego

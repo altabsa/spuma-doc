@@ -19,7 +19,7 @@ W SPUMA dostępna jest opcja **zapamiętywania sesji**, którą można zaznaczy�
 2. Zaznacz opcję **Zapamiętaj**.  
 3. Kliknij **Zaloguj**.
 
-![Zrzut ekranu logowania](faq1.png)
+![Logowanie](/img/faq1.png)
 
 Po wykonaniu tych kroków odświeżenie strony **nie spowoduje wylogowania**.
 

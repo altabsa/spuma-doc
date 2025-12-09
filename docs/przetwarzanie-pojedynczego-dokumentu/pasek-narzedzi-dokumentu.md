@@ -82,14 +82,13 @@ Dostępne są trzy operacje:
 - **Wklej stronę** – wklej stronę wcześniej wyciętą (działa **tylko w SPUMA**). Możesz w ten sposób zmieniać np. kolejność stron dokumentu.  
 - **Import z pliku** – zaimportuj nowe strony z pliku znajdującego się na komputerze. Dzięki temu możesz np. uzupełnić brakujące strony skanu. 
 
-
 ---
 
 ### Regiony OCR
 
 Opcja jest dostępna **tylko wtedy, gdy dokument został wysłany do OCR**.  
 
-- Kliknij, aby podświetlić na żółto wszystkie rozpoznane regiony w podglądzie dokumentu.  
+1. Kliknij, aby podświetlić na żółto wszystkie rozpoznane regiony w podglądzie dokumentu.  
 
 ![Regiony OCR](/img/RegionyOCR.png) 
 
@@ -97,8 +96,20 @@ Regiony OCR mogą służyć także do **wyszukiwania** dokumentów.
 W opisie dokumentu przechowywane są tylko podstawowe dane (np. nazwa, daty), natomiast w regionach mogą pojawić się dodatkowe odczyty.  
 
 Przykład:  
-- wpisz w wyszukiwarce frazę „kawa”,  
-- system znajdzie faktury, w których OCR odczytał tę nazwę w treści dokumentu.  
+1. Wpisz w wyszukiwarce frazę „kawa”.  
+2. System znajdzie faktury, w których OCR odczytał tę nazwę w treści dokumentu.
+
+Regiony OCR możesz wykorzystać także do szybkiego **skopiowania odczytanych danych** i wklejenia ich w innym miejscu (np. do notatnika, dokumentu systemu, Worda).
+
+1. **Wciśnij klawisz Ctrl** na klawiaturze.  
+2. **Zaznacz myszą obszar**, z którego chcesz skopiować dane.  
+3. **Puść zaznaczenie** – system automatycznie skopiuje treść do schowka.  
+   Na ekranie pojawi się komunikat potwierdzający skopiowanie.
+
+![Regiony OCR - kopiowanie](/img/RegionyOCR2.png) 
+
+4. **Przejdź do miejsca**, w które chcesz wkleić skopiowane dane.  
+5. **Wklej** (Ctrl+V).
 
 ---
 

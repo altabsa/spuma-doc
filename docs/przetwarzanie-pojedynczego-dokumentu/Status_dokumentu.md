@@ -13,5 +13,5 @@ Przy każdym dokumencie znajduje się ikona informująca o jego aktualnym status
 - ![Dokument oczekuje na zatwierdzenie](/img/dok_oczek.png) - dokument oczekuje na zatwierdzenie. Widoczny jest w sekcji Oczekujące dla osoby, która w danym momencie powinna go zaakceptować zgodnie z procesem. 
 - Brak ikony - dokument jest przetworzony i znajduje się w repozytorium. Trafił tam bez autoryzacji.
 - ![Dokument zatwierdzony](/img/status2.png) - dokument został zatwierdzony i znajduje się w repozytorium.
-- - ![Dokument odrzucony](/img/odrzucone.png) - dokument został odrzucony.  
+- ![Dokument odrzucony](/img/odrzucone.png) - dokument został odrzucony.  
    

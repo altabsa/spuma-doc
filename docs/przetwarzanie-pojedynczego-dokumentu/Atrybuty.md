@@ -61,6 +61,14 @@ Nowo dodany partner handlowy jest automatycznie zapisywany również w **SAP**.
 
 Jeżeli podczas próby wyboru wartości pojawi się komunikat oznacza to, że integracja SAP jest chwilowo niedostępna i należy skontaktować się z administratorem.
 
+:::tip[Podejrzyj dane faktury podczas wyboru PH]
+Przytrzymaj górny pasek okna wyboru i przesuń je w wybrane miejsce na ekranie. 
+
+Dzięki temu możesz podejrzeć dane widoczne na dokumencie (np. nazwę firmy lub NIP) podczas wyboru partnera.
+:::
+
+![Przesuwanie okna](/img/atrybuty6.png)
+
 ---
 ### B. Atrybut – Dokument bazowy  
 

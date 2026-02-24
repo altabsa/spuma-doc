@@ -31,6 +31,7 @@ W polach wprowadzamy m.in.:
 - Wpisz liczbę, **kliknij Enter**, wpisz procent oraz znak % i ponownie **kliknij Enter** – system automatycznie przeliczy wartość linii według podanego procentu, np. 10% → linia zostanie uzupełniona wartością 10% podanej wartości.
 - Wpisz p i numer pozycji (np. p3) – system pobierze dane z rozpoznanej tabeli OCR z pozycji nr 3 i wypełni nimi bieżącą linię, np. p3 → dane zostaną uzupełnione na podstawie 3. linii OCR.
 - Wpisz * i **kliknij Enter** - system automatycznie uzupełni bieżącą linię pozostałą kwotą do rozliczenia.
+- Możesz używać klawisza **TAB** zamiennie z **Enter** – system zadziała tak samo i przejdzie do kolejnego pola.
 :::
 
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.  

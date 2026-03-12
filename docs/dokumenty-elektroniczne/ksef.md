@@ -17,8 +17,9 @@ Po kliknięciu opcji **Integracja** w obszarze roboczym wyświetla się lista ws
 
 Masz możliwość zawężenia listy dokumentów:  
 
-- **Tylko nowe** – w prawym górnym rogu włącz przełącznik, aby wyświetlać jedynie dokumenty, które nie były jeszcze przeglądane.
-  **Przełącznik włączony – widoczne są tylko nowe dokumenty**
+- **Tylko nowe** – w prawym górnym rogu włącz przełącznik, aby wyświetlać jedynie dokumenty, które nie były jeszcze dodane do sekretariatu i nie zostały przetworzone.
+
+   **Przełącznik włączony – widoczne są tylko nowe dokumenty**
 
   ![Tylko nowe włączone](/img/nowe_ksef.png)
 

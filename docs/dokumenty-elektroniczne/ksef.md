@@ -20,11 +20,11 @@ Masz możliwość zawężenia listy dokumentów:
 - **Tylko nowe** – w prawym górnym rogu włącz przełącznik, aby wyświetlać jedynie dokumenty, które nie były jeszcze przeglądane.
   **Przełącznik włączony – widoczne są tylko nowe dokumenty**
 
-  ![Tylko nowe włączone](/img/gdy_wlaczone_nowe_ksef.png)
+  ![Tylko nowe włączone](/img/nowe_ksef.png)
 
   **Przełącznik wyłączony – widoczne są wszystkie dokumenty**
 
-  ![Tylko nowe wyłączone](/img/gdy_wylaczone_nowe2_ksef.png) 
+  ![Tylko nowe wyłączone](/img/nowe2_ksef.png) 
 - **Pole filtrowania** – na dole listy wpisz dowolną frazę (np. numer faktury, nazwę firmy). Po wpisaniu frazy zatwierdź wyszukiwanie, naciskając **Enter**, **Tab** lub klikając w dowolne miejsce myszą.  
 
 ---

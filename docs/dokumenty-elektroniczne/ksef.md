@@ -10,7 +10,22 @@ Sekcja **Integracja** w menu **Dokumenty elektroniczne** umożliwia przeglądani
 
 Po kliknięciu opcji **Integracja** w obszarze roboczym wyświetla się lista wszystkich dokumentów pobranych z KSeF.  
 
-![Widok KSeF](/img/dokumenty-elektroniczne2.png)  
+![Widok KSeF](/img/dokumenty-elektroniczne2_v5.png)  
+
+---
+## Filtrowanie dokumentów  
+
+Masz możliwość zawężenia listy dokumentów:  
+
+- **Tylko nowe** – w prawym górnym rogu włącz przełącznik, aby wyświetlać jedynie dokumenty, które nie były jeszcze przeglądane.
+  **Przełącznik włączony – widoczne są tylko nowe dokumenty**
+
+  ![Tylko nowe włączone](/img/gdy_wlaczone_nowe_ksef.png)
+
+  **Przełącznik wyłączony – widoczne są wszystkie dokumenty**
+
+  ![Tylko nowe wyłączone](/img/gdy_wylaczone_nowe2_ksef.png) 
+- **Pole filtrowania** – na dole listy wpisz dowolną frazę (np. numer faktury, nazwę firmy). Po wpisaniu frazy zatwierdź wyszukiwanie, naciskając **Enter**, **Tab** lub klikając w dowolne miejsce myszą.  
 
 ---
 
@@ -18,20 +33,53 @@ Po kliknięciu opcji **Integracja** w obszarze roboczym wyświetla się lista ws
 
 Aby pobrać najnowsze dokumenty:  
 
-1. Kliknij przycisk **Odśwież** w prawym górnym rogu.  
+1. Kliknij przycisk **Odśwież** ![Odśwież](/img/generuj_nazwe.png)w prawym górnym rogu.  
 2. System pobierze aktualne faktury z KSeF i pokaże je na liście.  
 
 ---
 
-## Filtrowanie dokumentów  
+## Operacje na dokumentach
 
-Masz możliwość zawężenia listy dokumentów:  
+W prawym górnym rogu listy znajduje się **Menu operacji**, które umożliwia wykonywanie operacji na zaznaczonych dokumentach.
 
-- **Tylko nowe** – w prawym górnym rogu włącz przełącznik, aby wyświetlać jedynie dokumenty, które nie były jeszcze przeglądane.  
-- **Pole filtrowania** – na dole listy wpisz dowolną frazę (np. numer faktury, nazwę firmy). Po wpisaniu frazy zatwierdź wyszukiwanie, naciskając **Enter**, **Tab** lub klikając w dowolne miejsce myszą.  
+Aby wykonać operację:
+
+1. Zaznacz dokument przy pomocy checkboxa po lewej stronie listy.
+2. Kliknij **Menu operacji** na pasku narzędzi.
+3. Wybierz odpowiednią akcję z listy.
+
+![Widok KSeF](/img/dokumenty-elektroniczne2_v5_2.png)
 
 ---
 
+### Dodawanie wielu dokumentów do sekretariatu
+
+Możesz jednocześnie dodać kilka faktur z KSeF do sekretariatu.
+
+1. Zaznacz dokumenty, które chcesz dodać.
+2. Kliknij **Menu operacji**.
+3. Wybierz opcję **Nowe dokumenty**.
+
+System utworzy dokumenty w **Sekretariacie** na podstawie zaznaczonych faktur.
+
+---
+
+### Ukrywanie dokumentów
+
+Jeżeli nie chcesz, aby wybrane dokumenty były widoczne na liście:
+
+1. Zaznacz dokumenty na liście.
+2. Kliknij **Menu operacji**.
+3. Wybierz opcję **Ukryj dokumenty**.
+4. W wyświetlonym komunikacie potwierdź operację, klikając **Tak**.
+
+Pojawi się komunikat:  
+
+![Komunikat ](/img/ksef_kom_ukryw.png)
+
+Po potwierdzeniu dokumenty zostaną ukryte z listy.
+
+---
 
 ## Otwieranie dokumentów i dodawanie do sekretariatu  
 

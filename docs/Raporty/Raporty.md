@@ -12,12 +12,13 @@ Sekcja **Raporty** umożliwia dostęp do przygotowanych zestawień danych. Rapor
 
 ## Standardowe raporty
 
-W systemie dostępne są **4 raporty standardowe**:
+W systemie dostępnych jest **5 raportów standardowych**:
 
 **1. Oczekujące dokumenty**  
 **2. Lista dokumentów**  
 **3. Dokumenty klientów**   
 **4. [Zatwierdzenia dostępu](./zatwierdzenia-dostepu.md)**   
+**5. [Nieprzypisane dokumenty](./Nieprzypisane-dokumenty.md)**
 
 
 Pierwsze trzy raporty mogą być **modyfikowane, ukrywane lub usuwane** z poziomu administratora. 

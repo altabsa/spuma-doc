@@ -55,11 +55,11 @@ Aby przypisać dokument do siebie lub innego obiegu:
 ![Lista nieprzypisanych dokumentów](/img/nieprzypisane2.png)  
 
 2.	Otworzy się okienko z pytaniem „Przypisać dokument do siebie?”.
+
 ![Lista nieprzypisanych dokumentów](/img/nieprzypisane3.png)  
 
- 
-3. Wybierz opcję **Tak, przypisz** , aby przypisać dokument do siebie.  
-4. Kliknij **Anuluj**, jeśli chcesz zamknąć okno bez przypisywania dokumentu.
+4. Wybierz opcję **Tak, przypisz** , aby przypisać dokument do siebie.  
+5. Kliknij **Anuluj**, jeśli chcesz zamknąć okno bez przypisywania dokumentu.
 
 Po przypisaniu dokument zostanie usunięty z listy nieprzypisanych. 
 ---

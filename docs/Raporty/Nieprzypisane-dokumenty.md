@@ -52,10 +52,10 @@ Aby przypisać dokument do siebie lub innego obiegu:
 
 1.	Kliknij **ID zgłoszenia** przy wybranym dokumencie.  
 
-![Lista nieprzypisanych dokumentów](/img/nieprzypisane1.png)  
+![Lista nieprzypisanych dokumentów](/img/nieprzypisane2.png)  
 
 2.	Otworzy się okienko z pytaniem „Przypisać dokument do siebie?”.
-![Lista nieprzypisanych dokumentów](/img/nieprzypisane1.png)  
+![Lista nieprzypisanych dokumentów](/img/nieprzypisane3.png)  
 
  
 3. Wybierz opcję **Tak, przypisz** , aby przypisać dokument do siebie.  

@@ -164,4 +164,36 @@ Jeżeli opcja **Nowy przebieg** nie jest wyszarzona:
 - Wybierz inny schemat autoryzacji.
 
 ---
+## Awizacja  
+
+Przed wysłaniem dokumentu w obieg możesz zweryfikować, kto jest właścicielem dokumentu.  Na tym etapie masz możliwość podpięcia odpowiedniej awizacji lub dodania dokumentu do puli **nieprzypisanych**.
+
+![Awizacja - obieg dokumentu](/img/awizacja4.png)  
+
+Dzięki temu sekretariat może szybciej przypisać dokument do właściwego obiegu.
+
+---
+
+### Dodanie awizacji  
+
+Aby przypisać dokument do awizacji:  
+
+1. Kliknij **Menu**.  
+2. Wybierz **Sprawdź awizację**. 
+3. Na podstawie wyświetlonego raportu wybierz odpowiednią awizację. Raport wskazuje dopasowane wartości poprzez oznaczenie ich na zielono, co ułatwia wybór.
+
+![Raport awizacji - obieg dokumentu](/img/awizacja5.png)  
+
+4. Kliknij **OK**, aby zatwierdzić wybór, lub **Anuluj**, aby zrezygnować
+
+---
+
+### Dodanie do nieprzypisanych  
+
+Jeżeli dokument nie ma odpowiadającej awizacji, możesz dodać go do puli nieprzypisanych dokumentów:
+
+1. Kliknij **Menu**.
+2. Kliknij **Dodaj do nieprzypisanych**.  
+3. Dokument zostanie zapisany w raporcie dokumentów nieprzypisanych. Tam użytkownicy mogą później utworzyć nową awizację i powiązać ją z dokumentem.
+---
 

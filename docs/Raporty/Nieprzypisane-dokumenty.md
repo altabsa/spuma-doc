@@ -62,6 +62,7 @@ Aby przypisać dokument do siebie lub innego obiegu:
 5. Kliknij **Anuluj**, jeśli chcesz zamknąć okno bez przypisywania dokumentu.
 
 Po przypisaniu dokument zostanie usunięty z listy nieprzypisanych. 
+
 ---
 ## Podgląd dokumentu 
 

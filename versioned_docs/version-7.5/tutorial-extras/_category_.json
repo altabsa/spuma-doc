@@ -1,0 +1,9 @@
+{
+  "label": "Tutorial - Youtube",
+  "position": 20,
+  "link": {
+    "type": "generated-index",
+    "description": "Mój opis"
+  },
+  "className": "hide"
+}

@@ -196,7 +196,28 @@ Opcja pozwala sprawdzić, czy dokument został powiązany z wpisem w dzienniku k
 ![Dziennik korespondencji w menu dokumentu](/img/dziennkik_dok.png)  
 
 ---
+### Awizacja
 
+Opcja pozwala sprawdzić status awizacji dokumentu oraz szybko przejść do szczegółów powiązanego wpisu.  
+
+- **Wyszarzona opcja** – dokument nie ma przypisanej awizacji i nie został oznaczony jako nieprzypisany.  
+
+![Brak awizacji](/img/awizacja6.png)
+
+- **Wpis rozpoczynający się od „awizo – ...”** – dokument ma przypisaną awizację. Kliknij wpis, aby przejść do szczegółów awizacji.  
+
+![Przypisana awizacja](/img/awizacja7.png)
+
+- **Wpis rozpoczynający się od „raport –  ...”** – dokument został dodany do raportu **Nieprzypisane dokumenty**.  
+
+![Dodanie do raportu Nieprzypisane](/img/awizacja8.png)
+
+- **Dwa wpisy rozpoczynające się od „raport –...” oraz „awizo –  ...”** – dokument został najpierw dodany do raportu **Nieprzypisane dokumenty**, a następnie utworzono dla niego awizację.  
+  Kliknij wpis rozpoczynający się od **awizo**, aby przejść do szczegółów awizacji.  
+
+![Raport i awizacja](/img/awizacja9.png)
+
+---
 ### Historia zmian
 
 Opcja umożliwia sprawdzenie, jakie modyfikacje były wykonywane na dokumencie (np. zmiana klasy, nazwy, schematu, typu autoryzacji).  

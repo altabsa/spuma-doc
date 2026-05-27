@@ -9,7 +9,7 @@ Sekcja **Awizacja** pomaga określić właściciela faktury w firmie bez koniecz
 Funkcjonalność składa się z dwóch elementów:
 
 - **Awizacja** – umożliwia wskazanie osoby odpowiedzialnej za dokument jeszcze przed przekazaniem go do obiegu. Dzięki temu [sekretariat](../przetwarzanie-pojedynczego-dokumentu/Obieg.md#awizacja) może szybciej wybrać odpowiedni obieg dokumentu.
-- **Faktury nieprzypisane** – pozwala [oznaczyć dokumenty](../przetwarzanie-pojedynczego-dokumentu/Obieg.md#dodanie-do-nieprzypisanych), dla których nie został jeszcze określony właściciel. Dzięki temu można szybko przypisać je do właściwej osoby.
+- **Faktury nieprzypisane** – pozwala [oznaczyć dokumenty](../przetwarzanie-pojedynczego-dokumentu/Obieg.md#dodanie-do-nieprzypisanych), dla których nie został jeszcze określony właściciel. Dzięki temu można szybko przypisać je do właściwej osoby, ponieważ dokumenty są później widoczne w raporcie [Nieprzypisane dokumenty](../Raporty/Nieprzypisane-dokumenty.md).
 
 Dzięki temu proces przypisywania dokumentów jest szybszy i pozwala ograniczyć dostęp do danych wyłącznie do właściwych użytkowników.
 

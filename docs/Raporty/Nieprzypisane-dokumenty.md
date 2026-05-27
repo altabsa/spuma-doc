@@ -15,7 +15,7 @@ Raport umożliwia szybkie poinformowanie odpowiednich użytkowników, że pojawi
 
 ## Jak trafiają dokumenty do raportu?  
 
-Dokument trafia do sekcji **Nieprzypisane**, gdy pracownik sekretariatu podczas wprowadzania dokumentu nie może go przypisać do konkretnego obiegu.  
+Dokument trafia do sekcji **Nieprzypisane**, gdy pracownik sekretariatu podczas wprowadzania dokumentu nie może go przypisać do konkretnego [obiegu](../przetwarzanie-pojedynczego-dokumentu/Obieg.md).  
 
 Najczęstsze sytuacje:  
 - brak pasującej awizacji,  

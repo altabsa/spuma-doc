@@ -115,7 +115,7 @@ Aby zmienić widok listy:
  
 ## Powiązanie awizacji z dokumentem
 
-Po dodaniu wpisu sekretariat może powiązać dokument z istniejącą awizacją podczas dodawania dokumentu i wyboru obiegu [Obieg](../przetwarzanie-pojedynczego-dokumentu/Obieg.md).. 
+Po dodaniu wpisu sekretariat może powiązać dokument z istniejącą awizacją podczas dodawania dokumentu i wyboru obiegu [Obieg](../przetwarzanie-pojedynczego-dokumentu/Obieg.md). 
 
 System automatycznie wyświetla najbardziej trafne awizacje na podstawie uzupełnionych danych.
 

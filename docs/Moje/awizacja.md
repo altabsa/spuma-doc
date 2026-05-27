@@ -8,11 +8,12 @@ title: Awizacja
 Sekcja **Awizacja** pomaga określić właściciela faktury w firmie bez konieczności przekazywania zbyt dużej ilości danych do użytkowników. 
 Funkcjonalność składa się z dwóch elementów:
 
-- **Awizacja** – umożliwia wskazanie osoby odpowiedzialnej za dokument jeszcze przed przekazaniem go do obiegu. Dzięki temu sekretariat może szybciej wybrać odpowiedni obieg dokumentu.
-- **Faktury nieprzypisane** – pozwala oznaczyć dokumenty, dla których nie został jeszcze określony właściciel. Dzięki temu można szybko przypisać je do właściwej osoby.
+- **Awizacja** – umożliwia wskazanie osoby odpowiedzialnej za dokument jeszcze przed przekazaniem go do obiegu. Dzięki temu [sekretariat](../przetwarzanie-pojedynczego-dokumentu/Obieg.md#awizacja) może szybciej wybrać odpowiedni obieg dokumentu.
+- **Faktury nieprzypisane** – pozwala [oznaczyć dokumenty](../przetwarzanie-pojedynczego-dokumentu/Obieg.md#dodanie-do-nieprzypisanych), dla których nie został jeszcze określony właściciel. Dzięki temu można szybko przypisać je do właściwej osoby.
 
 Dzięki temu proces przypisywania dokumentów jest szybszy i pozwala ograniczyć dostęp do danych wyłącznie do właściwych użytkowników.
 
+---
 
 ## Główne opcje  
 
@@ -24,6 +25,7 @@ Na górnym pasku znajdują się trzy podstawowe przyciski:
 
 ![Główne opcje dziennika](/img/awizacja.png)  
  
+---
 
 ## Menu operacji  
 
@@ -32,16 +34,12 @@ Po kliknięciu ikony menu dostępne są dodatkowe funkcje:
 - **Drukuj** – wydrukuj listę wpisów z dziennika,  
 - **Kopiuj dane** – skopiuj dane do schowka.  
 
----
-
 ### Kopiuj dane  
 
 Opcja **Kopiuj** pozwala skopiować zawartość tabeli z dziennika.  
 - Kliknij **Kopiuj dane**.  
 - Dane zostaną skopiowane do schowka.  
 - Wartości są umieszczone w cudzysłowie "" i oddzielone tabulatorem, dzięki czemu można je bezpośrednio wkleić np. do Excela.  
-
----
 
 ### Drukuj  
 
@@ -69,6 +67,7 @@ Opcja **Drukuj** umożliwia przygotowanie i zapisanie wydruku danych z dziennika
 6. Kliknij **Zamknij**, aby zakończyć pracę z oknem wydruku.
 
 ---
+
 ## Rejestracja awizacji przez użytkownika 
 Sekcja jest przeznaczona dla użytkowników, którzy dokonali zakupu i chcą poinformować sekretariat o oczekującym dokumencie.
 
@@ -89,6 +88,7 @@ Sekcja jest przeznaczona dla użytkowników, którzy dokonali zakupu i chcą poi
 4. Aby zatwierdzić, kliknij **Dodaj** w prawym dolnym rogu.  
 5. Aby wyjść, kliknij ikonę zakręconej strzałki. 
 
+---
 
 ## Operacje na wpisie  
 
@@ -109,7 +109,9 @@ Awizacja pozwala wylistować wpisy:
 Aby zmienić widok listy:
 1.	Zaznacz lub odznacz checkbox Pokaż wszystkie. 
 2.	Kliknij Odśwież.
-![Filtrowanie](/img/awizacja3.png)  
+![Filtrowanie](/img/awizacja3.png)
+
+---
  
 ## Powiązanie awizacji z dokumentem
 

@@ -67,7 +67,9 @@ Umożliwia zmianę miejsca przechowywania dokumentu w strukturze repozytorium.
 
 Opcja **Usuń** nie usuwa dokumentu trwale z systemu.  
 
-Po użyciu tej funkcji dokument zostaje przeniesiony do **Kosza**.
+Po użyciu tej funkcji dokument zostaje przeniesiony do **Kosza**, skąd może zostać później przywrócony lub usunięty przez administratora zgodnie z konfiguracją systemu.
+
+Dzięki temu możliwe jest zabezpieczenie dokumentów przed przypadkowym usunięciem.
 
 ---
 

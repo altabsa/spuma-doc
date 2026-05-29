@@ -70,7 +70,13 @@ Dzięki temu możesz podejrzeć dane widoczne na dokumencie (np. nazwę firmy lu
 ![Przesuwanie okna](/img/atrybuty6.png)
 
 ---
-### B. Atrybut – Dokument bazowy  
+
+### B. Atrybut – Numer dok. elektronicznego  
+
+Pole **Numer dok. elektronicznego** przechowuje numer identyfikacyjny dokumentu elektronicznego, np. numer **KSeF** nadany przez Krajowy System e-Faktur.  
+
+---
+### C. Atrybut – Dokument bazowy  
 
 To pole pozwala wskazać dokument, na którym opiera się bieżący dokument.  
 Może to być np. **zamówienie zakupu** czy **dokument PZ**.  
@@ -88,7 +94,7 @@ Po wskazaniu dokumentu bazowego SPUMA umożliwia później **skopiowanie danych*
 
 ---
 
-### C. Atrybut typu „Data”  
+### D. Atrybut typu „Data”  
 
 Atrybuty typu data (np. *Data płatności*) pozwalają na szybkie wprowadzanie lub wybór daty.  
 
@@ -105,7 +111,7 @@ Atrybuty typu data (np. *Data płatności*) pozwalają na szybkie wprowadzanie l
 
 ---
 
-### D. Atrybut Brutto / Netto  
+### E. Atrybut Brutto / Netto  
 
 Atrybut **Brutto / Netto** określa sposób, w jaki system ma rozliczać wartości dokumentu. Dzięki temu SPUMA wie, czy wprowadzone kwoty odnoszą się do wartości **netto**, czy **brutto** – a następnie automatycznie przelicza pozostałe pola. Na obrazie poniżej widać różnice w kwocie **do rozliczenia** w zależności od wybranego trybu.  
 
@@ -115,7 +121,7 @@ Wybór trybu **Brutto** lub **Netto** ma znaczenie również przy przesyłaniu d
 
 ---
 
-### E. Atrybuty słownikowe (np. Metoda płatności, Waluta, Projekt, Centrum kosztów)
+### F. Atrybuty słownikowe (np. Metoda płatności, Waluta, Projekt, Centrum kosztów)
 
 To atrybuty, których wartości pochodzą z **list słownikowych** pobieranych z systemu **SAP**.  
 
@@ -129,7 +135,7 @@ Jeżeli podczas próby wyboru wartości pojawi się komunikat oznacza to, że in
 
 ---
 
-### F. Atrybut typu „Kwota” (np. na liniach dokumentu)
+### G. Atrybut typu „Kwota” (np. na liniach dokumentu)
 
 Atrybuty kwotowe występujące w zakładce **Linie** dotyczą pozycji towarów lub usług.  
 Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, które ułatwiają rozdzielanie i przeliczanie wartości.

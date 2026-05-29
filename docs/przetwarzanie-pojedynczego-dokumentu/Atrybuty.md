@@ -22,7 +22,7 @@ Służy do wskazania dostawcy lub odbiorcy dokumentu.
 
 - Kliknij ikonę **X**, aby usunąć aktualnie przypisaną wartość.  
 
-![Usuń wartość](/img/atrybuty1.png)  
+![Usuń wartość](/img/atrybuty1_7_6.png)  
 
 #### Dodawanie wartości  
 
@@ -146,6 +146,49 @@ Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, któr
 | **Podział na X (/x)** | Wpisz kwotę, **kliknij Enter**, następnie wpisz / i liczbę pozycji, na które chcesz podzielić wartość (np. /3) i ponownie **kliknij Enter** – system doda trzy linie z równym podziałem kwoty. | /3 → kwota zostanie rozdzielona na 3 pozycje |
 | **Procent wartości (x%)** | Wpisz liczbę, **kliknij Enter**, wpisz procent oraz znak % i ponownie **kliknij Enter** – system automatycznie przeliczy wartość linii według podanego procentu. | 10% → linia zostanie uzupełniona wartością 10% podanej wartości |
 | **Pozycja z linii OCR (pX)** | Wpisz p i numer pozycji (np. p3) – system pobierze dane z rozpoznanej tabeli OCR z pozycji nr 3 i wypełni nimi bieżącą linię. | p3 → dane z 3. linii OCR |
+
+---
+
+### H. Atrybut – Konto bankowe  
+
+Atrybut **Konto bankowe** służy do wskazania numeru rachunku bankowego powiązanego z dokumentem.  
+
+
+#### Wybór konta bankowego  
+
+1. Kliknij ikonę **podwójnego kwadratu** obok pola.  
+2. Otworzy się okno wyboru kont bankowych przypisanych do wybranego partnera handlowego pobranych z SAP.  
+3. Wybierz konto z listy dostępnych rachunków.  
+4. Kliknij **Wybierz**.  
+
+**Wynik:**  
+Pole **Konto bankowe** zostanie uzupełnione wybranym numerem rachunku.
+
+---
+#### Biała lista
+
+1. Kliknij ikonę **dokumentu z lupką**, aby zweryfikować, czy numer rachunku bankowego znajduje się na **białej liście podatników VAT**.   
+
+---
+
+#### Brak konta na liście  
+
+Jeżeli wymagane konto nie znajduje się na liście:
+
+- sprawdź, czy wybrano poprawnego partnera handlowego,
+- upewnij się, że konto zostało dodane w systemie SAP,
+- dodaj nowy rachunak bankowy 
+
+#### Dodawanie nowego rachunku bankowego  
+
+1. Wpisz numer rachunku bankowego.  
+2. Sprawdź, czy rachunek znajduje się na białej liście.  
+3. Kliknij ikonę **plusa**.  
+4. Pojawi się komunikat:  
+
+![Komunikat](/img/atrybuty1.png)  
+
+5. Kliknij **OK**, aby dodać rachunek.
 
 ---
 

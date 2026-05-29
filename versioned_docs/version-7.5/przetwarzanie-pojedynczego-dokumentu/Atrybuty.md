@@ -170,7 +170,7 @@ Pole **Konto bankowe** zostanie uzupełnione wybranym numerem rachunku.
 Jeżeli wymagane konto nie znajduje się na liście:
 
 - sprawdź, czy wybrano poprawnego partnera handlowego,
-- upewnij się, że konto zostało dodane w systemie SAP,
+- upewnij się, że konto zostało dodane w systemie SAP.
 
 ---
 

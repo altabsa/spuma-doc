@@ -186,7 +186,7 @@ Jeżeli wymagane konto nie znajduje się na liście:
 3. Kliknij ikonę **plusa**.  
 4. Pojawi się komunikat:  
 
-![Komunikat](/img/atrybuty1.png)  
+![Komunikat](/img/atrybuty7.png)  
 
 5. Kliknij **OK**, aby dodać rachunek.
 

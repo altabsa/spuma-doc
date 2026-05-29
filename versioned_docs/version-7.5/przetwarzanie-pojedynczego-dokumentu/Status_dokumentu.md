@@ -15,4 +15,3 @@ Przy każdym dokumencie znajduje się ikona informująca o jego aktualnym status
 - ![Dokument zatwierdzony](/img/status2.png) - dokument został zatwierdzony i znajduje się w repozytorium.
 - ![Dokument odrzucony](/img/odrzucone.png) - dokument został odrzucony.
 - ![Załącznik dokumentu](/img/zalacznik.png) – do dokumentu zostały dodane załączniki. Ikona widoczna jest obok statusu dokumentu.
-   

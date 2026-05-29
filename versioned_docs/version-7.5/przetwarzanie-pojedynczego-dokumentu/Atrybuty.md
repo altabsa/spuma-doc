@@ -143,6 +143,37 @@ Możesz wprowadzać je ręcznie lub skorzystać z automatycznych operacji, któr
 
 ---
 
+### G. Atrybut – Konto bankowe  
+
+Atrybut **Konto bankowe** służy do wskazania numeru rachunku bankowego powiązanego z dokumentem.  
+
+
+#### Wybór konta bankowego  
+
+1. Kliknij ikonę **podwójnego kwadratu** obok pola.  
+2. Otworzy się okno wyboru kont bankowych przypisanych do wybranego partnera handlowego pobranych z SAP.  
+3. Wybierz konto z listy dostępnych rachunków.  
+4. Kliknij **Wybierz**.  
+
+**Wynik:**  
+Pole **Konto bankowe** zostanie uzupełnione wybranym numerem rachunku.
+
+---
+#### Biała lista
+
+1. Kliknij ikonę **dokumentu z lupką**, aby zweryfikować, czy numer rachunku bankowego znajduje się na **białej liście podatników VAT**.   
+
+---
+
+#### Brak konta na liście  
+
+Jeżeli wymagane konto nie znajduje się na liście:
+
+- sprawdź, czy wybrano poprawnego partnera handlowego,
+- upewnij się, że konto zostało dodane w systemie SAP,
+
+---
+
 ## Przykład: klasa **Zamówienie zakupu**
 
 Dla dokumentów klasy **Zamówienie zakupu** zakładka **Atrybuty** zawiera pola służące do przygotowania dokumentu. 

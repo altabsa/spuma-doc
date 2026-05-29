@@ -63,4 +63,12 @@ Umożliwia zmianę miejsca przechowywania dokumentu w strukturze repozytorium.
 
 ---
 
+### **Usuń**
+
+Opcja **Usuń** nie usuwa dokumentu trwale z systemu.  
+
+Po użyciu tej funkcji dokument zostaje przeniesiony do **Kosza**.
+
+---
+
 Repozytorium jest więc miejscem, gdzie **znajdują się wszystkie potrzebne dokumenty** – gotowe do wglądu, analizy czy późniejszego wykorzystania.

@@ -2,7 +2,7 @@
 sidebar_position: 14
 id: Alarmy
 title: Alarmy
-hide_table_of_contents: true
+sidebar: false
 ---
 
 # Alarmy

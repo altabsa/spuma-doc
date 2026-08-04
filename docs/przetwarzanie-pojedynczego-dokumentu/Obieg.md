@@ -201,3 +201,44 @@ Jeżeli dokument nie ma odpowiadającej awizacji, możesz dodać go do puli niep
 3. Dokument zostanie zapisany w [raporcie dokumentów nieprzypisanych](../przetwarzanie-pojedynczego-dokumentu/Obieg.md#dodanie-do-nieprzypisanych). Tam użytkownicy mogą później utworzyć nową awizację i powiązać ją z dokumentem.
 ---
 
+## Blokada autoryzacji
+
+W przypadku dokumentów kierowanych do **grupy użytkowników** każda osoba z tej grupy może zarezerwować dokument do obsługi. Dzięki temu dokument zarezerwowany przez jednego użytkownika nie jest prezentowany pozostałym osobom jako dostępny do zatwierdzenia.
+
+Przed przeglądem i zatwierdzeniem dokumentu możesz zablokować jego autoryzację.
+
+### Włączenie blokady autoryzacji
+
+1. Kliknij **Menu**.
+2. Wybierz **Blokada autoryzacji**.
+
+   ![Blokada autoryzacji](/img/blokada.png)
+
+3. Po wybraniu opcji pojawi się komunikat informujący o wstępnym zablokowaniu dokumentu. Kliknij **OK**.
+
+   ![Komunikat blokady autoryzacji](/img/blokada1.png)
+
+4. Kliknij przycisk **Zapisz**.
+
+5. Po zapisaniu przy pozycji **Blokada autoryzacji** pojawi się znacznik ✔, informujący o aktywnej blokadzie.
+
+   ![Aktywna blokada autoryzacji](/img/blokada2.png)
+
+Po zapisaniu dokument:
+- znika z sekcji **Oczekujące** u pozostałych osób należących do tej samej grupy,
+- pozostaje dostępny dla użytkownika, który go zarezerwował,
+- nie zostaje jeszcze zatwierdzony. Blokada służy wyłącznie do zarezerwowania dokumentu do obsługi.
+
+### Zwolnienie blokady
+
+Aby udostępnić dokument ponownie pozostałym członkom grupy:
+
+1. Kliknij **Menu**.
+2. Ponownie wybierz **Blokada autoryzacji**.
+3. Potwierdź komunikat.
+4. Kliknij **Zapisz**.
+
+Po zapisaniu blokada zostanie zdjęta, a dokument ponownie pojawi się w sekcji **Oczekujące** u pozostałych użytkowników uprawnionych do jego zatwierdzenia.
+
+---
+

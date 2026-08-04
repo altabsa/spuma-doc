@@ -2,6 +2,7 @@
 sidebar_position: 14
 id: Alarmy
 title: Alarmy
+sidebar: false
 ---
 
 # Alarmy

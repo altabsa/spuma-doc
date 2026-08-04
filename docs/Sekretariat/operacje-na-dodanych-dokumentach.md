@@ -9,7 +9,7 @@ title: Operacje na dodanych dokumentach
 W module **Sekretariat** po zaznaczeniu dokumentów dostępne są różne operacje umożliwiające ich przetwarzanie.  
 Aby wykonać operację, zaznacz dokument przy pomocy **checkboxa** po lewej stronie listy, a następnie wybierz odpowiednią akcję z **menu operacji** na pasku narzędzi.
 
-![Operacje na dodanych dokumentach](/img/operacje_na_dok.png)
+![Operacje na dodanych dokumentach](/img/operacje_na_dok_7_7.png)
    
 
 ---

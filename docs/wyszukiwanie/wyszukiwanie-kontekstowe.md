@@ -48,7 +48,7 @@ Aby wyszukać dokument po identyfikatorze:
 2. Wpisz **unikatowy identyfikator** dokumentu (wyłącznie wartość liczbową).
 3. Naciśnij **Enter** lub kliknij ikonę **Wyszukaj**.
 
-Jeżeli w polu wyszukiwania zostanie wpisana wyłącznie wartość liczbowa, system automatycznie wyszuka dokument o podanym identyfikatorze w aktualnie wyświetlanej liście dokumentów..
+Jeżeli w polu wyszukiwania zostanie wpisana wyłącznie wartość liczbowa, system automatycznie wyszuka dokument o podanym identyfikatorze w aktualnie wyświetlanej liście dokumentów.
 
 ---
 

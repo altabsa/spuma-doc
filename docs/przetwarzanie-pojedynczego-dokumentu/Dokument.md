@@ -24,7 +24,8 @@ Okno dokumentu zostało podzielone na następujące obszary:
 - [**Linie**](docs/przetwarzanie-pojedynczego-dokumentu/Linie.md) 
 - [**OCR**](docs/przetwarzanie-pojedynczego-dokumentu/OCR.md)  
 - [**Załączniki**](docs/przetwarzanie-pojedynczego-dokumentu/Zalaczniki.md)  
+- [**Dokumenty zależne**](docs/przetwarzanie-pojedynczego-dokumentu/Dokument-zalezne.md)
 
 Panel ten jest także rozszerzony o **menu operacji** oraz dodatkowe przyciski.  
 
-![Podgląd dokumentu](/img/dokument_podglad.png)
+![Podgląd dokumentu](/img/dokument_podglad_7_7.png)

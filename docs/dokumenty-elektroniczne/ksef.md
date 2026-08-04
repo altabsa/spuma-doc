@@ -108,3 +108,22 @@ Po dodaniu faktury do sekretariatu pojawia się dodatkowa ikona.
 
 Dzięki temu możesz łatwo przejść z podglądu faktury w KSeF do jej wersji roboczej w SPUMA i uruchomić cały proces obiegu.
 
+---
+
+## Automatyczna obsługa dokumentów KSeF według NIP kontrahenta
+
+Istnieje możliwość skonfigurowania automatycznej obsługi dokumentów pobieranych z KSeF na podstawie numeru NIP kontrahenta.
+
+Administrator może zdefiniować sposób przetwarzania dokumentów dla wybranego kontrahenta, wskazując między innymi:
+
+- Kod PH,
+- Profil OCR,
+- Klasę dokumentu,
+- Grupowanie linii,
+- Automatyczne dodanie z KSeF,
+- Właściciela,
+- Schemat autoryzacji.
+
+Po pobraniu dokumentu z KSeF system odczytuje NIP kontrahenta i sprawdza, czy w konfiguracji administracyjnej istnieją odpowiednie ustawienia.
+
+Jeżeli konfiguracja zostanie odnaleziona, dokument jest przetwarzany zgodnie ze zdefiniowanymi parametrami i przekazywany do wskazanego obiegu dokumentów.

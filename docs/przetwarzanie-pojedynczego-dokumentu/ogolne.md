@@ -59,8 +59,13 @@ Po kliknięciu w link otworzy się okno z listą dokumentów zewnętrznych:
 
 Po otwarciu dokumentu sprawdzisz pełne szczegóły zapisane w SAP, np.:  
 - numer faktury, datę i termin,  
-- nabywcę, osobę odpowiedzialną, kwotę,  
+- nabywcę, osobę odpowiedzialną, kwotę,
+- saldo płatności – informację o kwocie pozostałej do rozliczenia,
 - dodatkowe uwagi,  
 - linie dokumentu (opis, ilość, ceny netto/brutto).  
 
-![Szczegóły dokumentu zewnętrznego](/img/ogolne3.png)  
+![Szczegóły dokumentu zewnętrznego](/img/ogolne3_7_7.png)  
+
+Pole **Saldo płatności** jest aktualizowane na podstawie danych z SAP. Po zarejestrowaniu płatności w SAP i odświeżeniu danych wyświetlana jest aktualna kwota pozostała do rozliczenia.
+
+![Szczegóły dokumentu zewnętrznego](/img/ogolne3_7_7.1.png) 

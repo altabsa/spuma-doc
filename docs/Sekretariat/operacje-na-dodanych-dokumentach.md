@@ -27,6 +27,16 @@ Dokument znika z listy w Sekretariacie i trafia do dalszego etapu przetwarzania.
 ### Usuń
 Trwale usuwa dokument z listy w Sekretariacie.
 
+### Usuń referencje z dziennika
+
+Usuwa powiązanie zaznaczonych dokumentów z wpisami w dzienniku korespondencji. 
+
+### Link do dokumentów
+
+Kopiuje linki do wszystkich zaznaczonych dokumentów do schowka.
+
+Po wykonaniu operacji możesz wkleić skopiowane linki, na przykład do wiadomości lub jako załączniki w innych dokumentach.
+
 ---
 
 ## Przetwarzanie pojedynczego dokumentu

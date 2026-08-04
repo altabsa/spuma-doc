@@ -147,9 +147,13 @@ Operacja nie jest jeszcze ostateczna. Aby ją zatwierdzić:
 2. Dopiero po zapisaniu decyzja zostaje trwale przypisana do dokumentu i widoczna w jego obiegu.
 
 Po zapisaniu:  
+1. **W przypadku zatwierdzenia:**
 - dokument znika z listy w sekcji **Oczekujące** u aktualnego użytkownika,  
 - pokazuje się tylko osobie, która jest **kolejnym uczestnikiem procesu zatwierdzania**,  
 - jeżeli proces autoryzacji dobiegł końca, dokument trafia do odpowiedniego folderu w **Repozytorium**.  
+2. **W przypadku odrzucenia:** 
+- dokument znika z listy w sekcji **Oczekujące** u aktualnego użytkownika, 
+- pojawia się na liście **Oczekujące** u osoby, która przekazała dokument do obiegu.
 
 ---
 

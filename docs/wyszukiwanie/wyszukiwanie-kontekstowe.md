@@ -31,8 +31,24 @@ Filtry otwierają się po kliknięciu ikony lejka. W zależności od kontekstu (
 - **Użytkownik**
 - **Status autoryzacji**
 - **Kontrahent**
+- **Metoda płatności**
+- **Waluta**
+- **Pozostałe** (Data płatności od i do, Wartość brutto od i do)
 
-![Filtr-kontekstowy](/img/filtr_kontekstowy.png)
+![Filtr-kontekstowy](/img/filtr_kontekstowy_7_7.png)
+
+---
+## Wyszukiwanie po identyfikatorze dokumentu
+
+Wyszukiwanie kontekstowe umożliwia również wyszukiwanie dokumentów po ich **unikatowym identyfikatorze (ID)**.
+
+Aby wyszukać dokument po identyfikatorze:
+
+1. Kliknij pole wyszukiwania.
+2. Wpisz **unikatowy identyfikator** dokumentu (wyłącznie wartość liczbową).
+3. Naciśnij **Enter** lub kliknij ikonę **Wyszukaj**.
+
+Jeżeli w polu wyszukiwania zostanie wpisana wyłącznie wartość liczbowa, system automatycznie wyszuka dokument o podanym identyfikatorze w aktualnie wyświetlanej liście dokumentów..
 
 ---
 

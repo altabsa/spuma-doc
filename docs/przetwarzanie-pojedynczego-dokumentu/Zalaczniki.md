@@ -27,14 +27,28 @@ Dostępne są dwie operacje:
 
 ## Podpinanie ze schowka  
 
-Aby dodać istniejący dokument jako załącznik:  
+### Podpinanie jednego dokumentu
+
+Aby dodać jeden istniejący dokument jako załącznik:  
 
 1. Otwórz dokument, który chcesz podłączyć.  
 2. W górnym menu wybierz opcję **Link do dokumentu** i skopiuj link.  
 3. Wejdź na dokument, do którego chcesz podłączyć plik.  
 4. Przejdź do zakładki **Załączniki**.  
 5. Kliknij przycisk **Podepnij ze schowka**.  
-6. Dokument zostanie dodany jako załącznik.  
+6. Dokument zostanie dodany jako załącznik.
+
+### Podpinanie wielu dokumentów
+
+Aby jednocześnie podpiąć kilka dokumentów jako załączniki:
+
+1. Przejdź do dowolnej listy dokumentów.
+2. Zaznacz dokumenty, które chcesz podłączyć.
+3. Z menu **Operacje** wybierz **Link do dokumentów**.
+4. Otwórz dokument, do którego chcesz dodać załączniki.
+5. Przejdź do zakładki **Załączniki**.
+6. Kliknij przycisk **Podepnij ze schowka**.
+7. Wszystkie skopiowane dokumenty zostaną dodane jako załączniki.
 
 ---
 

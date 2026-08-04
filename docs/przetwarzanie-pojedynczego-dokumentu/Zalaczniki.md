@@ -27,6 +27,8 @@ Dostępne są dwie operacje:
 
 ## Podpinanie ze schowka  
 
+Opcja **Podepnij ze schowka** umożliwia dodanie jednego lub wielu dokumentów jako załączników na podstawie skopiowanych linków.
+
 ### Podpinanie jednego dokumentu
 
 Aby dodać jeden istniejący dokument jako załącznik:  

@@ -186,6 +186,20 @@ Po ponownym otwarciu:
 
 ---
 
+### Zapisz jako szablon
+
+Opcja umożliwia zapisanie dokumentu jako szablonu, który można później wykorzystać podczas tworzenia nowych dokumentów.
+
+Aby zapisać dokument jako szablon:
+
+1. Kliknij **Zapisz jako szablon**.
+2. Wprowadź nazwę szablonu.
+3. Kliknij **OK**.
+
+Zapisany szablon będzie dostępny podczas korzystania z funkcji [**Utwórz dokument**](docs/Sekretariat/dodawanie-dokumentow.mdx#utwórz-dokument). Dzięki temu nie ma potrzeby ponownego importowania tego samego dokumentu.
+
+---
+
 ### Dziennik korespondencji
 
 Opcja pozwala sprawdzić, czy dokument został powiązany z wpisem w dzienniku korespondencji.  
@@ -236,5 +250,16 @@ W tabeli po prawej stronie znajdują się:
 
 - Kliknij **Podgląd sprzed zmian**, aby otworzyć dokument w wersji sprzed wprowadzonych modyfikacji.  
 - Kliknij **Zamknij**, aby wyjść z widoku historii zmian.  
+
+---
+
+### Usuń
+
+Opcja umożliwia usunięcie dokumentu z systemu.
+
+- Jeśli dokument znajduje się w **Sekretariacie**, zostaje trwale usunięty z listy dokumentów.
+- Jeśli dokument znajduje się poza **Sekretariatem**, zostaje przeniesiony do kosza.
+
+Dokument przeniesiony do kosza może zostać przywrócony przez administratora z poziomu panelu administracyjnego.
 
 ---

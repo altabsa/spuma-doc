@@ -33,11 +33,10 @@ W polach wprowadzamy m.in.:
 - Wpisz * i **kliknij Enter** - system automatycznie uzupełni bieżącą linię pozostałą kwotą do rozliczenia.
 - Możesz używać klawisza **TAB** zamiennie z **Enter** – system zadziała tak samo i przejdzie do kolejnego pola.
 :::
-
-- **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.
-- **Pozycja zamówienia** – numer pozycji bazowej dokumentu.
-
 <a id="pozycja-z-dokumentu-bazowego"></a>
+- **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.
+- **Pozycja zamówienia** – wpisz numer pozycji bazowej dokumentu. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać numery pozycji z dokumentu bazowego, jeśli został uzupełniony.  
+
 :::tip[Pozycja zamówienia]
 Jeżeli został wybrany **dokument bazowy**, możesz użyć pola **Pozycja zamówienia**, aby uzupełnić linię danymi z konkretnej pozycji tego dokumentu.
 

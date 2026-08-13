@@ -35,7 +35,7 @@ W polach wprowadzamy m.in.:
 :::
 
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.
-- **Pozycja zamówienia** – wpisz numer pozycji bazowej dokumentu. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać numery pozycji z dokumentu bazowego, jeśli został uzupełniony.  
+- **Pozycja zamówienia** – wpisz numer pozycji bazowej dokumentu. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać numery pozycji z dokumentu bazowego, jeśli został wcześniej uzupełniony.  
 
 :::tip[Pozycja zamówienia]
 Jeżeli został wybrany **dokument bazowy**, możesz użyć pola **Pozycja zamówienia**, aby uzupełnić linię danymi z konkretnej pozycji tego dokumentu.

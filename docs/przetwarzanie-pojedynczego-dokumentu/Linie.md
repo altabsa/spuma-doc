@@ -33,7 +33,7 @@ W polach wprowadzamy m.in.:
 - Wpisz * i **kliknij Enter** - system automatycznie uzupełni bieżącą linię pozostałą kwotą do rozliczenia.
 - Możesz używać klawisza **TAB** zamiennie z **Enter** – system zadziała tak samo i przejdzie do kolejnego pola.
 :::
-<a id="pozycja-z-dokumentu-bazowego"></a>
+
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.
 - **Pozycja zamówienia** – wpisz numer pozycji bazowej dokumentu. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać numery pozycji z dokumentu bazowego, jeśli został uzupełniony.  
 
@@ -54,7 +54,6 @@ Oprócz ręcznego wprowadzania, linie mogą być również uzupełnione w inny s
 - [**Wczytaj z pliku**](#wczytaj-z-pliku) – import linii z pliku (np. Excel).  
 - [**Kopiuj z dokumentu bazowego**](#kopiuj-z-dokumentu-bazowego) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  
 - [**Kopiuj do linii**](../przetwarzanie-pojedynczego-dokumentu/OCR.md) – kopiowanie danych z rozpoznanego OCR bezpośrednio do linii dokumentu.
-- [**Wybierz pozycję zamówienia**](#pozycja-z-dokumentu-bazowego) - Uzupełnia bieżącą linię danymi z wybranej pozycji dokumentu bazowego.
 
 ---
 

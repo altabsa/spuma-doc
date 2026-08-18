@@ -26,6 +26,17 @@ W polach wprowadzamy m.in.:
 - **Towar** – wpisz kod lub fragment nazwy. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać indeksy dostępne w SAP.  
 - **Kwota** – podaj wartość przypisaną do pozycji i wciśnij enter, żeby dodać.  
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.  
+- **Pozycja zamówienia** – wpisz numer pozycji bazowej dokumentu. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać numery pozycji z dokumentu bazowego, jeśli został wcześniej uzupełniony.  
+
+:::tip[Pozycja zamówienia]
+Jeżeli został wybrany **dokument bazowy**, możesz użyć pola **Pozycja zamówienia**, aby uzupełnić linię danymi z konkretnej pozycji tego dokumentu.
+
+1. Kliknij ikonę **podwójnego kwadratu**
+2. Wybierz pozycję z listy.
+3. Kliknij **Wybierz**.
+
+System automatycznie uzupełni dane bieżącej linii na podstawie wybranej pozycji dokumentu bazowego.
+:::
 
 ### Inne sposoby dodawania linii  
 
@@ -96,7 +107,7 @@ Dostępne opcje to:
 
 - **Zaproponuj** – przykładowy własny przycisk (wyzwalacz). Mogą się tu pojawiać również inne dodatkowo zdefiniowane przyciski.   
 
-⚠️ Opcje wyszarzone są w danym momencie niedostępne.  
+Opcje wyszarzone są w danym momencie niedostępne.  
 
 ---
 

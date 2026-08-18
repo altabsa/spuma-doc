@@ -35,6 +35,17 @@ W polach wprowadzamy m.in.:
 :::
 
 - **Projekt / Centrum kosztów** / **...** – w zależności od konfiguracji klasy dokumentu.  
+- **Pozycja zamówienia** – wpisz numer pozycji bazowej dokumentu. Kliknięcie ikony z podwójnym kwadracikiem pozwala wyszukać numery pozycji z dokumentu bazowego, jeśli został wcześniej uzupełniony.  
+
+:::tip[Pozycja zamówienia]
+Jeżeli został wybrany **dokument bazowy**, możesz użyć pola **Pozycja zamówienia**, aby uzupełnić linię danymi z konkretnej pozycji tego dokumentu.
+
+1. Kliknij ikonę **podwójnego kwadratu**
+2. Wybierz pozycję z listy.
+3. Kliknij **Wybierz**.
+
+System automatycznie uzupełni dane bieżącej linii na podstawie wybranej pozycji dokumentu bazowego.
+:::
 
 ### Inne sposoby dodawania linii  
 
@@ -42,7 +53,7 @@ Oprócz ręcznego wprowadzania, linie mogą być również uzupełnione w inny s
 
 - [**Wczytaj z pliku**](#wczytaj-z-pliku) – import linii z pliku (np. Excel).  
 - [**Kopiuj z dokumentu bazowego**](#kopiuj-z-dokumentu-bazowego) – przeniesienie linii z powiązanego dokumentu (np. zamówienia zakupu).  
-- [**Kopiuj do linii**](../przetwarzanie-pojedynczego-dokumentu/OCR.md) – kopiowanie danych z rozpoznanego OCR bezpośrednio do linii dokumentu.  
+- [**Kopiuj do linii**](../przetwarzanie-pojedynczego-dokumentu/OCR.md) – kopiowanie danych z rozpoznanego OCR bezpośrednio do linii dokumentu.
 
 ---
 

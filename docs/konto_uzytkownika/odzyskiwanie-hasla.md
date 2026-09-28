@@ -58,8 +58,14 @@ Jeżeli użytkownik zapomni hasła, może ustawić nowe hasło na dwa sposoby:
 :::warning
 Wiadomość z linkiem do resetu hasła jest wysyłana wyłącznie na adres e-mail przypisany do konta użytkownika.
 
-Jeżeli podany adres e-mail nie jest powiązany z żadnym kontem, wiadomość nie zostanie wysłana.
+Jeżeli podana nazwa użytkownika lub adres e-mail nie są powiązane z żadnym kontem, system wyświetli komunikat **Użytkownik nie istnieje w systemie**.
+
+![Użytkownik nie istnieje w systemie](/img/przypomnij_haslo6.png)
 :::
+
+Jeżeli wiadomość z linkiem do resetu hasła została już wcześniej wysłana, system wyświetli komunikat **Wiadomość została już wysłana**.
+
+![Wiadomość została już wysłana](/img/przypomnij_haslo7.png)
 
 ---
 

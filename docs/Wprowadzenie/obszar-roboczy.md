@@ -35,6 +35,7 @@ Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające id
 - **Data dokumentu**,  
 - [**Status**](docs/przetwarzanie-pojedynczego-dokumentu/Status_dokumentu.md),  
 - Dla dokumentów klasy **Faktura** w kolumnie listy pojawia się dodatkowo **Partner handlowy (PH)** (np. FVZ_20231002001_28).
+- ![Pojawiły się nowe dane](/img/nowe-dane.png) – jeżeli podczas pracy pojawią się nowe lub zmienione dane, przy liście dokumentów wyświetlana jest ikona ostrzeżenia. Treść komunikatu: **„Pojawiły się nowe dane! Przeładuj listę dokumentów.”**
 
 ![Lista-dokumentow](/img/lista_dok2_7_3.png)
 

@@ -33,9 +33,27 @@ Filtry otwierają się po kliknięciu ikony lejka. W zależności od kontekstu (
 - **Kontrahent**
 - **Metoda płatności**
 - **Waluta**
-- **Pozostałe** (Data płatności od i do, Wartość brutto od i do)
+- **Pozostałe**:
+  - `Data płatności od`,
+  - `Data płatności do`,
+  - `Wartość brutto od`,
+  - `Wartość brutto do`.
 
 ![Filtr-kontekstowy](/img/filtr_kontekstowy_7_7.png)
+
+Na liście dokumentów **Oczekujących** w sekcji **Pozostałe** dostępne są dodatkowo filtry:
+
+- **Tylko pilne** — wyświetla tylko dokumenty oznaczone jako pilne,
+- **Tylko zastępstwa** — wyświetla tylko dokumenty obsługiwane w ramach zastępstwa,
+- **Tylko zablokowane** — wyświetla tylko dokumenty zablokowane.
+
+Dodatkowe filtry są dostępne wyłącznie na liście dokumentów **Oczekujących** i tylko wtedy, gdy na liście znajdują się dokumenty odpowiadające danemu statusowi.
+
+<img
+  src={require('@site/static/img/filtr_kontekstowy_pozostale_7.8.png').default}
+  alt="Filtr-kontekstowy-pozostale"
+  style={{ width: '35%', height: 'auto' }}
+/>
 
 ---
 ## Wyszukiwanie po identyfikatorze dokumentu
@@ -51,6 +69,25 @@ Aby wyszukać dokument po identyfikatorze:
 Jeżeli w polu wyszukiwania zostanie wpisana wyłącznie wartość liczbowa, system automatycznie wyszuka dokument o podanym identyfikatorze w aktualnie wyświetlanej liście dokumentów.
 
 ---
+
+## Wyszukiwanie po nazwie klienta
+
+W module **Repozytorium** pole wyszukiwania umożliwia również wyszukiwanie rekordów po nazwie klienta lub powiązanej firmy.
+
+Można wpisać:
+
+- pełną nazwę klienta,
+- fragment nazwy klienta,
+- pełny kod klienta,
+- fragment kodu klienta.
+![Wyszukiwanie pełnej nazwy klienta](/img/wysz_kontekstowe1.png)
+
+Wyszukiwanie nie rozróżnia wielkości liter.
+
+Pole wyszukiwania może być używane razem z istniejącymi filtrami w celu dalszego zawężania wyników.
+
+---
+
 
 ## Wyniki kontekstowe
 

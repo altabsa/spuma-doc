@@ -19,7 +19,7 @@ Dzięki niemu możesz komunikować się z innymi użytkownikami, a także wysył
 
 3. Otworzy się panel z listą prowadzonych rozmów.  
 
-![Okno wiadomości](/img/wiadomosc2.png)  
+![Okno wiadomości](/img/wiadomosc2_7.8.png)  
 
 - Jeśli klikniesz istniejący czat, zobaczysz całą jego historię i możesz kontynuować rozmowę.  
 - Nową wiadomość do uczestników rozmowy wpisz w polu **Wpisz wiadomość** i kliknij ikonę **Wyślij**.  
@@ -63,7 +63,7 @@ Wpisz frazę w polu wyszukiwania, aby przeszukać historię czatu.
 
 - **Podświetlenie wyniku** – pierwsza znaleziona wiadomość zostaje **wyszarzona** (zaznaczona), aby łatwo ją zlokalizować.
 
-![Wynik wyszukiwania – wiadomość wyszarzona](/img/wiadomosc10.png)
+![Wynik wyszukiwania – wiadomość wyszarzona](/img/wiadomosc10_7.8.png)
   
 - **Następny wynik** – kliknij ikonę lupki, by przejść do **kolejnej** wiadomości zawierającej tę frazę.  
 - **Brak wyników** – gdy nie znaleziono dopasowań, pojawia się komunikat *„Brak wyników dla podanej frazy”*.  
@@ -80,6 +80,6 @@ Wpisz frazę w polu wyszukiwania, aby przeszukać historię czatu.
 
 - W liście rozmów nowe wiadomości są oznaczone kolorem czerwonym i ikoną z ilością nowych wpisów.  
 
-![Lista wiadomości z powiadomieniami](/img/wiadomosc9.png)  
+![Lista wiadomości z powiadomieniami](/img/wiadomosc9_7.8.png)  
 
 ---

@@ -22,6 +22,18 @@ To tutaj wybierasz schemat, wysyłasz dokument w obieg, a także możesz go zatw
 
    ![Wyślij w obieg](/img/obieg.png)  
 
+Jeżeli dokument posiada załączniki, które:
+- należą do klasy skonfigurowanej do automatycznego wysyłania w obieg,
+- w momencie wysyłki dokumentu głównego znajdują się jeszcze w **Sekretariacie**,
+
+system wyświetli komunikat informujący, że załączniki również zostaną wysłane w obieg.
+
+![Komunikat o wysyłaniu załączników](/img/zalacznik_obieg.png)   
+
+Po potwierdzeniu:
+- dokument główny zostanie wysłany zgodnie z wybranym schematem,
+- załączniki zostaną automatycznie wysłane w obieg zgodnie z domyślną autoryzacją skonfigurowaną dla ich klasy.
+
 ---
 
 ## Wybór schematu  

@@ -190,6 +190,10 @@ Po ponownym otwarciu:
 
 Opcja umożliwia zapisanie dokumentu jako szablonu, który można później wykorzystać podczas tworzenia nowych dokumentów.
 
+:::note
+Opcja **Zapisz jako szablon** jest dostępna wyłącznie dla użytkowników z rolą administratora.
+:::
+
 Aby zapisać dokument jako szablon:
 
 1. Kliknij **Zapisz jako szablon**.

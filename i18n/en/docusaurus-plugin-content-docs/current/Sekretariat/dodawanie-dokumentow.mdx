@@ -1,0 +1,86 @@
+---
+sidebar_position: 2
+id: dodawanie-dokumentow
+title: Adding Documents
+---
+
+# Adding Documents
+
+Click the ![New](/img/nowy_en.png) button on the toolbar to open a dedicated window for uploading files for processing or creating a new document.
+
+**Select files**
+
+![New document](/img/nowy_dokument_en.png)
+
+**Create document**
+
+![Create document](/img/nowy_dokument2_en.png)
+
+**The complete process step by step – from adding a document, through completing its data, to posting it in SAP – is described in the [Example Processes](../przyklady-procesow/przyklady-procesow.md) section.**
+
+## Select Files
+
+The process of adding documents to the system consists of several simple steps:
+
+**1. Select files from your computer**
+
+You can do this in two ways:
+
+- Click the **+** icon and select documents from a folder,
+- Drag documents from a folder directly into the application window.
+
+![Uploading files](/img/przesylanie_dok.png)
+
+**2. Select whether the documents should be processed by OCR**
+
+The OCR option is available on the right side – you can <span style={{ color: 'grey' }}>disable</span> it or leave it <span style={{ color: 'blue' }}>enabled</span>.
+
+![OCR and files](/img/wybor_plikow_ocr.png)
+
+The OCR mechanism works according to the following steps:
+
+a. The document is initially recognized using **Tesseract OCR**.  
+b. The initial mechanism detects regions and words in the document and searches for the **seller's Tax ID**.  
+c. SPUMA checks whether the seller has a default OCR mechanism assigned:
+
+- **Yes** – the document is automatically processed again using that mechanism,
+- **No** – the document remains initially recognized.
+
+d. The document can be processed again using any selected OCR mechanism and that mechanism can be set as the default.
+
+:::tip[Assignment Preview]
+The **Seller ↔ OCR Mechanism** assignment can be viewed in the administration application.  
+The administrator can **view**, **change**, and **set** default OCR mechanisms for individual sellers.
+:::
+
+**3. Click the OK button**
+
+The documents are uploaded to the system and processing begins.
+
+![Uploading](/img/ladowanie_dok_en.png)
+
+**4. Documents are added to the Secretary list**
+
+After processing, the documents appear in the main list available in the **Secretary** module.
+
+![Document list](/img/sekretariat_lista_en.png)
+
+## Create Document
+
+The **Create document** option is used to create documents without uploading files. For example, it can be used to prepare a purchase order without logging in to SAP.
+
+The process consists of:
+
+**1. Select a document template**
+
+Select the appropriate template from the list to create the document.
+
+![Select template](/img/utworz_dok_en.png)
+
+**2. Click the OK button**
+
+The document is saved in the system as a new record and appears in the main list available in the **Secretary** module.
+
+**3. Complete the data and send to SAP**
+
+At the next stage, open the created document, complete the missing information, and then send it to SAP. Detailed instructions are available in the [**Process for an Empty Document**](../przyklady-procesow/przyklad-dokument-pusty.md) section.

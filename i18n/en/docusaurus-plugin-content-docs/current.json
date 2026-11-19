@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "7.8",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Wprowadzenie": {
+    "message": "Introduction",
+    "description": "The label for category 'Wprowadzenie' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Mechanizm wyszukiwania": {
+    "message": "Search Mechanism",
+    "description": "The label for category 'Mechanizm wyszukiwania' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Konto użytkownika": {
+    "message": "User Account",
+    "description": "The label for category 'Konto użytkownika' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Sekretariat": {
+    "message": "Secretary",
+    "description": "The label for category 'Sekretariat' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Moje": {
+    "message": "My",
+    "description": "The label for category 'Moje' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Dokumenty elektroniczne": {
+    "message": "Electronic Documents",
+    "description": "The label for category 'Dokumenty elektroniczne' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Repozytorium": {
+    "message": "Repository",
+    "description": "The label for category 'Repozytorium' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Dokument": {
+    "message": "Document",
+    "description": "The label for category 'Dokument' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Przykładowe procesy": {
+    "message": "Example Processes",
+    "description": "The label for category 'Przykładowe procesy' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Raporty": {
+    "message": "Reports",
+    "description": "The label for category 'Raporty' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Najczęściej zadawane pytania": {
+    "message": "Frequently Asked Questions",
+    "description": "The label for category 'Najczęściej zadawane pytania' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Najczęściej zadawane pytania.link.generated-index.description": {
+    "message": "Here you will find solutions to the most frequently reported problems.",
+    "description": "The generated-index page description for category 'Najczęściej zadawane pytania' in sidebar 'tutorialSidebar'"
+  }
+}

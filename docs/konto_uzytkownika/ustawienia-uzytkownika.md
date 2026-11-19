@@ -12,7 +12,7 @@ Aby je otworzyć:
 1. Kliknij swoje inicjały w prawym górnym rogu.  
 2. Wybierz opcję **Ustawienia**.  
 
-![Okno ustawień](/img/ustawienia1.png)  
+![Okno ustawień](/img/ustawienia1.7.8.png)  
 
 ---
 
@@ -53,7 +53,8 @@ Zaznaczenie opcji w tym obszarze określa, jakie dokumenty będą wysyłane na T
   - **Wymagana autoryzacja**,  
   - **Zaakceptowano dokument**,  
   - **Odrzucono**,  
-  - **Zatwierdzono przez wszystkich**.  
+  - **Zatwierdzono przez wszystkich**,
+  - **Raport oczekujących**.  
 
 ![Powiadomienia mailowe](/img/ustawienia2.png)  
 
@@ -79,6 +80,15 @@ Administrator może w każdej chwili przypisać zastępcę z poziomu panelu admi
 
 - **Język** – wybierz język interfejsu aplikacji.  
 - **Styl kompaktowy** – zaznacz, jeśli chcesz korzystać z widoku z mniejszymi odstępami (więcej treści na ekranie).  
+
+---
+
+## Widoczność awizacji 
+
+Każdy użytkownik może dostosować widoczność awizacji:
+
+- **Wszystkie** - wybierz jeśli chcesz widzieć wszystkie dostepne awizacje,
+- **Tylko pasujące** - wybierz jeśli chcesz ograniczyć widoczność awizacji tylko do pasujących. 
 
 ---
 

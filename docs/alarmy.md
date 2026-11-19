@@ -7,7 +7,7 @@ sidebar: false
 
 # Alarmy
 
-W sekcji **Alarmy** widoczne są spersonalizowane alarmy oraz alarm systemowy **Odrzucone**.
+W sekcji **Alarmy** widoczne są spersonalizowane alarmy.
 
 
 ## Odrzucone
@@ -15,7 +15,7 @@ W sekcji **Alarmy** widoczne są spersonalizowane alarmy oraz alarm systemowy **
 Jest to alarm systemowy pokazujący odrzucone dokumenty, których jestem właścicielem.
 
 1. Kliknij ikonę **dzwonka (alarmu)** w prawym górnym rogu, aby otworzyć panel alarmów.  
-2. Rozwiń pozycję **Odrzucone**, aby zobaczyć dokumenty odrzucone, których jesteś właścicielem.  
+2. Rozwiń pozycję, aby zobaczyć dokumenty, których jesteś właścicielem.  
 3. Kliknięcie w wybrany dokument powoduje **otwarcie go w nowej zakładce**, co umożliwia szybki podgląd.  
 4. Przy każdym powiadomieniu dostępna jest ikona **x**, którą możesz użyć, aby usunąć pojedyncze powiadomienie.  
 5. Aby usunąć wszystkie powiadomienia jednocześnie, kliknij przycisk **Wyczyść**.  

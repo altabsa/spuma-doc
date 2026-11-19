@@ -210,7 +210,7 @@ Jeżeli dokument nie ma odpowiadającej awizacji, możesz dodać go do puli niep
 
 1. Kliknij **Menu**.
 2. Kliknij **Dodaj do nieprzypisanych**.  
-3. Dokument zostanie zapisany w [raporcie dokumentów nieprzypisanych](../przetwarzanie-pojedynczego-dokumentu/Obieg.md#dodanie-do-nieprzypisanych). Tam użytkownicy mogą później utworzyć nową awizację i powiązać ją z dokumentem.
+3. Dokument zostanie zapisany w [raporcie dokumentów nieprzypisanych](../Raporty/Nieprzypisane-dokumenty.md). Tam użytkownicy mogą później utworzyć nową awizację i powiązać ją z dokumentem.
 ---
 
 ## Blokada autoryzacji

@@ -39,17 +39,17 @@ Jeżeli użytkownik zapomni hasła, może ustawić nowe hasło na dwa sposoby:
 ## Reset hasła z wykorzystaniem adresu e-mail przypisanego do konta - bez podpowiedzi użytkownika
 
 1. Na ekranie logowania kliknij **Przypomnij hasło**.
-2. W polu `Użytkownik / adres email` wpisz:
-   - nazwę użytkownika lub
-   - adres e-mail przypisany do konta.
-3. Kliknij **Wyślij email**.
 
 ![Odzyskiwanie hasła](/img/przypomnij_haslo3.png)
 
-4. System wyświetli komunikat o wysłaniu wiadomości z linkiem do resetu hasła.
+2. W polu `Użytkownik / adres email` wpisz:
+   - nazwę użytkownika lub
+   - adres e-mail przypisany do konta.
 
 ![Potwierdzenie wysłania wiadomości](/img/przypomnij_haslo4.png)
 
+3. Kliknij **Wyślij email**.
+4. System wyświetli komunikat o wysłaniu wiadomości z linkiem do resetu hasła.
 5. Otwórz wiadomość wysłaną na adres e-mail przypisany do konta.
 6. Kliknij link do resetu hasła.
 7. Ustaw nowe hasło.

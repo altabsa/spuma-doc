@@ -104,7 +104,7 @@ Po dodaniu wpisu możesz:
 
 ## Filtrowanie wpisów  
 Awizacja pozwala wylistować wpisy:
-- bez przypiętego dokument
+- bez przypiętego dokumentu
 - z przypiętym dokumentem.
 Aby zmienić widok listy:
 1.	Zaznacz lub odznacz checkbox Pokaż wszystkie. 

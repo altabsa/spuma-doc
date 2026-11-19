@@ -33,7 +33,7 @@ Każdy wpis w liście dokumentów zawiera podstawowe informacje ułatwiające id
 - **Nazwa dokumentu** – pełna nazwa nadana w zakładce *Ogólne* wraz z unikatowym identyfikatorem w nawiasie,  
 - **klasa dokumentu** – np. *Faktura kosztowa*, *Zamówienie zakupu*, *Inne dokumenty*,  
 - **Data dokumentu**,  
-- [**Status**](docs/przetwarzanie-pojedynczego-dokumentu/Status_dokumentu.md),  
+- [**Status**](i18n/en/docusaurus-plugin-content-docs/version-7.7/przetwarzanie-pojedynczego-dokumentu/Status_dokumentu.md),  
 - Dla dokumentów klasy **Faktura** w kolumnie listy pojawia się dodatkowo **Partner handlowy (PH)** (np. FVZ_20231002001_28).
 
 ![Lista-dokumentow](/img/lista_dok2_7_3.png)

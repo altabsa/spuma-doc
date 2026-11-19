@@ -32,7 +32,7 @@ Dostępne są m.in. powiadomienia:
 
 Szczegółowy opis znajduje się w dokumentacji:
 
-[**Ustawienia użytkownika → Powiadomienia mailowe**](https://altabsa.github.io/spuma-doc/docs/konto_uzytkownika/ustawienia-uzytkownika#powiadomienia-mailowe)
+[**Ustawienia użytkownika → Powiadomienia mailowe**](https://altabsa.github.io/spuma-doc/i18n/en/docusaurus-plugin-content-docs/version-7.7/konto_uzytkownika/ustawienia-uzytkownika#powiadomienia-mailowe)
 
 
 ---

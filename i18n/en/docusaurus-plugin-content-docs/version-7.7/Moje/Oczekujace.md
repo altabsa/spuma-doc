@@ -40,5 +40,5 @@ Dzięki temu proces zatwierdzania przebiega płynnie i bez konieczności ręczne
 
 Oprócz możliwości zaznaczenia wielu dokumentów i ich zbiorczego zatwierdzenia, masz również możliwość **zatwierdzenia pojedynczego dokumentu bezpośrednio z jego widoku**.  
 
-Pełny opis kroków związanych z tą operacją znajdziesz w sekcji [obiegu](docs/przetwarzanie-pojedynczego-dokumentu/Obieg.md) .
+Pełny opis kroków związanych z tą operacją znajdziesz w sekcji [obiegu](i18n/en/docusaurus-plugin-content-docs/version-7.7/przetwarzanie-pojedynczego-dokumentu/Obieg.md) .
 

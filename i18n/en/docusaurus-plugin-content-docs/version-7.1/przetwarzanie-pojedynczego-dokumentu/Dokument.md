@@ -13,17 +13,17 @@ Okno dokumentu zostało podzielone na następujące obszary:
 
 **1. Podgląd dokumentu** – główna część ekranu, w której wyświetla się zawartość dokumentu (np. skan faktury, zamówienie).  
 
-**2. [Pasek narzędzi dokumentu](docs/przetwarzanie-pojedynczego-dokumentu/pasek-narzedzi-dokumentu.md)** – zestaw narzędzi służących do obsługi podglądu dokumentu oraz menu głównych operacji.  
+**2. [Pasek narzędzi dokumentu](i18n/en/docusaurus-plugin-content-docs/version-7.1/przetwarzanie-pojedynczego-dokumentu/pasek-narzedzi-dokumentu.md)** – zestaw narzędzi służących do obsługi podglądu dokumentu oraz menu głównych operacji.  
 
 **3. Panel boczny** – zawiera szczegółowe informacje o dokumencie podzielone na dwie sekcje:  
-- [**Ogólne**](docs/przetwarzanie-pojedynczego-dokumentu/ogolne.md) – podstawowe dane dokumentu (typ, numer, daty, właściciel, katalog),  
-- [**Atrybuty**](docs/przetwarzanie-pojedynczego-dokumentu/Atrybuty.md) – dodatkowe dane dokumentu (partner handlowy, daty, wartości).
+- [**Ogólne**](i18n/en/docusaurus-plugin-content-docs/version-7.1/przetwarzanie-pojedynczego-dokumentu/ogolne.md) – podstawowe dane dokumentu (typ, numer, daty, właściciel, katalog),  
+- [**Atrybuty**](i18n/en/docusaurus-plugin-content-docs/version-7.1/przetwarzanie-pojedynczego-dokumentu/Atrybuty.md) – dodatkowe dane dokumentu (partner handlowy, daty, wartości).
 
 **4. Panel zakładek i funkcji** – zestaw zakładek umożliwiających pracę z dokumentem:  
-- [**Obieg**](docs/przetwarzanie-pojedynczego-dokumentu/Obieg.md)  
-- [**Linie**](docs/przetwarzanie-pojedynczego-dokumentu/Linie.md) 
-- [**OCR**](docs/przetwarzanie-pojedynczego-dokumentu/OCR.md)  
-- [**Załączniki**](docs/przetwarzanie-pojedynczego-dokumentu/Zalaczniki.md)  
+- [**Obieg**](i18n/en/docusaurus-plugin-content-docs/version-7.1/przetwarzanie-pojedynczego-dokumentu/Obieg.md)  
+- [**Linie**](i18n/en/docusaurus-plugin-content-docs/version-7.1/przetwarzanie-pojedynczego-dokumentu/Linie.md) 
+- [**OCR**](i18n/en/docusaurus-plugin-content-docs/version-7.1/przetwarzanie-pojedynczego-dokumentu/OCR.md)  
+- [**Załączniki**](i18n/en/docusaurus-plugin-content-docs/version-7.1/przetwarzanie-pojedynczego-dokumentu/Zalaczniki.md)  
 
 Panel ten jest także rozszerzony o **menu operacji** oraz dodatkowe przyciski.  
 

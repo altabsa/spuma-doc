@@ -14,7 +14,7 @@ Release a version 1.0 of your project:
 npm run docusaurus docs:version 1.0
 ```
 
-The `docs` folder is copied into `versioned_versioned_docs/version-7.2/version-1.0` and `versions.json` is created.
+The `docs` folder is copied into `versioned_docs/version-7.2/version-1.0` and `versions.json` is created.
 
 Your docs now have 2 versions:
 
@@ -51,5 +51,5 @@ The docs version dropdown appears in your navbar:
 
 It is possible to edit versioned docs in their respective folder:
 
-- `versioned_versioned_docs/version-7.2/version-1.0/hello.md` updates `http://localhost:3000/versioned_docs/version-7.2/hello`
+- `versioned_docs/version-7.2/version-1.0/hello.md` updates `http://localhost:3000/versioned_docs/version-7.2/hello`
 - `versioned_docs/version-7.2/hello.md` updates `http://localhost:3000/versioned_docs/version-7.2/next/hello`

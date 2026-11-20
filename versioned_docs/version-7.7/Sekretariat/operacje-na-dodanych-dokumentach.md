@@ -40,4 +40,4 @@ Po wykonaniu operacji możesz wkleić skopiowane linki, na przykład do wiadomo�
 
 ## Przetwarzanie pojedynczego dokumentu
 Oprócz wykonywania operacji zbiorczych możesz rozpocząć przetwarzanie dokumentu indywidualnie.  
-Instrukcja krok po kroku znajduje się w sekcji [**Przetwarzanie pojedynczego dokumentu**](docs/przetwarzanie-pojedynczego-dokumentu/Dokument.md).
+Instrukcja krok po kroku znajduje się w sekcji [**Przetwarzanie pojedynczego dokumentu**](versioned_docs/version-7.7/przetwarzanie-pojedynczego-dokumentu/Dokument.md).

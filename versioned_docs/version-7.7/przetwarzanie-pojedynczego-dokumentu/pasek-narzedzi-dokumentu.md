@@ -200,7 +200,7 @@ Aby zapisać dokument jako szablon:
 2. Wprowadź nazwę szablonu.
 3. Kliknij **OK**.
 
-Zapisany szablon będzie dostępny podczas korzystania z funkcji [**Utwórz dokument**](docs/Sekretariat/dodawanie-dokumentow.mdx#utwórz-dokument). Dzięki temu nie ma potrzeby ponownego importowania tego samego dokumentu.
+Zapisany szablon będzie dostępny podczas korzystania z funkcji [**Utwórz dokument**](versioned_docs/version-7.7/Sekretariat/dodawanie-dokumentow.mdx#utwórz-dokument). Dzięki temu nie ma potrzeby ponownego importowania tego samego dokumentu.
 
 ---
 

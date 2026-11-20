@@ -18,7 +18,7 @@ W obszarze roboczym dokumenty i foldery są przedstawione w formie **struktur ka
 
 Repozytorium nie służy wyłącznie do przechowywania dokumentów – użytkownik może z niego aktywnie korzystać, np. wtedy, gdy potrzebny jest szybki dostęp do wcześniejszych plików.
 
-Aby sprawniej odnaleźć dokumenty, skorzystaj z dostępnych [**mechanizmów wyszukiwania**](docs/wyszukiwanie/wyszukiwanie.md).
+Aby sprawniej odnaleźć dokumenty, skorzystaj z dostępnych [**mechanizmów wyszukiwania**](versioned_docs/version-7.6/wyszukiwanie/wyszukiwanie.md).
 
 ---
 ## Poruszanie się po repozytorium
